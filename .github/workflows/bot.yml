@@ -2,7 +2,6 @@ name: BF-JOB Bot
 
 on:
   schedule:
-    # Chaque 30 minutes
     - cron: '*/30 * * * *'
   workflow_dispatch:
 
@@ -16,25 +15,19 @@ jobs:
         with:
           python-version: '3.11'
       
-      # Installation du binaire tesseract-ocr du système
+      # Étape 1 : Installer UNIQUEMENT les dépendances système
       - name: Install system dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y tesseract-ocr
-      - name: Install deps
-        run: |
-          python -m pip install --upgrade pip
-          python -m pip install feedparser requests pillow pytesseract
-          sudo apt-get update
-          sudo apt-get install -y tesseract-ocr
       
-      # Installation des dépendances Python depuis requirements.txt
+      # Étape 2 : Installer UNIQUEMENT les dépendances Python
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
           python -m pip install -r requirements.txt
       
-      # Lancer le bot
+      # Étape 3 : Lancer le bot
       - name: Run bot
         run: python bot.py
         env:
