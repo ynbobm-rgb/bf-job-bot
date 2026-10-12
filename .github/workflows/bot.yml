@@ -12,7 +12,7 @@ jobs:
         with:
           python-version: '3.11'
       - name: Install deps
-        run: python -m pip install --upgrade pip feedparser requests
+        run: python -m pip install --upgrade pip feedparser requests pillow
       - name: Run bot
         run: python bot.py
         env:
