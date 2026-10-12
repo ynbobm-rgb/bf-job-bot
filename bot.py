@@ -199,9 +199,19 @@ def mail_telegram(titre, lien, source, hash_code):
         if TELEGRAM_TOKEN and TELEGRAM_CHAT_ID:
             text = f"*Bot BF-JOB*\n\n*{titre}*\n{lien}\n\nSource:{source}\nEmpreinte: `{hash_code[:20]}`"
             url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
-            requests.post(url, json={"chat_id": TELEGRAM_CHAT_ID, "text":text, "parse_mode": "Markdown"}, timeout=10)
+            resp = requests.post(url, json={"chat_id": TELEGRAM_CHAT_ID, "text": text, "parse_mode": "Markdown"}, timeout=10)
+            # Vérifier réponse HTTP / JSON et logger en cas d'erreur
+            try:
+                data = resp.json()
+            except Exception:
+                log_securite("Erreur-telegram", f"Statut:{resp.status_code} Corps:{resp.text}", hash_code)
+            else:
+                if resp.status_code != 200 or not data.get("ok"):
+                    log_securite("Erreur-telegram", f"Statut:{resp.status_code} Reponse:{data}", hash_code)
+                else:
+                    print(f"Telegram envoyé: {titre}")
     except Exception as e:
-        log_securite("Erreur-telegram", str(e), hash_code)
+        log_securite("Erreur-telegram-exception", str(e), hash_code)
 
 # Fonction pour obtenir le compteur
 def get_compteur():
@@ -349,6 +359,7 @@ def scan():
                     seen[h] = {"titre": e.title, "lien": e.link, "date": str(datetime.now()), "source":nom_radar, "fin": str(analyse['fin']), "jours_restants": analyse['jours_restants']}
                     log_securite(f"VALIDE-{nom_radar}", e.title, h)
 
+                
             except Exception as e:
                 log_securite(f"Erreur-Scan-{nom_radar}", str(e), "N/A")
             time.sleep(5) # securite anti-ban
@@ -357,7 +368,7 @@ def scan():
     # Radar github
     try:
         url = f"https://api.github.com/search/repositories?q={'+'.join(KEYWORDS)}+{QUERY_PAYS}&sort=updated"
-        r = requests.get(url, timeout=10, headers={"User-Agent":"BF-JOB-BOT"}).json()
+        r = requests.get(url, timeout=10, headers={"User-Agent":"BF-JOT-BOT"}).json()
         for repo in r.get("items", [])[:10]:
             titre = repo["name"]
             lien = repo["html_url"]
@@ -393,4 +404,4 @@ if __name__ == "__main__":
         # except Exception as e:
         #     log_securite("Crash-Bot", str(e), "N/A")
         #     print(e)
-    #     time.sleep(900) # tous les 15 min
+        #     time.sleep(900) # tous les 15 min
