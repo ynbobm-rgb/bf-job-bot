@@ -1,10 +1,4 @@
-altgraph
-customtkinter
-darkdetect
-packaging
-pyinstaller
-pyinstaller-hooks-contrib
-setuptools
-requests
-pillow
-pytesseract
+feedparser>=6.0.10
+requests>=2.31.0
+Pillow>=10.0.0
+pytesseract>=0.3.10
