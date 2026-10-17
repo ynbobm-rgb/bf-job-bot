@@ -1,6 +1,6 @@
 from email.mime.text import MIMEText
 import smtplib
-from datetime import datetime
+import datetime
 from config import *
 from logging_config import log_securite
 
@@ -22,7 +22,7 @@ def mail(titre, lien, source, hash_code):
                     <p><b>Empreinte de securite:</b>{hash_code[:16]}...</p>
                     <p><a href='{lien}' style="background:#007bff; color:white; padding:10px 15px; text-decoration:none; border-radius: 5px">Voir l'offre</a></p>
                     <hr>
-                    <small>Bot BF-Job * Scan auto tous les 15min * Burkina Faso - {datetime.now()}</small>
+                    <small>Bot BF-Job * Scan auto tous les 15min * Burkina Faso - {datetime.datetime.now()}</small>
                 </div>
             """
             msg = MIMEText(body, "html", "utf-8")

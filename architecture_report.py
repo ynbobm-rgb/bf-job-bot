@@ -18,14 +18,14 @@ Langue: Français
 from __future__ import annotations
 import os
 import sys
-from datetime import datetime
+import datetime
 
 ARCH_MD = "ARCHITECTURE.md"
 
 CONTENT = f"""
 # Architecture, Design et Plan de Refactor — BF-JOB Bot
 
-Généré le: {datetime.utcnow().isoformat()}Z
+Généré le: {datetime.datetime.utcnow().isoformat()}Z
 
 ## But
 

@@ -2,7 +2,7 @@ import time
 from analyser import analyse_offre, extraire_images_de_entry
 from config import BLACKLIST, KEYWORDS, MAX_PAR_JOUR, QUERY_PAYS, SOCIAUX
 import feedparser
-from datetime import datetime
+import datetime
 import logging
 from logging_config import log_securite
 from notifier.emailer import mail
@@ -58,7 +58,7 @@ def scan_google_news(seen: dict):
                             telegram(f"{e.title} [A VERIFIER - Photo illisible]", e.link, f"{nom_radar} - Dégradé", h)
                             inc_compteur()
                             
-                            seen[h] = {"titre": e.title, "lien": e.link, "date": str(datetime.now()), "source": nom_radar, "degrade": True}
+                            seen[h] = {"titre": e.title, "lien": e.link, "date": str(datetime.datetime.now()), "source": nom_radar, "degrade": True}
                             
                             if get_compteur() >= MAX_PAR_JOUR:
                                 log_securite("Limite-Atteinte", "On stoppe pour aujourd'hui", "N/A")
@@ -88,7 +88,7 @@ def scan_google_news(seen: dict):
                     seen[h] = {
                         "titre": e.title, 
                         "lien": e.link, 
-                        "date": str(datetime.now()), 
+                        "date": str(datetime.datetime.now()), 
                         "source": nom_radar, 
                         "fin": str(analyse['fin']), 
                         "jours_restants": analyse['jours_restants']
