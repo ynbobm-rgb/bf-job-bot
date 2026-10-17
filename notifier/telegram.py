@@ -1,6 +1,7 @@
 import requests
 from config import *
 from logging_config import log_securite
+from datetime import datetime
             # Telegram gestion 
 
 def telegram( titre, lien, source, hash_code):
@@ -9,7 +10,7 @@ def telegram( titre, lien, source, hash_code):
     # telegram
     try:
         if TELEGRAM_TOKEN and TELEGRAM_CHAT_ID:
-            text = f"*Bot BF-JOB*\n\n*{titre}*\n{lien}\n\nSource:{source}\nEmpreinte: `{hash_code[:20]}`"
+            text = f"*Bot BF-JOB*\n\n*{titre}*\n{lien}\n\nSource:{source}\nEmpreinte: `{hash_code[:20]}`\n Date d'envoie: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
             url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
             resp = requests.post(url, json={"chat_id": TELEGRAM_CHAT_ID, "text": text, "parse_mode": "Markdown"}, timeout=10)
             # Vérifier réponse HTTP / JSON et logger en cas d'erreur

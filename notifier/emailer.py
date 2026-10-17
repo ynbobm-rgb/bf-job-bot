@@ -1,5 +1,6 @@
 from email.mime.text import MIMEText
-import smtplib, datetime
+import smtplib
+from datetime import datetime
 from config import *
 from logging_config import log_securite
 
