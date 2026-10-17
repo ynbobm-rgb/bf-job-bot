@@ -244,3 +244,901 @@
 2026-10-17 10:24:09 [INFO] Action: Erreur-Scan-GitHub | HASH: N/A | TITRE: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with 
 2026-10-17 10:24:09 [INFO] Système de logs initialisé (Console + Fichier).
 2026-10-17 10:24:09 [INFO] Démarrage du scan Google News...
+2026-10-17 19:15:01 [INFO] Système de logs initialisé (Console + Fichier).
+2026-10-17 19:15:01 [INFO] Démarrage du scan Google News...
+2026-10-17 19:15:03 [INFO] Action: Exists-GitHub | HASH: e5a6138f3c0387a0bc75 | TITRE: Burkina Faso: les inquiétudes de Human Rights Watch face au nouveau recrutement 
+2026-10-17 19:15:03 [INFO] Action: Exists-GitHub | HASH: a244a56bbc0ca9fbdb18 | TITRE: CANULAR : Ce site n'est pas le portail de recrutement de la Raffinerie nationale
+2026-10-17 19:15:03 [INFO] Action: Exists-GitHub | HASH: 930285e908ea8160e1b8 | TITRE: Eagle Football Group : recrutement en défense - Boursier.com
+2026-10-17 19:15:03 [INFO] Action: Exists-GitHub | HASH: 41ceebbca58470c6866f | TITRE: Burkina Faso : 100.000 civils recrutés pour renforcer l’armée face à la menace j
+2026-10-17 19:15:03 [INFO] Action: Exists-GitHub | HASH: 7c5de74c2e95c6a05623 | TITRE: Le Burkina Faso va recruter 100.000 civils comme réservistes dans l’armée - Le36
+2026-10-17 19:15:09 [INFO] Action: Exists-GitHub | HASH: 283693a3c3627834a35a | TITRE: Jeunesse et emploi : Orange Burkina Faso, à travers Orange Digital Center, prése
+2026-10-17 19:15:09 [INFO] Action: Exists-GitHub | HASH: d335156d756c7a694676 | TITRE: Burkina Faso : le Ouaga Job Challenge, réponse novatrice au problème de l’emploi
+2026-10-17 19:15:10 [INFO] Action: Exists-GitHub | HASH: 97e7863c516b46f3cedb | TITRE: Emploi : 3 questions à Christian Koko, DRH d’Orange Côte d’Ivoire - Jeune Afriqu
+2026-10-17 19:15:10 [INFO] Action: Exists-GitHub | HASH: a1094cb82e1e9a961b8c | TITRE: Burkina Faso : « Carrefour des opportunités », une initiative pour l’insertion s
+2026-10-17 19:15:10 [INFO] Action: Exists-GitHub | HASH: 63865edfa8363dcbc003 | TITRE: Orange Digital Center/ Job Dating 2025 : Plus de 200 talents face aux recruteurs
+2026-10-17 19:15:16 [INFO] Action: Exists-GitHub | HASH: e5a6138f3c0387a0bc75 | TITRE: Burkina Faso: les inquiétudes de Human Rights Watch face au nouveau recrutement 
+2026-10-17 19:15:16 [INFO] Action: Exists-GitHub | HASH: 283693a3c3627834a35a | TITRE: Jeunesse et emploi : Orange Burkina Faso, à travers Orange Digital Center, prése
+2026-10-17 19:15:16 [INFO] Action: Exists-GitHub | HASH: a7519cae2ea4ea29c187 | TITRE: Avis de recrutement d’un comptable - leFaso.net - L'actualité au Burkina Faso
+2026-10-17 19:15:16 [INFO] Action: Exists-GitHub | HASH: c5fad6461a282bcd616b | TITRE: Attention à cette fausse offre d’emploi chez TotalEnergies au Burkina Faso - AFP
+2026-10-17 19:15:16 [INFO] Action: Exists-GitHub | HASH: 2818d4aa7ff94845bec2 | TITRE: Le bureau de la FAO au Burkina Faso recrute un(e) spécialiste national(e) en sau
+2026-10-17 19:15:23 [INFO] Action: Exists-GitHub | HASH: b30322d864d99101fe8c | TITRE: Burkina Faso - Banque mondiale : un nouveau partenariat pour l'emploi - Koaci
+2026-10-17 19:15:23 [INFO] Action: Exists-GitHub | HASH: 7ee1394715062937d992 | TITRE: Burkina-BM : partenariat pour l’emploi et les secteurs sociaux - APAnews - Agenc
+2026-10-17 19:15:23 [INFO] Action: Exists-GitHub | HASH: 1c763f71cb77990edcfb | TITRE: Burkina Naatilgué : 1 000 jeunes, 1 000 emplois, 1 000 entreprises à l’horizon 2
+2026-10-17 19:15:23 [INFO] Action: Exists-GitHub | HASH: e5a6138f3c0387a0bc75 | TITRE: Burkina Faso: les inquiétudes de Human Rights Watch face au nouveau recrutement 
+2026-10-17 19:15:23 [INFO] Action: Exists-GitHub | HASH: 38296cb4fec6e288cc31 | TITRE: Burkina Faso : création de 117 000 nouveaux emplois d’ici 2023 - Africa24 TV
+2026-10-17 19:15:29 [INFO] Action: Exists-GitHub | HASH: bc7a2a6ea16e5312bd12 | TITRE: Un stage de bronze à la cire perdue avec un fondeur burkinabé, à Moëlan-sur-Mer 
+2026-10-17 19:15:29 [INFO] Action: Exists-GitHub | HASH: cb1898295c5341efe3c9 | TITRE: Offre de stage : conception d’une plateforme de services support à l’innovation 
+2026-10-17 19:15:30 [INFO] Action: Exists-GitHub | HASH: eb8a75ca8e0114b42628 | TITRE: Préparatifs CAN 2026 : les Lionnes de l’Atlas concluent leur stage par un nul fa
+2026-10-17 19:15:30 [INFO] Action: Exists-GitHub | HASH: ddcfd9fe4f8cb507b4de | TITRE: Études, formation ou stage à l’étranger : Ouverture des demandes d’autorisation 
+2026-10-17 19:15:30 [INFO] Action: Exists-GitHub | HASH: 6b550c57e09ffe9214af | TITRE: Burkina Faso : désormais, partir étudier à l'étranger nécessitera une autorisati
+2026-10-17 19:15:36 [INFO] Action: Exists-GitHub | HASH: a3521665314e183ef21e | TITRE: Burkina Faso : 15 lauréates reçues au palais de koulouba pour le concours de Tal
+2026-10-17 19:15:36 [INFO] Action: Exists-GitHub | HASH: c74897de3ec0c82188b0 | TITRE: Au Burkina Faso, le ministère de la Culture suspend tous les concours de beauté 
+2026-10-17 19:15:36 [INFO] Action: Exists-GitHub | HASH: 5e7c0ce9a3369ada0c3a | TITRE: Burkina Faso : Hakili Mousso veut faire des sciences un terrain de conquête pour
+2026-10-17 19:15:36 [INFO] Action: Exists-GitHub | HASH: 87087fa9d21dcfaeb315 | TITRE: Au Burkina Faso, les concours de beauté sont désormais proscrits - Jeune Afrique
+2026-10-17 19:15:36 [INFO] Action: Exists-GitHub | HASH: d4c19d3c4e1611f0fb9e | TITRE: Le Burkina Faso suspend tous les concours de beauté jusqu’à nouvel ordre | L'obs
+2026-10-17 19:15:43 [INFO] Action: Exists-GitHub | HASH: b30322d864d99101fe8c | TITRE: Burkina Faso - Banque mondiale : un nouveau partenariat pour l'emploi - Koaci
+2026-10-17 19:15:43 [INFO] Action: Exists-GitHub | HASH: 38296cb4fec6e288cc31 | TITRE: Burkina Faso : création de 117 000 nouveaux emplois d’ici 2023 - Africa24 TV
+2026-10-17 19:15:43 [INFO] Action: Exists-GitHub | HASH: 283693a3c3627834a35a | TITRE: Jeunesse et emploi : Orange Burkina Faso, à travers Orange Digital Center, prése
+2026-10-17 19:15:43 [INFO] Action: Exists-GitHub | HASH: 2818d4aa7ff94845bec2 | TITRE: Le bureau de la FAO au Burkina Faso recrute un(e) spécialiste national(e) en sau
+2026-10-17 19:15:43 [INFO] Action: Exists-GitHub | HASH: c5fad6461a282bcd616b | TITRE: Attention à cette fausse offre d’emploi chez TotalEnergies au Burkina Faso - AFP
+2026-10-17 19:15:49 [INFO] Action: Exists-GitHub | HASH: 6018769d50cb49abb7b0 | TITRE: Carrières à l’OMS : Postuler à un poste - World Health Organization (WHO)
+2026-10-17 19:15:49 [INFO] Action: Exists-GitHub | HASH: 3ec37d2e7c8e45dcc33d | TITRE: Le retrait français du Burkina Faso - Le Grand Continent
+2026-10-17 19:15:49 [INFO] Action: Exists-GitHub | HASH: d8034bf4cfd8a1224cdd | TITRE: Recrutement : Magasinier de pièces de rechange pour engins lourds - leFaso.net -
+2026-10-17 19:15:49 [INFO] Action: Exists-GitHub | HASH: 1e75aabf960d58ddd28a | TITRE: Recrutement : Responsable de l’Afrique francophone pour le Global Investigative 
+2026-10-17 19:15:49 [INFO] Action: Exists-GitHub | HASH: a32c72a996559870dfc4 | TITRE: Côte d’Ivoire : avis de recrutement de l’UNFPA - L-FRII
+2026-10-17 19:15:55 [INFO] Action: Exists-GitHub | HASH: a937f2ca34038ee2889f | TITRE: Burkina Faso . Un Code du travail tout neuf | L'observateur - L'observateur
+2026-10-17 19:15:55 [INFO] Action: Exists-GitHub | HASH: 381f0785a009503f44cb | TITRE: Quelques innovations majeures de la loi n°013-2026/ALP du 6 mai 2026 portant nou
+2026-10-17 19:15:55 [INFO] Action: Exists-GitHub | HASH: ee273c33b1c737af486a | TITRE: Le Burkina Faso adopte un nouveau Code du travail - AGENCE ECOFIN
+2026-10-17 19:15:55 [INFO] Action: Exists-GitHub | HASH: 9c330e9beb1bfdb1f0ae | TITRE: Code du travail au Burkina Faso : Le projet de loi adopté par les députés de l’A
+2026-10-17 19:15:55 [INFO] Action: Exists-GitHub | HASH: 1e9b2f79dce1a44200bb | TITRE: Communiqué | SONABEL : recrutement de 120 Ouvriers Qualifiés Monteurs Lignes HTB
+2026-10-17 19:16:01 [INFO] Action: Exists-GitHub | HASH: 6cc0a39de1366c6c4215 | TITRE: Burkina Faso : la CDI-BF clôture 2025 avec un bénéfice net de 844 millions FCFA 
+2026-10-17 19:16:01 [INFO] Action: Exists-GitHub | HASH: 6d604d5cf0a93b8f9607 | TITRE: Caisse des dépôts et d’investissements du Burkina Faso : Serge Auguste Bayala pa
+2026-10-17 19:16:01 [INFO] Action: Exists-GitHub | HASH: 07195db768e33364546c | TITRE: SONABEL/ tests de recrutements Contrats de Travail à Durée Indéterminée (CDI) : 
+2026-10-17 19:16:02 [INFO] Action: Exists-GitHub | HASH: 461a6c008b71b7f3bfd9 | TITRE: L’Etat du Burkina Faso prend le contrôle de la Société pharmaceutique PROPHARM S
+2026-10-17 19:16:02 [INFO] Action: Exists-GitHub | HASH: c26cc41c9e678c4da717 | TITRE: Burkina Faso : La Caisse des dépôts boucle 2025 avec 844 millions FCFA de bénéfi
+2026-10-17 19:16:08 [INFO] Action: Exists-GitHub | HASH: 5931744faff6b007df51 | TITRE: Burkina: les étudiants doivent désormais obtenir une autorisation du gouvernemen
+2026-10-17 19:16:08 [INFO] Action: Exists-GitHub | HASH: 8af325d19e90a80cca66 | TITRE: Burkina Faso: les étudiants désormais obligés d'obtenir l'aval du gouvernement p
+2026-10-17 19:16:08 [INFO] Action: Exists-GitHub | HASH: 77eb30963b7f6f2702cf | TITRE: Burkina/Enseignement supérieur : Moov Africa-ONATEL octroie 2,5 millions de FCFA
+2026-10-17 19:16:08 [INFO] Action: Exists-GitHub | HASH: ca4af9feac2ca582e3d9 | TITRE: Burkina Faso. Aval obligatoire du gouvernement pour les études à l’étranger: les
+2026-10-17 19:16:08 [INFO] Action: Exists-GitHub | HASH: ab587845412047783a56 | TITRE: Burkina : autorisation obligatoire pour étudier à l’étranger - APAnews - Agence 
+2026-10-17 19:16:16 [INFO] Action: Exists-GitHub | HASH: 63df9d100d69a595a4e4 | TITRE: Burkina Faso : fuite des cerveaux, plus de bourses pour les meilleurs bacheliers
+2026-10-17 19:16:16 [INFO] Action: Exists-GitHub | HASH: ab587845412047783a56 | TITRE: Burkina : autorisation obligatoire pour étudier à l’étranger - APAnews - Agence 
+2026-10-17 19:16:16 [INFO] Action: Exists-GitHub | HASH: ca4af9feac2ca582e3d9 | TITRE: Burkina Faso. Aval obligatoire du gouvernement pour les études à l’étranger: les
+2026-10-17 19:16:16 [INFO] Action: Exists-GitHub | HASH: 373d9ab2fc6e9279ca42 | TITRE: BRVM : Investir en bourse, est-ce vraimant pour les Maliens ? - Canal+
+2026-10-17 19:16:17 [INFO] Action: Exists-GitHub | HASH: e613a15463721fc6aa33 | TITRE: Burkina Faso : la Fondation Orange lance des bourses pour le numérique - We are 
+2026-10-17 19:16:24 [INFO] Action: Exists-GitHub | HASH: 91754703fe484a03c861 | TITRE: Résultats d'#admission au #concours_direct de recrutement de mille neuf cent soi
+2026-10-17 19:16:24 [INFO] Action: Exists-GitHub | HASH: aca69087b58bc43b965a | TITRE: Bon à savoir : des metiers, emplois, postes de travail et classes Les fonctionna
+2026-10-17 19:16:24 [INFO] Action: Exists-GitHub | HASH: 88b2d690f5ff8b879a65 | TITRE: 🟥🇧🇫 Souveraineté nationale : le recrutement des volontaires réservistes lancé - 
+2026-10-17 19:16:24 [INFO] Action: Exists-GitHub | HASH: 405113414489ebeb5a9a | TITRE: 🇧🇫 BURKINA FASO - Dans le cadre du projet BenkadiBaara - Tous ensemble pour l’em
+2026-10-17 19:16:24 [INFO] Action: Exists-GitHub | HASH: 861d60d7ce501a1e333d | TITRE: Orange Burkina. . Orange Burkina Faso informe le public que des messages circula
+2026-10-17 19:16:31 [INFO] Action: Exists-GitHub | HASH: 9700d5364702669c71eb | TITRE: 🚛 *OPPORTUNITÉ D'EMPLOI | RECRUTEMENT DE CONDUCTEURS ROUTIERS* La Direction de l
+2026-10-17 19:16:31 [INFO] Action: Exists-GitHub | HASH: 1710ab3dbc2ed82d5a64 | TITRE: INNOVATIONS DU NOUVEAU CODE DU TRAVAIL DU BURKINA FASO ARTICLE 42 #CodeduTravail
+2026-10-17 19:16:31 [INFO] Action: Exists-GitHub | HASH: 56175e57634894932813 | TITRE: Bon à savoir : Placement, activité de travail temporaire L’activité de placement
+2026-10-17 19:16:31 [INFO] Action: Exists-GitHub | HASH: 5b3d105216a9f2337b5f | TITRE: 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐪𝐮𝐞́ : Résultats Dans le cadre du recrutement d'un Auditeur interne, d'un
+2026-10-17 19:16:31 [INFO] Action: Exists-GitHub | HASH: a0550d5143aa9e39e024 | TITRE: Bon à savoir : Moyens de contrôle des entreprises Toute personne qui se propose 
+2026-10-17 19:16:38 [INFO] Action: Exists-GitHub | HASH: 9700d5364702669c71eb | TITRE: 🚛 *OPPORTUNITÉ D'EMPLOI | RECRUTEMENT DE CONDUCTEURS ROUTIERS* La Direction de l
+2026-10-17 19:16:38 [INFO] Action: Exists-GitHub | HASH: 5a3db3ec7a14e849cc44 | TITRE: Avis de recrutement de personnels pour le compte du Projet d'appui à la gestion 
+2026-10-17 19:16:38 [INFO] Action: Exists-GitHub | HASH: 1311104f14c91fdf47bd | TITRE: UNICEF Burkina Faso recrute pour son bureau de Ouagadougou un(e) : Cold Chain Sp
+2026-10-17 19:16:39 [INFO] Action: Exists-GitHub | HASH: b49194473a8f9c9df2d1 | TITRE: NOUS RECRUTONS ! 📣🇺🇸 La Mission américaine à Ouagadougou, Burkina Faso, recherch
+2026-10-17 19:16:39 [INFO] Action: Exists-GitHub | HASH: e66c954409c2e4386b05 | TITRE: Avis de recrutement à l'international Le Ministère de la Fonction publique, du T
+2026-10-17 19:16:46 [INFO] Action: Exists-GitHub | HASH: aca69087b58bc43b965a | TITRE: Bon à savoir : des metiers, emplois, postes de travail et classes Les fonctionna
+2026-10-17 19:16:46 [INFO] Action: Exists-GitHub | HASH: 405113414489ebeb5a9a | TITRE: 🇧🇫 BURKINA FASO - Dans le cadre du projet BenkadiBaara - Tous ensemble pour l’em
+2026-10-17 19:16:46 [INFO] Action: Exists-GitHub | HASH: 99ea8c66703aebc805d9 | TITRE: 🇧🇫 BURKINA FASO – La formation comme tremplin vers l’emploi des jeunes 🚀 Aider l
+2026-10-17 19:16:46 [INFO] Action: Exists-GitHub | HASH: ebf06b763e1372489e91 | TITRE: Liste actualisée des agences d'emploi privées titulaires d'un agrement au 15 jan
+2026-10-17 19:16:46 [INFO] Action: Exists-GitHub | HASH: b78a8bd3099d72147141 | TITRE: Bon à savoir : De la classification catégorielle Les emplois de fonctionnaires s
+2026-10-17 19:16:53 [INFO] Action: Exists-GitHub | HASH: 993058937e0b752b9248 | TITRE: Le stage de formation sur la technologie de Juncao au Burkina Faso a récemment é
+2026-10-17 19:16:53 [INFO] Action: Exists-GitHub | HASH: 84531839f12e2e1acc1f | TITRE: 𝟒 𝟕𝟎𝟎 𝐣𝐞𝐮𝐧𝐞𝐬 𝐞𝐧 𝐬𝐭𝐚𝐠𝐞 𝐝’𝐢𝐧𝐢𝐭𝐢𝐚𝐭𝐢𝐨𝐧 𝐚̀ 𝐥𝐚 𝐯𝐢𝐞 𝐩𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐧𝐞𝐥𝐥𝐞 : 𝐮𝐧𝐞 𝐧𝐨𝐮𝐯𝐞𝐥𝐥𝐞 𝐞́𝐭𝐚
+2026-10-17 19:16:53 [INFO] Action: Exists-GitHub | HASH: ae87fb65d7d5a87d4ba5 | TITRE: GROUPEMENT D’INSTRUCTION DES FORCES ARMEES Fin du stage militaire pour 543 énarq
+2026-10-17 19:16:53 [INFO] Action: Exists-GitHub | HASH: 9cbd3c56ab403263959e | TITRE: Lancement d’une plateforme nationale des stages : Le point des préparatifs fait 
+2026-10-17 19:16:53 [INFO] Action: Exists-GitHub | HASH: c67ec2e9fecd5165898a | TITRE: Bon à savoir : Le contrat de stage Il est institué un contrat de stage en vue de
+2026-10-17 19:17:00 [INFO] Action: Exists-GitHub | HASH: cba3cbbfedc7a46f0c27 | TITRE: Programme de #répartition par sous-centre et par tranche de #numéro_récépissé de
+2026-10-17 19:17:00 [INFO] Action: Exists-GitHub | HASH: 91754703fe484a03c861 | TITRE: Résultats d'#admission au #concours_direct de recrutement de mille neuf cent soi
+2026-10-17 19:17:00 [INFO] Action: Exists-GitHub | HASH: 7aa7ebbe834d4d9f74e0 | TITRE: En juin 2026, le Burkina Faso suspend les concours de beauté afin de revoir leur
+2026-10-17 19:17:00 [INFO] Action: Exists-GitHub | HASH: 3e1c28dd22373ce3bf44 | TITRE: ⛔ Urgent ⛔ liste de répartition des candidats concours directs session 2022 de l
+2026-10-17 19:17:00 [INFO] Action: Exists-GitHub | HASH: 42aacf601bfda0e05dc0 | TITRE: Chers candidats aux concours directs 2026 de niveaux BEPC et CEP, après la vidéo
+2026-10-17 19:17:07 [INFO] Action: Exists-GitHub | HASH: 8577afc2411cde1f21f8 | TITRE: Revivez en images les temps forts de nos Job Days au Burkina Faso ! Nous avons e
+2026-10-17 19:17:07 [INFO] Action: Exists-GitHub | HASH: aca69087b58bc43b965a | TITRE: Bon à savoir : des metiers, emplois, postes de travail et classes Les fonctionna
+2026-10-17 19:17:07 [INFO] Action: Exists-GitHub | HASH: 96559cf87cbd215cf2a8 | TITRE: 📣 JOB ALERT - BURKINA FASO Autre Terre engage pour son bureau basé à Ouagadougou
+2026-10-17 19:17:07 [INFO] Action: Exists-GitHub | HASH: eaaea968881d5687950e | TITRE: Ministère des Sports, de la Jeunesse et de l'Emploi - Facebook
+2026-10-17 19:17:07 [INFO] Action: Exists-GitHub | HASH: ebf06b763e1372489e91 | TITRE: Liste actualisée des agences d'emploi privées titulaires d'un agrement au 15 jan
+2026-10-17 19:17:14 [INFO] Action: Exists-GitHub | HASH: e952dda1c7ce1199d239 | TITRE: We are hiring !! U.S. Embassy Burkina Faso is seeking eligible and qualified app
+2026-10-17 19:17:14 [INFO] Action: Exists-GitHub | HASH: 5089f2ff22fe84093d35 | TITRE: We are hiring !!! 📣 The U.S. Mission in Ouagadougou, Burkina Faso is seeking eli
+2026-10-17 19:17:14 [INFO] Action: Exists-GitHub | HASH: 9f1d4a125632e9a42cff | TITRE: We are hiring !!! 📣 The U.S. Mission in Ouagadougou, Burkina Faso is seeking eli
+2026-10-17 19:17:14 [INFO] Action: Exists-GitHub | HASH: c6095bb617c8987edc94 | TITRE: Enko Education. . 𝗪𝗲 𝗮𝗿𝗲 𝗵𝗶𝗿𝗶𝗻𝗴 𝘁𝗲𝗮𝗰𝗵𝗲𝗿𝘀! 👩‍🏫 👨‍🏫 We are currently looking for m
+2026-10-17 19:17:14 [INFO] Action: Exists-GitHub | HASH: 9e3ff1315cde3cde9a12 | TITRE: 🔴 #Communiqué | Offre de Recrutement : Metreur en Construction Métallique Minièr
+2026-10-17 19:17:21 [INFO] Action: Exists-GitHub | HASH: bacbd59417c7128e4b50 | TITRE: Code du travail au Burkina Faso Le Burkina Faso dispose désormais d’une nouvelle
+2026-10-17 19:17:21 [INFO] Action: Exists-GitHub | HASH: 5390910994f269540a90 | TITRE: INNOVATIONS DU NOUVEAU CODE DU TRAVAIL DU BURKINA FASO ARTICLES 59 #CodeduTravai
+2026-10-17 19:17:21 [INFO] Action: Exists-GitHub | HASH: 1710ab3dbc2ed82d5a64 | TITRE: INNOVATIONS DU NOUVEAU CODE DU TRAVAIL DU BURKINA FASO ARTICLE 42 #CodeduTravail
+2026-10-17 19:17:21 [INFO] Action: Exists-GitHub | HASH: ff4780b057ae280ce224 | TITRE: CONSEIL DES MINISTRES DU 27 NOVEMBRE 2025 Un projet de loi portant Code du trava
+2026-10-17 19:17:21 [INFO] Action: Exists-GitHub | HASH: 70fc623b7936967d0781 | TITRE: Code du travail au Burkina Faso : Le projet de loi adopté par les députés de l’A
+2026-10-17 19:17:28 [INFO] Action: Exists-GitHub | HASH: 90e2f48e07018c72c972 | TITRE: 𝐏𝐫𝐨𝐛𝐥é𝐦𝐚𝐭𝐢𝐪𝐮𝐞 𝐝𝐮 𝐥𝐨𝐠𝐞𝐦𝐞𝐧𝐭 𝐚𝐮 𝐁𝐮𝐫𝐤𝐢𝐧𝐚 𝐅𝐚𝐬𝐨 : 𝐋𝐚 𝐂𝐃𝐈-𝐁𝐅 à 𝐥𝐚 𝐫𝐞𝐜𝐡𝐞𝐫𝐜𝐡𝐞 𝐝𝐞 𝐦é𝐜𝐚𝐧𝐢𝐬𝐦
+2026-10-17 19:17:28 [INFO] Action: Exists-GitHub | HASH: 2d4d54478bb750a82eb1 | TITRE: FINANCEMENT DU LOGEMENT AU BURKINA FASO A l'initiative de la Caisse des dépôts e
+2026-10-17 19:17:28 [INFO] Action: Exists-GitHub | HASH: 32def9df6019a6e651bf | TITRE: Au Burkina Faso, un CDI est à saisir avec GIZ. Devenez Directeur du projet : App
+2026-10-17 19:17:28 [INFO] Action: Exists-GitHub | HASH: 619f28de68f0d78f2baa | TITRE: RTB. . Askadar Houssouman Sanou prend désormais en rênes de la Caisse de Dépôt e
+2026-10-17 19:17:28 [INFO] Action: Exists-GitHub | HASH: e20171e614e6f19ec857 | TITRE: 𝐀𝐯𝐢𝐬 𝐝'𝐚𝐩𝐩𝐞𝐥 𝐚̀ 𝐜𝐚𝐧𝐝𝐢𝐝𝐚𝐭𝐮𝐫𝐞 𝐩𝐨𝐮𝐫 𝐥𝐞 𝐫𝐞𝐜𝐫𝐮𝐭𝐞𝐦𝐞𝐧𝐭 𝐝'𝐮𝐧 𝐃𝐢𝐫𝐞𝐜𝐭𝐞𝐮𝐫 𝐠𝐞́𝐧𝐞́𝐫𝐚𝐥 𝐚𝐮 𝐩𝐫𝐨𝐟
+2026-10-17 19:17:35 [INFO] Action: Exists-GitHub | HASH: 101542983b477776c392 | TITRE: 𝐁𝐨𝐬𝐬, est-ce que tu sais que tu peux avoir une bourse d'étude en cumulant tes po
+2026-10-17 19:17:35 [INFO] Action: Exists-GitHub | HASH: ae5419b7201b160b01c0 | TITRE: Une nouvelle bourse d’études destinée à un élève de la filière scientifique du H
+2026-10-17 19:17:35 [INFO] Action: Exists-GitHub | HASH: f04347481dccd8d5f6f0 | TITRE: #Communiqué_démenti Depuis quelques temps, il circule sur les réseaux sociaux, u
+2026-10-17 19:17:35 [INFO] Action: Exists-GitHub | HASH: 5dac7e63e0e310c1a204 | TITRE: Bonne Nouvelle!!! Cette année encore, Orange Burkina Faso à travers sa Fondation
+2026-10-17 19:17:35 [INFO] Action: Exists-GitHub | HASH: 9ba5ba2504ed6602d280 | TITRE: RTB. . Offre de bourses scolaires : 60 étudiants méritants déplacés internes de 
+2026-10-17 19:17:42 [INFO] Action: Exists-GitHub | HASH: 05d504146598df56d55d | TITRE: RTB. . HEBDO BOURSE du 11 octobre 2026 - Facebook
+2026-10-17 19:17:42 [INFO] Action: Exists-GitHub | HASH: 38896a683728d9396e80 | TITRE: HEBDO BOURSE DU 20 SEPTEMBRE - Facebook
+2026-10-17 19:17:42 [INFO] Action: Exists-GitHub | HASH: e4fe13ac1cfcbbf43f23 | TITRE: RTB. . HEBDO BOURSE DU 20 SEPTEMBRE - Facebook
+2026-10-17 19:17:42 [INFO] Action: Exists-GitHub | HASH: f11f6b29d69d56d00675 | TITRE: 🇩🇪🎓 Le Goethe-Institut Burkina Faso offre des bourses de formation continue en A
+2026-10-17 19:17:42 [INFO] Action: Exists-GitHub | HASH: 99e0fe8a72b5c23b13e3 | TITRE: RTB. . 🚨 HEBDO BOURSE du 27 septembre 2026 - Facebook
+2026-10-17 19:17:49 [INFO] Action: Exists-GitHub | HASH: 9642d4f14a73c6e90e03 | TITRE: Recrutement d’un Cabinet de ressource humaine au Burkina Faso - LinkedIn Mali
+2026-10-17 19:17:49 [INFO] Action: Exists-GitHub | HASH: c1a6c61ab4a4c0fc7b78 | TITRE: Weapons & Ammunition Management Support Officer - Africa - LinkedIn
+2026-10-17 19:17:49 [INFO] Action: Exists-GitHub | HASH: d7c6418ef22cfa1f6178 | TITRE: 📢 OFFRE D’EMPLOI Selectus recrute un Comptable au profit d’une importante sociét
+2026-10-17 19:17:49 [INFO] Action: Exists-GitHub | HASH: 4d7111ba79e68e43b342 | TITRE: Nous #recrutons #hiring ! Connaissez-vous quelqu’un qui pourrait être intéressé 
+2026-10-17 19:17:50 [INFO] Action: Exists-GitHub | HASH: 77b1fdbe2be978ae07ce | TITRE: Faso Emplois | Job Connect hiring APPEL À CANDIDATURE POUR LE RECRUTEMENT D’UN(E
+2026-10-17 19:17:56 [INFO] Action: Exists-GitHub | HASH: 0d77b9c6774415d9b8ec | TITRE: Faso Emplois | Job Connect hiring APPEL À CANDIDATURE POUR LE RECRUTEMENT D’UN(E
+2026-10-17 19:17:56 [INFO] Action: Exists-GitHub | HASH: b0823920d83e6cbd2144 | TITRE: EmploiBurkina - LinkedIn
+2026-10-17 19:17:56 [INFO] Action: Exists-GitHub | HASH: afcb9506762feec88bb7 | TITRE: #PDAC2022 : Visitez IAMGOLD au kiosque 2522 pour en apprendre davantage sur les 
+2026-10-17 19:17:57 [INFO] Action: Exists-GitHub | HASH: 3212f5530ab291b879e4 | TITRE: Postes de Burkina Faso (France) : (11,000+ postes à pourvoir) - LinkedIn
+2026-10-17 19:17:57 [INFO] Action: Exists-GitHub | HASH: a017e8a1c241d27c0ac5 | TITRE: Wave Mobile Money hiring Regional IT Manager in Ouagadougou, Centre, Burkina Fas
+2026-10-17 19:18:04 [INFO] Action: Exists-GitHub | HASH: d7c6418ef22cfa1f6178 | TITRE: 📢 OFFRE D’EMPLOI Selectus recrute un Comptable au profit d’une importante sociét
+2026-10-17 19:18:04 [INFO] Action: Exists-GitHub | HASH: 9642d4f14a73c6e90e03 | TITRE: Recrutement d’un Cabinet de ressource humaine au Burkina Faso - LinkedIn Mali
+2026-10-17 19:18:04 [INFO] Action: Exists-GitHub | HASH: 4a3ad0f231818da92319 | TITRE: Postes de Offres D’emploi (Nord, Burkina Faso) : (7 postes à pourvoir) - LinkedI
+2026-10-17 19:18:04 [INFO] Action: Exists-GitHub | HASH: 49a111bbeeb4099eaece | TITRE: 📍[🇧🇫] CECI au Burkina Faso recherche 𝘂𝗻-𝗲 𝗰𝗵𝗮𝗿𝗴𝗲́𝗲 𝗱𝗲 𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗲𝘁 𝗶𝗻𝘀𝗲𝗿𝘁𝗶𝗼𝗻 𝗽𝗿𝗼
+2026-10-17 19:18:04 [INFO] Action: Exists-GitHub | HASH: a1c8dc91317a2294d354 | TITRE: 📢 JOB ALERT : SOUDEURS EXPERIMENTES NEEMBA BURKINA recrute des soudeurs expérime
+2026-10-17 19:18:10 [INFO] Action: Exists-GitHub | HASH: 9642d4f14a73c6e90e03 | TITRE: Recrutement d’un Cabinet de ressource humaine au Burkina Faso - LinkedIn Mali
+2026-10-17 19:18:10 [INFO] Action: Exists-GitHub | HASH: d7c6418ef22cfa1f6178 | TITRE: 📢 OFFRE D’EMPLOI Selectus recrute un Comptable au profit d’une importante sociét
+2026-10-17 19:18:10 [INFO] Action: Exists-GitHub | HASH: bd8b3c664e652248d6ea | TITRE: 🇧🇫 𝐍𝐞 𝐲 𝐲𝐢𝐛𝐞𝐨𝐨𝐠𝐨 ! 𝐁𝐨𝐧𝐣𝐨𝐮𝐫, 𝐁𝐮𝐫𝐤𝐢𝐧𝐚 𝐅𝐚𝐬𝐨. Un CV professionnel ne consiste pas à 
+2026-10-17 19:18:10 [INFO] Action: Exists-GitHub | HASH: 4a3ad0f231818da92319 | TITRE: Postes de Offres D’emploi (Nord, Burkina Faso) : (7 postes à pourvoir) - LinkedI
+2026-10-17 19:18:10 [INFO] Action: Exists-GitHub | HASH: 42055a9e363afcbd3e21 | TITRE: Mamadou OUEDRAOGO - Assistant aux ressources humaines chez SAER Emploi Burkina -
+2026-10-17 19:18:17 [INFO] Action: Exists-GitHub | HASH: e95c17b21d5dc5b65de3 | TITRE: ✨ Je suis ravie d'annoncer le début de mon stage en gestion des approvisionnemen
+2026-10-17 19:18:17 [INFO] Action: Exists-GitHub | HASH: 7378af45a3d3ad767277 | TITRE: Retro année 2023 Je suis ravi d'avoir effectué mon stage chez CIMBURKINA, Sectio
+2026-10-17 19:18:17 [INFO] Action: Exists-GitHub | HASH: b3d2aab37c898245d084 | TITRE: #AlerteJob [Basé au Burkina Faso] ✍️L'ONG ACTED recherche 01 CHARGE DE TERRAIN R
+2026-10-17 19:18:17 [INFO] Action: Exists-GitHub | HASH: b7f4fc576f271f1da0b6 | TITRE: Decret n° 2015-777 du 02 juin 2015 fixant les règles applicables au contrat de s
+2026-10-17 19:18:17 [INFO] Action: Exists-GitHub | HASH: ba9fb41eefdd23a16058 | TITRE: UbrainSoft hiring Offre de Stage - Réseaux, Systèmes et Sécurité Informatique in
+2026-10-17 19:18:24 [INFO] Action: Exists-GitHub | HASH: 5a75c9b1a3df3cb6b51c | TITRE: Directeur des affaires administratives et financières chez Office centrale des e
+2026-10-17 19:18:24 [INFO] Action: Exists-GitHub | HASH: abd492553af18ad0288a | TITRE: 🎓Diplôme d’Études Supérieures en Comptabilité et Gestion Financière Le DESCOGEF,
+2026-10-17 19:18:24 [INFO] Action: Exists-GitHub | HASH: 370e5343dba5d4527ac3 | TITRE: KOUAME GERMAIN KPRIE - Expert Senior Education et Gestion de Projets -Sociologue
+2026-10-17 19:18:24 [INFO] Action: Exists-GitHub | HASH: ce47cfff1336a31cf337 | TITRE: Concours d’entrée – Magistère d’Économie du Développement | Promotion 2025/2026 
+2026-10-17 19:18:24 [INFO] Action: Exists-GitHub | HASH: 5c28159a4169e13d6085 | TITRE: Rakibou AKAMBI - Technicien supérieur en génie civil/Bâtiment et Travaux Publics
+2026-10-17 19:18:31 [INFO] Action: Exists-GitHub | HASH: 3212f5530ab291b879e4 | TITRE: Postes de Burkina Faso (France) : (11,000+ postes à pourvoir) - LinkedIn
+2026-10-17 19:18:31 [INFO] Action: Exists-GitHub | HASH: 4a20b952ba59f77c98f3 | TITRE: CEP Business Copilot hiring Directeur Pays Burkina Faso in Ouagadougou, Centre, 
+2026-10-17 19:18:31 [INFO] Action: Exists-GitHub | HASH: 6598f83d5193b5c1cb08 | TITRE: ▶ Burkina Faso Les offres que vous avez manquez à la date d'hier : World Vision 
+2026-10-17 19:18:31 [INFO] Action: Exists-GitHub | HASH: 4a3ad0f231818da92319 | TITRE: Postes de Offres D’emploi (Nord, Burkina Faso) : (7 postes à pourvoir) - LinkedI
+2026-10-17 19:18:31 [INFO] Action: Exists-GitHub | HASH: ca6ad7e301c7cb7f8116 | TITRE: NTU International A/S Ouagadougou, Centre, Burkina Faso - LinkedIn
+2026-10-17 19:18:37 [INFO] Action: Exists-GitHub | HASH: 40d9083f75803abe500a | TITRE: Center for Civilians in Conflict hiring Renforcement de la protection des civils
+2026-10-17 19:18:37 [INFO] Action: Exists-GitHub | HASH: 4d7111ba79e68e43b342 | TITRE: Nous #recrutons #hiring ! Connaissez-vous quelqu’un qui pourrait être intéressé 
+2026-10-17 19:18:37 [INFO] Action: Exists-GitHub | HASH: 4cccb861b7e09f763698 | TITRE: Sogea-Satom hiring Responsable Topographie in Burkina Faso - LinkedIn
+2026-10-17 19:18:37 [INFO] Action: Exists-GitHub | HASH: 94cc9a00e67fcf7e93c0 | TITRE: IAMGOLD Corporation hiring Coordonnateur principal parc à résidus in Burkina Fas
+2026-10-17 19:18:37 [INFO] Action: Exists-GitHub | HASH: 160138fa6d6d7fca2b06 | TITRE: IAMGOLD Corporation hiring Ingénieur minier planification long terme in Burkina 
+2026-10-17 19:18:44 [INFO] Action: Exists-GitHub | HASH: ef20e1c152a1a1e1b7c3 | TITRE: MARIAM .L. LINGANI - JURISTE: Recherche Stage , contrat de professionalisation (
+2026-10-17 19:18:44 [INFO] Action: Exists-GitHub | HASH: f40f5f9d18579ac976c0 | TITRE: Sayouba MONE - Assistant RH chez LNBTP (Laboratoire National du Bâtiment et des 
+2026-10-17 19:18:44 [INFO] Action: Exists-GitHub | HASH: bf27009d9c6aab2c16be | TITRE: 📢 SANTÉ SUD RECRUTE ! Vous souhaitez rejoindre nos équipes au Burkina Faso ? Pos
+2026-10-17 19:18:44 [INFO] Action: Exists-GitHub | HASH: 0dae2a68712467003d76 | TITRE: 🇧🇫 BURKINA FASO 🏢 Entreprise · Finance 💼 Contrôleur interne 📍 Ouagadougou, Burki
+2026-10-17 19:18:44 [INFO] Action: Exists-GitHub | HASH: bb1ec82e94693f592510 | TITRE: Wendlamita Valerie Yasmine Compaoré - A la recherche d’un Stage, CDD ou CDI - Li
+2026-10-17 19:18:51 [INFO] Action: Exists-GitHub | HASH: 566b1f53d11ba2b865ae | TITRE: CDI - Directeur / Directrice des Opérations - CANAL+ Télécom Burkina Faso (F/H/X
+2026-10-17 19:18:51 [INFO] Action: Exists-GitHub | HASH: a26678b2a2173d106817 | TITRE: CDI - ASSISTANT / ASSISTANTE SYSTEME D'INFORMATION BURKINA FASO - (F/H/X) - Link
+2026-10-17 19:18:51 [INFO] Action: Exists-GitHub | HASH: 6131f6bb9d20b308999a | TITRE: Caisse des Dépôts et d'Investissements du Burkina Faso - LinkedIn
+2026-10-17 19:18:51 [INFO] Action: Exists-GitHub | HASH: 3820d20726c7213ef94e | TITRE: CDI - Directeur / Directrice des Opérations - CANAL+ Télécom Burkina Faso (F/H/X
+2026-10-17 19:18:51 [INFO] Action: Exists-GitHub | HASH: 3a409928336e975912f4 | TITRE: 𝐌𝐨𝐛𝐢𝐥𝐢𝐬𝐚𝐭𝐢𝐨𝐧 𝐝𝐞𝐬 𝐫𝐞𝐬𝐬𝐨𝐮𝐫𝐜𝐞𝐬 : 𝐥𝐚 𝐂𝐃𝐈-𝐁𝐅 𝐫𝐞𝐧𝐟𝐨𝐫𝐜𝐞 𝐥𝐞 𝐝𝐢𝐚𝐥𝐨𝐠𝐮𝐞 𝐚𝐯𝐞𝐜 𝐥𝐞𝐬 𝐛𝐚𝐧𝐪𝐮𝐞𝐬, 𝐞
+2026-10-17 19:18:58 [INFO] Action: Exists-GitHub | HASH: 77ed3b4e6cef9bd58e93 | TITRE: Notre filiale SOMISA SA au Burkina Faso, opérant le projet de Sanbrado, a lancé 
+2026-10-17 19:18:58 [INFO] Action: Exists-GitHub | HASH: 68e7ae9fe96c883cf08f | TITRE: FR 🎓 BACHELIERS 2025 DU BURKINA FASO: BOURSE D'ÉTUDES EN TRANSPORT MARITIME & LO
+2026-10-17 19:18:58 [INFO] Action: Exists-GitHub | HASH: 479b9192b03a367d2b2c | TITRE: Abdoul Mahazou Tiemtoré - Étudiant chez Institut National des Sciences Appliquée
+2026-10-17 19:18:58 [INFO] Action: Exists-GitHub | HASH: 504070798eb06a5fa87a | TITRE: Issouf Ouedraogo - LinkedIn
+2026-10-17 19:18:58 [INFO] Action: Exists-GitHub | HASH: beb74fb3b4e4a9eb25af | TITRE: Arole Tapsoba - Stagiaire chez Société des Aéroports du Faso - LinkedIn
+2026-10-17 19:19:05 [INFO] Action: Exists-GitHub | HASH: 68e7ae9fe96c883cf08f | TITRE: FR 🎓 BACHELIERS 2025 DU BURKINA FASO: BOURSE D'ÉTUDES EN TRANSPORT MARITIME & LO
+2026-10-17 19:19:05 [INFO] Action: Exists-GitHub | HASH: 9dfa3c20cbb2fe1a5fd4 | TITRE: Fancho Hermann TRAORE - LinkedIn
+2026-10-17 19:19:05 [INFO] Action: Exists-GitHub | HASH: b5c8740c521ee206208f | TITRE: La Fondation Orange au Burkina Faso à travers son Fonds d’Aide à la Formation au
+2026-10-17 19:19:05 [INFO] Action: Exists-GitHub | HASH: f62c0885af76bd980260 | TITRE: Askadar SANOU - Responsable du Marché des Capitaux chez CORIS BOURSE - LinkedIn
+2026-10-17 19:19:05 [INFO] Action: Exists-GitHub | HASH: 77ed3b4e6cef9bd58e93 | TITRE: Notre filiale SOMISA SA au Burkina Faso, opérant le projet de Sanbrado, a lancé 
+2026-10-17 19:19:12 [INFO] Action: Exists-GitHub | HASH: c645a3bfd42075f653bf | TITRE: Orange recrute pour le poste de : ✅Comptable des Opérations Diverses 📅 Date limi
+2026-10-17 19:19:12 [INFO] Action: Exists-GitHub | HASH: d69d00bf04b68f48df31 | TITRE: Orange recrute pour le poste de : ✅ Contrôleur de Gestion Costing 📅 Date limite 
+2026-10-17 19:19:12 [INFO] Action: Exists-GitHub | HASH: 04bdcacaaff84cbb717a | TITRE: 𝗢𝗿𝗮𝗻𝗴𝗲 𝗿𝗲𝗰𝗿𝘂𝘁𝗲 𝗽𝗼𝘂𝗿 𝗹𝗲 𝗽𝗼𝘀𝘁𝗲 𝗱𝗲 : ✅ Chargé(e) Talent Acquisition - Direction des
+2026-10-17 19:19:12 [INFO] Action: Exists-GitHub | HASH: 411ddf68019935a1c214 | TITRE: 𝗢𝗿𝗮𝗻𝗴𝗲 𝗿𝗲𝗰𝗿𝘂𝘁𝗲 𝗽𝗼𝘂𝗿 𝗹𝗲 𝗽𝗼𝘀𝘁𝗲 𝗱𝗲 : ✅ Responsable Customer Base Management (CBM) -
+2026-10-17 19:19:12 [INFO] Action: Exists-GitHub | HASH: 287e50628600b06c47e7 | TITRE: 𝗢𝗿𝗮𝗻𝗴𝗲 𝗿𝗲𝗰𝗿𝘂𝘁𝗲 𝗽𝗼𝘂𝗿 𝗹𝗲 𝗽𝗼𝘀𝘁𝗲 𝗱𝗲 : ✅ Responsable de la Fiscalité - Direction Fina
+2026-10-17 19:19:18 [INFO] Action: Exists-GitHub | HASH: f77ac02a8bc24c3a4baf | TITRE: Le Niger accueille, du 17 au 24 septembre 2026, un atelier consacré à l’élaborat
+2026-10-17 19:19:18 [INFO] Action: Exists-GitHub | HASH: 6be8261a0a54966489f8 | TITRE: CISR Canada (@CISR_Canada) - X
+2026-10-17 19:19:18 [INFO] Action: Exists-GitHub | HASH: 45338b195c4c576dad37 | TITRE: Replies by After Foot RMC (@AfterRMC) - X
+2026-10-17 19:19:18 [INFO] Action: Exists-GitHub | HASH: 1fa556d1894acb87ef21 | TITRE: Premium Organisations - X Help Center
+2026-10-17 19:19:18 [INFO] Action: Exists-GitHub | HASH: 1e5bf86198670dc3530f | TITRE: IBbankTogo (@ibbank228) - X
+2026-10-17 19:19:25 [INFO] Action: Exists-GitHub | HASH: b63a07d1339c77cdc847 | TITRE: 🚨 BRIDGE BANK GROUP RECRUTE – 7 POSTES À POURVOIR AU BURKINA FASO 🇧🇫 Dans le cad
+2026-10-17 19:19:25 [INFO] Action: Exists-GitHub | HASH: a6f3ecf8e413669ac1fd | TITRE: OFFRE D’EMPLOI : Coordinateur (trice) terrain / CHEF.FE DE BASE / AREA MANAGER -
+2026-10-17 19:19:25 [INFO] Action: Exists-GitHub | HASH: f0c3ae7fdfd2b31af7c5 | TITRE: 🚨🇺🇳 OFFRE D’EMPLOI - PROFESSIONNEL CHARGÉ DE L’AMÉNAGEMENT DU TERRITOIRE 🇺🇳🚨 📍 L
+2026-10-17 19:19:25 [INFO] Action: Exists-GitHub | HASH: 96062d5a78f5e0fb41a9 | TITRE: Nous recherchons des profils pour le poste de : ✅ 𝗔𝗰𝗵𝗲𝘁𝗲𝘂𝗿 𝗝𝘂𝗻𝗶𝗼𝗿 📅 Date limite 
+2026-10-17 19:19:25 [INFO] Action: Exists-GitHub | HASH: 84b08f4aca7d6f53a698 | TITRE: #OFFRE #EMPLOI - #VERGNET #BURKINA (filiale de @VergnetHydro) #recrute un(e) #Ch
+2026-10-17 19:19:31 [INFO] Action: Exists-GitHub | HASH: abf0014e66aec7b71d9c | TITRE: 𝐋𝐞 𝐬𝐚𝐯𝐢𝐞𝐳-𝐯𝐨𝐮𝐬 ? – 𝐅𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧, 𝐈𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧 & 𝐄𝐦𝐩𝐥𝐨𝐢 Grâce à ses programmes de form
+2026-10-17 19:19:31 [INFO] Action: Exists-GitHub | HASH: b0a6217dec12a0844846 | TITRE: Jeunesse, emploi et sport au cœur du dialogue 🇧🇫🤝🇺🇳 M. @HaoliangXu, Administrate
+2026-10-17 19:19:31 [INFO] Action: Exists-GitHub | HASH: b63a07d1339c77cdc847 | TITRE: 🚨 BRIDGE BANK GROUP RECRUTE – 7 POSTES À POURVOIR AU BURKINA FASO 🇧🇫 Dans le cad
+2026-10-17 19:19:31 [INFO] Action: Exists-GitHub | HASH: a6f3ecf8e413669ac1fd | TITRE: OFFRE D’EMPLOI : Coordinateur (trice) terrain / CHEF.FE DE BASE / AREA MANAGER -
+2026-10-17 19:19:31 [INFO] Action: Exists-GitHub | HASH: 0976bc74bb93e134fef2 | TITRE: 📣 Alerte aux PME au Burkina Faso Rejoignez-nous le Jeudi 6 février 2025 à 14h GM
+2026-10-17 19:19:38 [INFO] Action: Exists-GitHub | HASH: abf0014e66aec7b71d9c | TITRE: 𝐋𝐞 𝐬𝐚𝐯𝐢𝐞𝐳-𝐯𝐨𝐮𝐬 ? – 𝐅𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧, 𝐈𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧 & 𝐄𝐦𝐩𝐥𝐨𝐢 Grâce à ses programmes de form
+2026-10-17 19:19:38 [INFO] Action: Exists-GitHub | HASH: a4319a8e72da2c55ce34 | TITRE: 🇧🇫 ⚽️ Les Etalons du Burkina Faso sont arrivés ce dimanche 29 mai 2022 à Marrake
+2026-10-17 19:19:38 [INFO] Action: Exists-GitHub | HASH: 3d2a657213e92b6c0c5f | TITRE: En prélude à la CAN des U17, les Étalons U17 effectuent, depuis le 16 mars 2025,
+2026-10-17 19:19:38 [INFO] Action: Exists-GitHub | HASH: afd267102cb94feb86b9 | TITRE: Une centaine de stagiaires burkinabè et nigériens qualifiés en techniques comman
+2026-10-17 19:19:38 [INFO] Action: Exists-GitHub | HASH: d6a1fcd26c05638780ef | TITRE: L'entreprise GRETECH présente l'état des lieux du projet de réhabilitation du st
+2026-10-17 19:19:44 [INFO] Action: Exists-GitHub | HASH: ea1dd83f07582206ee98 | TITRE: Les lauréats de la 3e édition du concours #TremplinStartupUEMOA au Burkina Faso 
+2026-10-17 19:19:44 [INFO] Action: Exists-GitHub | HASH: 62e346d5154af1669024 | TITRE: Concours directs 2026 : 40 résultats d’admissibilité déjà disponibles sur 62 con
+2026-10-17 19:19:44 [INFO] Action: Exists-GitHub | HASH: aff867517c12f7c30fcf | TITRE: La 3e édition du concours de langue «Pont vers le chinois» renforce les liens cu
+2026-10-17 19:19:44 [INFO] Action: Exists-GitHub | HASH: 210ef397565d6feecda3 | TITRE: 🔴 #burkinafaso🇧🇫 Le Gouvernement autorise le recrutement de 11 404 agents sur co
+2026-10-17 19:19:44 [INFO] Action: Exists-GitHub | HASH: c6cf8145a5c516fd720b | TITRE: 🔴 Burkina Faso : Bientôt le recrutement de 2000 Sous-Officiers de Police Ce Conc
+2026-10-17 19:19:51 [INFO] Action: Exists-GitHub | HASH: b66baa8b011f27a896a1 | TITRE: UNICEF Burkina Faso recrute pour son bureau de Ouagadougou un(e) : Cold Chain Sp
+2026-10-17 19:19:51 [INFO] Action: Exists-GitHub | HASH: b7d162bed518432fcdb1 | TITRE: Nous recrutons pour notre bureau pays #Burkinafaso un (e) Responsable des Ressou
+2026-10-17 19:19:51 [INFO] Action: Exists-GitHub | HASH: 64ef8e015a8a6d3d3259 | TITRE: Burkina-Faso - Conseiller(ère) en Gestion de connaissances / Partenaire UMPL/B: 
+2026-10-17 19:19:51 [INFO] Action: Exists-GitHub | HASH: 4a45f58ba5b8bdf6008d | TITRE: 🌍 Au Burkina Faso, l’OIT œuvre pour des emplois décents, des conditions justes e
+2026-10-17 19:19:51 [INFO] Action: Exists-GitHub | HASH: b63a07d1339c77cdc847 | TITRE: 🚨 BRIDGE BANK GROUP RECRUTE – 7 POSTES À POURVOIR AU BURKINA FASO 🇧🇫 Dans le cad
+2026-10-17 19:19:57 [INFO] Action: Exists-GitHub | HASH: 4c4ecbafef41dc53f817 | TITRE: L’ESMT recrute : DIRECTEUR GÉNÉRAL SEUL(E)S LES CANDIDAT(E)S PRÉSÉLECTIONNÉ(E)S 
+2026-10-17 19:19:57 [INFO] Action: Exists-GitHub | HASH: 6ef002f3ed91bcc1cf99 | TITRE: Cowater International (@Cowater_Intl) - X
+2026-10-17 19:19:57 [INFO] Action: Exists-GitHub | HASH: d9a826590a49e605f4a0 | TITRE: Code for Africa (@Code4Africa) - X
+2026-10-17 19:19:57 [INFO] Action: Exists-GitHub | HASH: ec0e18dded80de5312b5 | TITRE: La Chaîne de l'Espoir (@chainedelespoir) - X
+2026-10-17 19:19:57 [INFO] Action: Exists-GitHub | HASH: db6eae29f5db44c4d7c2 | TITRE: African Risk Capacity Group (@ARCapacity) - X
+2026-10-17 19:20:03 [INFO] Action: Exists-GitHub | HASH: 7ee0373d86236cdcd55e | TITRE: Angel Losada (@AngelLosadaEU) - X
+2026-10-17 19:20:03 [INFO] Action: Exists-GitHub | HASH: ec0e18dded80de5312b5 | TITRE: La Chaîne de l'Espoir (@chainedelespoir) - X
+2026-10-17 19:20:03 [INFO] Action: Exists-GitHub | HASH: 397ebe8c944317c279a6 | TITRE: La France au Mali (@FranceauMali) - X
+2026-10-17 19:20:03 [INFO] Action: Exists-GitHub | HASH: 321310a290166e445ebd | TITRE: Forum des Caisses de Dépôt (@ForumCaisses) - X
+2026-10-17 19:20:04 [INFO] Action: Exists-GitHub | HASH: 6e7be9995563766bfbdd | TITRE: IJBA (@IjbaOfficiel) - X
+2026-10-17 19:20:09 [INFO] Action: Exists-GitHub | HASH: c5e87466b4ce97c52e41 | TITRE: Lycée St-Exupéry (Ouagadougou) (@ExuperyLycee) on X - X
+2026-10-17 19:20:09 [INFO] Action: Exists-GitHub | HASH: 848bacd6e2c88943113d | TITRE: AMF_UMOA - X
+2026-10-17 19:20:09 [INFO] Action: Exists-GitHub | HASH: ec0e18dded80de5312b5 | TITRE: La Chaîne de l'Espoir (@chainedelespoir) - X
+2026-10-17 19:20:09 [INFO] Action: Exists-GitHub | HASH: 138cef2a14fae6ce7c4c | TITRE: Tropisme (@tropismeMtp) - X
+2026-10-17 19:20:09 [INFO] Action: Exists-GitHub | HASH: d9ccf2d25b7e14010ac4 | TITRE: UNAIDS Western & Central Africa (@UNAIDS_WCA) - X
+2026-10-17 19:20:16 [INFO] Action: Exists-GitHub | HASH: 9803006b0550b9cfd958 | TITRE: Bourse de l’excellence 2025 : La Fondation Orange Burkina octroi des bourses d’é
+2026-10-17 19:20:16 [INFO] Action: Exists-GitHub | HASH: 86267bb7e7b78ed67298 | TITRE: Burundi/Bureau des Bourses d'Etudes et de Stages (@bureau_et) - X
+2026-10-17 19:20:16 [INFO] Action: Exists-GitHub | HASH: 039ecb7779906345f78e | TITRE: UdeM international (@UdeM_intl) - X
+2026-10-17 19:20:16 [INFO] Action: Exists-GitHub | HASH: 8386791f7c21a2f7910e | TITRE: CIRDES (@CIRDES_BF) - X
+2026-10-17 19:20:16 [INFO] Action: Exists-GitHub | HASH: 2f91efbacb7f1b493f54 | TITRE: Université Saint-Paul University (@ustpaul_ca) - X
+2026-10-17 19:20:22 [INFO] Action: Exists-GitHub | HASH: 9803006b0550b9cfd958 | TITRE: Bourse de l’excellence 2025 : La Fondation Orange Burkina octroi des bourses d’é
+2026-10-17 19:20:22 [INFO] Action: Exists-GitHub | HASH: 3f13563c14a1f39e6e62 | TITRE: La Fondation Orange au Burkina Faso donne l'opportunité aux étudiants burkinabè 
+2026-10-17 19:20:22 [INFO] Action: Exists-GitHub | HASH: fb1a4508f28479577706 | TITRE: L'Ambassadeure d'Algérie au Burkina Faso a reçu les jeunes bacheliers burkinabè 
+2026-10-17 19:20:22 [INFO] Action: Exists-GitHub | HASH: d1f84baded852b83a13d | TITRE: #IndependanceBurkinaFaso #05Août1960 #BurkinaFaso Vous êtes intéressé par l’inve
+2026-10-17 19:20:22 [INFO] Action: Exists-GitHub | HASH: 3f0aae9a077e7b1bce36 | TITRE: 𝐄𝐧𝐠𝐚𝐠𝐞𝐫 𝐩𝐨𝐮𝐫 𝐥𝐚 𝐅𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 - 𝐔𝐧 𝐞́𝐭𝐮𝐝𝐢𝐚𝐧𝐭 𝐫𝐞𝐜̧𝐨𝐢𝐭 𝐮𝐧𝐞 𝐛𝐨𝐮𝐫𝐬𝐞… C’est un rêve qui c
+2026-10-17 19:20:29 [INFO] Action: Exists-GitHub | HASH: 3f22e78ce21bde54ea5b | TITRE: L’info du jour | 16 octobre 2026 - Mi-journée - YouTube
+2026-10-17 19:20:29 [INFO] Action: Exists-GitHub | HASH: e4a9cc902b788270f6ac | TITRE: Le Niger accuse la France à l’ONU : « une ingénierie cynique de recolonisation »
+2026-10-17 19:20:29 [INFO] Action: Exists-GitHub | HASH: 4bfd1e83b0c7c72412aa | TITRE: Niger : Niamey dénonce des manquements des sociétés pétrolières chinoises, cinq 
+2026-10-17 19:20:29 [INFO] Action: Exists-GitHub | HASH: 2880ba41d782dc374080 | TITRE: Entre l'Éthiopie et l'Érythrée, les tensions ont rarement été aussi importantes 
+2026-10-17 19:20:29 [INFO] Action: Exists-GitHub | HASH: 908d894394a09d3d24a7 | TITRE: Burkina : le recrutement de volontaires face au terrorisme dépasse largement les
+2026-10-17 19:20:36 [INFO] Action: Exists-GitHub | HASH: 076750c4fb1df5e69962 | TITRE: COMMENT CONDUIRE UNE VOITURE MANUELLE TUTO FACILE ! - YouTube
+2026-10-17 19:20:36 [INFO] Action: Exists-GitHub | HASH: a7892b7202321189563b | TITRE: Cours - 5e - Géographie : Le Chômage au Burkina Faso 2/4 - YouTube
+2026-10-17 19:20:36 [INFO] Action: Exists-GitHub | HASH: 92e6218bf8aa3091ee27 | TITRE: Expertise France Programmes Emploi Burkina Faso - YouTube
+2026-10-17 19:20:36 [INFO] Action: Exists-GitHub | HASH: a359a74724f60a27d53f | TITRE: [Dossier] Emploi Burkina Faso: les personnes handicapées dénoncent une exclusion
+2026-10-17 19:20:36 [INFO] Action: Exists-GitHub | HASH: 14f96f27306e20a76531 | TITRE: Burkina Faso : La SONABEL lance sa plateforme E-recrutement pour fluidifier son 
+2026-10-17 19:20:43 [INFO] Action: Exists-GitHub | HASH: 3f22e78ce21bde54ea5b | TITRE: L’info du jour | 16 octobre 2026 - Mi-journée - YouTube
+2026-10-17 19:20:43 [INFO] Action: Exists-GitHub | HASH: e4a9cc902b788270f6ac | TITRE: Le Niger accuse la France à l’ONU : « une ingénierie cynique de recolonisation »
+2026-10-17 19:20:43 [INFO] Action: Exists-GitHub | HASH: 4bfd1e83b0c7c72412aa | TITRE: Niger : Niamey dénonce des manquements des sociétés pétrolières chinoises, cinq 
+2026-10-17 19:20:43 [INFO] Action: Exists-GitHub | HASH: 2880ba41d782dc374080 | TITRE: Entre l'Éthiopie et l'Érythrée, les tensions ont rarement été aussi importantes 
+2026-10-17 19:20:43 [INFO] Action: Exists-GitHub | HASH: 1fc6837b00ac797eb777 | TITRE: Recrutement de 15000 agents de santé à base communautaire - YouTube
+2026-10-17 19:20:49 [INFO] Action: Exists-GitHub | HASH: 3f22e78ce21bde54ea5b | TITRE: L’info du jour | 16 octobre 2026 - Mi-journée - YouTube
+2026-10-17 19:20:49 [INFO] Action: Exists-GitHub | HASH: e4a9cc902b788270f6ac | TITRE: Le Niger accuse la France à l’ONU : « une ingénierie cynique de recolonisation »
+2026-10-17 19:20:49 [INFO] Action: Exists-GitHub | HASH: 4bfd1e83b0c7c72412aa | TITRE: Niger : Niamey dénonce des manquements des sociétés pétrolières chinoises, cinq 
+2026-10-17 19:20:49 [INFO] Action: Exists-GitHub | HASH: 2880ba41d782dc374080 | TITRE: Entre l'Éthiopie et l'Érythrée, les tensions ont rarement été aussi importantes 
+2026-10-17 19:20:49 [INFO] Action: Exists-GitHub | HASH: a599a763eb549c792576 | TITRE: « Faso Tonlo Zï » veut rapprocher l’emploi des jeunes - YouTube
+2026-10-17 19:20:56 [INFO] Action: Exists-GitHub | HASH: b0d0d2425bd912d0083f | TITRE: RD Congo : la pression sociale pour mettre au monde des garçons plutôt que des f
+2026-10-17 19:20:56 [INFO] Action: Exists-GitHub | HASH: 475b85089bd8956efce4 | TITRE: Employabilité des jeunes :un Forum national des stages au Burkina - YouTube
+2026-10-17 19:20:56 [INFO] Action: Exists-GitHub | HASH: 093ea2b39b91cc2ecfe1 | TITRE: Les procédures de recrutement de Burkina Equipements et la présentation du progr
+2026-10-17 19:20:56 [INFO] Action: Exists-GitHub | HASH: e079a3e93515038d478a | TITRE: La 2e édition du forum national des stages a été lancée, ce 26 avril, à Bobo-Dio
+2026-10-17 19:20:56 [INFO] Action: Exists-GitHub | HASH: 640d8761c7ac6fccf0cc | TITRE: 🟥🚴Tour du Faso 2025: Le Burkinabè Mahamadi Ilboudo remporte la 7e étape - YouTub
+2026-10-17 19:21:02 [INFO] Action: Exists-GitHub | HASH: 1dff166384a163f97b99 | TITRE: Burkina Faso : 15 lauréates reçues au palais de koulouba pour le concours de Tal
+2026-10-17 19:21:02 [INFO] Action: Exists-GitHub | HASH: 4e0866b7117cfb800865 | TITRE: Concours CAMES : 16 nouveaux enseignants-chercheurs burkinabè agrégés - YouTube
+2026-10-17 19:21:02 [INFO] Action: Exists-GitHub | HASH: e4b3bf2c04c1d4fc7ffb | TITRE: Concours de la Fonction publique: tout est mis en œuvre pour garantir l’égalité 
+2026-10-17 19:21:02 [INFO] Action: Exists-GitHub | HASH: 318822027e3306b8498c | TITRE: Le Burkina Faso suspend tous les concours de beauté nationaux. - YouTube
+2026-10-17 19:21:02 [INFO] Action: Exists-GitHub | HASH: 1716ab077975917bbdef | TITRE: Concours national Elite Mathématique 2024: les six (06) meilleures ont été disti
+2026-10-17 19:21:09 [INFO] Action: Exists-GitHub | HASH: b3d5e4a0fd1586010df0 | TITRE: Emploi au Burkina Faso : 76 postes pourvus sur plus de 3500 demandes en fin de 2
+2026-10-17 19:21:09 [INFO] Action: Exists-GitHub | HASH: 457806dc7efada6f8d58 | TITRE: Entreprendre au Burkina Faso (2/4) : Job Zongo présente Sinergi Burkina - YouTub
+2026-10-17 19:21:09 [INFO] Action: Exists-GitHub | HASH: c0293bf668342333a970 | TITRE: Burkina Faso : Plus de 20 000 entreprises et 200 000 emplois créés en 2023 - You
+2026-10-17 19:21:09 [INFO] Action: Exists-GitHub | HASH: e6388fb443bd2c33c991 | TITRE: Métier de Designer plateau télé au Burkina Faso - YouTube
+2026-10-17 19:21:10 [INFO] Action: Exists-GitHub | HASH: 21efe3701dd16c25c4f7 | TITRE: Burkina Faso : RMO Job Center fait un don de 10 tonnes de ciment à Faso Mêbo - Y
+2026-10-17 19:21:16 [INFO] Action: Exists-GitHub | HASH: 14f96f27306e20a76531 | TITRE: Burkina Faso : La SONABEL lance sa plateforme E-recrutement pour fluidifier son 
+2026-10-17 19:21:16 [INFO] Action: Exists-GitHub | HASH: ef66b9c6bfa2f6e04cd3 | TITRE: 📌❌📌 LE SECRET POUR TROUVER UN TRAVAIL AU CANADA 🇨🇦 - YouTube
+2026-10-17 19:21:16 [INFO] Action: Exists-GitHub | HASH: 4dcc21db19b8fb8aaada | TITRE: Petit Sergent - Saison 2 - Episode 03 - L'EMBAUCHE DE TOE - YouTube
+2026-10-17 19:21:16 [INFO] Action: Exists-GitHub | HASH: c86d0d11b4af078c0611 | TITRE: Le 7 Infos du 19 janvier 2025-BF1TV - YouTube
+2026-10-17 19:21:16 [INFO] Action: Exists-GitHub | HASH: 20046a2f7b65b222959e | TITRE: Simulation d'entretien d'embauche : caissier / caissière - YouTube
+2026-10-17 19:21:22 [INFO] Action: Exists-GitHub | HASH: 81571de605e4122e1d8e | TITRE: Revue de presse: l’adoption du nouveau code de travail est le sujet phare des pa
+2026-10-17 19:21:22 [INFO] Action: Exists-GitHub | HASH: 4426b8de39a22647cf74 | TITRE: Code du travail au Burkina: plusieurs innovations dans le nouveau texte ( Consei
+2026-10-17 19:21:22 [INFO] Action: Exists-GitHub | HASH: 875d5db6e6e68d397d92 | TITRE: Le 7Infos du 30 novembre 2025 (intégrale)- BF1TV - YouTube
+2026-10-17 19:21:22 [INFO] Action: Exists-GitHub | HASH: 61ce067ca2fb212a3036 | TITRE: FIN de CDD : VOS DROITS ET CALCUL DU SOLDE DE TOUT COMPTE - YouTube
+2026-10-17 19:21:22 [INFO] Action: Exists-GitHub | HASH: 93d7775eac8cbce91354 | TITRE: «Le contrat à durée déterminée ne peut être renouvelé plus de deux fois» - YouTu
+2026-10-17 19:21:29 [INFO] Action: Exists-GitHub | HASH: 3728713f1c8e42494c05 | TITRE: Burkina Faso : POCERAM et la CDI-BF signent une convention pour promouvoir le dr
+2026-10-17 19:21:29 [INFO] Action: Exists-GitHub | HASH: 6653245b57bd465020f9 | TITRE: Burkina Faso : Askadar Housmane Sanou prend les rênes de la Caisse des dépôts et
+2026-10-17 19:21:29 [INFO] Action: Exists-GitHub | HASH: 86154bf360b7df6aae00 | TITRE: CDI-BF : Le conseil de surveillance fort de 11 membres installé - YouTube
+2026-10-17 19:21:29 [INFO] Action: Exists-GitHub | HASH: 325fb18b36987d2f72cc | TITRE: Askadar Houssouman Sanou prend désormais en rênes de la Caisse de Dépôt et d’Inv
+2026-10-17 19:21:29 [INFO] Action: Exists-GitHub | HASH: eaf905be533b5361af5f | TITRE: Logement au Burkina Faso : La Caisse des dépôts et les acteurs de l'urbanisme en
+2026-10-17 19:21:35 [INFO] Action: Exists-GitHub | HASH: 351bacab9027d90c5aad | TITRE: RTB - Plusieurs étudiants reçoivent des bourses d’Etudes de l’ambassade de Chine
+2026-10-17 19:21:35 [INFO] Action: Exists-GitHub | HASH: 796e6d05d5b9bffd6956 | TITRE: Education: l’Arabie Saoudite au Burkina Faso offre des kits et des bourses d’étu
+2026-10-17 19:21:35 [INFO] Action: Exists-GitHub | HASH: 029179d5cf957087a008 | TITRE: Burkina Faso : Tout savoir sur la réforme portant régime des bourses d’études et
+2026-10-17 19:21:35 [INFO] Action: Exists-GitHub | HASH: 7a18736502fbe20a887f | TITRE: Burkina Faso : Les critères d'attribution des bourses d'études de l'enseignement
+2026-10-17 19:21:35 [INFO] Action: Exists-GitHub | HASH: 3ec4ff43d400d9576241 | TITRE: BOURSE D’ÉTUDES AU CANADA 2025 : JUSQU’À 12 700$ OFFERTS ! - YouTube
+2026-10-17 19:21:42 [INFO] Action: Exists-GitHub | HASH: 84b42d4ff9c2e8f7b16e | TITRE: Les bacheliers bénéficiaires de la bourse marocaine reçoivent les informations n
+2026-10-17 19:21:42 [INFO] Action: Exists-GitHub | HASH: 3aa98bb3a68bd7f50e77 | TITRE: Burkina Faso : Coris Bourse accueille des étudiants dans ses locaux - YouTube
+2026-10-17 19:21:42 [INFO] Action: Exists-GitHub | HASH: 6385dbe61a3bb4464b3b | TITRE: Burkina Faso : EDUC Bourse forme le personnel de la RTB aux mécanismes d’investi
+2026-10-17 19:21:42 [INFO] Action: Exists-GitHub | HASH: 979d53ecd231027d0c4c | TITRE: Education : cinq (5) étudiants ont reçu des bourses dénommées « bourse Ibriga » 
+2026-10-17 19:21:42 [INFO] Action: Exists-GitHub | HASH: 029179d5cf957087a008 | TITRE: Burkina Faso : Tout savoir sur la réforme portant régime des bourses d’études et
+2026-10-17 19:21:49 [INFO] Action: Exists-GitHub | HASH: 44337dfa751864687418 | TITRE: Votre prochaine opportunité vous attend! 👷‍♂️ Forage FTE Drilling poursuit sa cr
+2026-10-17 19:21:49 [INFO] Action: Exists-GitHub | HASH: cec02db794cf10055220 | TITRE: UNICEF recrute un-e Nutrition Specialist Cluster Coordination, NO-3, # 138298, T
+2026-10-17 19:21:49 [INFO] Action: Exists-GitHub | HASH: 4d542dc9413100b8b319 | TITRE: Nous recrutons 📢 🎯Consultant(e) National(e) - Ingénieur(e) Génie Civil - Projet 
+2026-10-17 19:21:49 [INFO] Action: Exists-GitHub | HASH: 95259f889a38b1251886 | TITRE: 𝐃𝐞𝐫𝐫𝐢𝐞̀𝐫𝐞 𝐜𝐡𝐚𝐪𝐮𝐞 𝐠𝐫𝐚𝐧𝐝 𝐞́𝐯𝐞́𝐧𝐞𝐦𝐞𝐧𝐭 𝐬𝐞 𝐜𝐚𝐜𝐡𝐞 𝐮𝐧𝐞 𝐞́𝐪𝐮𝐢𝐩𝐞 𝐜𝐚𝐩𝐚𝐛𝐥𝐞 𝐝𝐞 𝐭𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐞𝐫 𝐮
+2026-10-17 19:21:49 [INFO] Action: Exists-GitHub | HASH: 959212eaa93fe3b9d036 | TITRE: 📢 𝐑𝐞𝐜𝐫𝐮𝐭𝐞𝐦𝐞𝐧𝐭 𝐝'𝐮𝐧 𝐩𝐚𝐫𝐭𝐞𝐧𝐚𝐢𝐫𝐞 𝐝𝐞́𝐝𝐢𝐞́ 𝐚̀ 𝐥𝐚 𝐯𝐞𝐧𝐭𝐞 𝐝’𝐨𝐟𝐟𝐫𝐞𝐬 𝐬𝐮𝐫 𝐥𝐞 𝐬𝐞𝐠𝐦𝐞𝐧𝐭 «𝐄𝐧𝐭𝐫𝐞
+2026-10-17 19:21:56 [INFO] Action: Exists-GitHub | HASH: 1a5438e614f845f0fba0 | TITRE: 📢 REMA Pharma recrute en urgence sur 02 postes de délégués médicaux (Grand compt
+2026-10-17 19:21:56 [INFO] Action: Exists-GitHub | HASH: a87668f20b928cd8a25a | TITRE: 📢 🇧🇫 #BurkinaFaso [𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡] La Direction Générale de Banque Atlantique Burki
+2026-10-17 19:21:56 [INFO] Action: Exists-GitHub | HASH: 9d24bd7896cb981ef739 | TITRE: APPEL À CANDIDATURES Bonsoir les ami.e.s ! Le Goethe-Institut Burkina Faso recru
+2026-10-17 19:21:56 [INFO] Action: Exists-GitHub | HASH: ed49655a281d61d9ae71 | TITRE: 📢 6 consultants à recruter Une opportunité à saisir dans le cadre d’un projet fi
+2026-10-17 19:21:56 [INFO] Action: Exists-GitHub | HASH: 6a0e2fbb76a7ab2c1f1c | TITRE: Abdoulaye Bah a décroché un job suite à un Stage First, découvrez son témoignage
+2026-10-17 19:22:02 [INFO] Action: Exists-GitHub | HASH: 4d542dc9413100b8b319 | TITRE: Nous recrutons 📢 🎯Consultant(e) National(e) - Ingénieur(e) Génie Civil - Projet 
+2026-10-17 19:22:02 [INFO] Action: Exists-GitHub | HASH: cec02db794cf10055220 | TITRE: UNICEF recrute un-e Nutrition Specialist Cluster Coordination, NO-3, # 138298, T
+2026-10-17 19:22:02 [INFO] Action: Exists-GitHub | HASH: 0c924ee6faa71468a4c1 | TITRE: 🆕 OFFRE D'EMPLOI — Research Officer 🏢 Organisation Mondiale de la Santé (OMS / W
+2026-10-17 19:22:03 [INFO] Action: Exists-GitHub | HASH: 4a795f07d0154c7d087d | TITRE: UNICEF recrute un-e Social Policy Officer (Information/ Data Management), NO-2, 
+2026-10-17 19:22:03 [INFO] Action: Exists-GitHub | HASH: 89c397e26ada9893abe7 | TITRE: UNICEF republie l’offre pour un-e Information Management Specialist (Child Prote
+2026-10-17 19:22:09 [INFO] Action: Exists-GitHub | HASH: 44337dfa751864687418 | TITRE: Votre prochaine opportunité vous attend! 👷‍♂️ Forage FTE Drilling poursuit sa cr
+2026-10-17 19:22:09 [INFO] Action: Exists-GitHub | HASH: cec02db794cf10055220 | TITRE: UNICEF recrute un-e Nutrition Specialist Cluster Coordination, NO-3, # 138298, T
+2026-10-17 19:22:09 [INFO] Action: Exists-GitHub | HASH: 290c4228f94024d478cb | TITRE: ACTED recrute au Burkina Faso 🇧🇫 ! Vous avez une expertise en gestion de projets
+2026-10-17 19:22:09 [INFO] Action: Exists-GitHub | HASH: 1ad4e549c8d82f9b5705 | TITRE: Save the Children recrute au Burkina Faso 🇧🇫 ! Vous avez une expertise dans la g
+2026-10-17 19:22:09 [INFO] Action: Exists-GitHub | HASH: 957c783d2eec7d5848de | TITRE: 📢 Recrutement : Lycée Français André Malraux (Bobo-Dioulasso, Burkina Faso) Le L
+2026-10-17 19:22:16 [INFO] Action: Exists-GitHub | HASH: 977842d7a660dfcaa16f | TITRE: 𝟒 𝟕𝟎𝟎 𝐣𝐞𝐮𝐧𝐞𝐬 𝐞𝐧 𝐬𝐭𝐚𝐠𝐞 𝐝’𝐢𝐧𝐢𝐭𝐢𝐚𝐭𝐢𝐨𝐧 𝐚̀ 𝐥𝐚 𝐯𝐢𝐞 𝐩𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐧𝐞𝐥𝐥𝐞 : 𝐮𝐧𝐞 𝐧𝐨𝐮𝐯𝐞𝐥𝐥𝐞 𝐞́𝐭𝐚
+2026-10-17 19:22:16 [INFO] Action: Exists-GitHub | HASH: a8ba044719daf792ea13 | TITRE: Préparation CAN Féminine : fin de stage pour les Étalons Dames Les Étalons Dames
+2026-10-17 19:22:16 [INFO] Action: Exists-GitHub | HASH: f88a516d259a67ad8e3b | TITRE: L'étape des phases éliminatoires de Fitini Show 2021 à Ouagadougou a été une réu
+2026-10-17 19:22:16 [INFO] Action: Exists-GitHub | HASH: bf29a0ce6b05c7e18029 | TITRE: 🚨 CAF – Stage des arbitres en Égypte : Une représentante pour le Burkina Faso ! 
+2026-10-17 19:22:16 [INFO] Action: Exists-GitHub | HASH: a69afd8d761c2bbc5843 | TITRE: #Burkina Faso Appel à candidatures : Stage subventionné pour jeunes diplômé.e.s/
+2026-10-17 19:22:23 [INFO] Action: Exists-GitHub | HASH: c52326b05f8bef048e14 | TITRE: En juin 2026, le Burkina Faso suspend les concours de beauté afin de revoir leur
+2026-10-17 19:22:23 [INFO] Action: Exists-GitHub | HASH: 211929da3daf44db6a88 | TITRE: 📢 𝐀𝐕𝐈𝐒 𝐃’𝐀𝐏𝐏𝐄𝐋 𝐀̀ 𝐂𝐀𝐍𝐃𝐈𝐃𝐀𝐓𝐔𝐑𝐄𝐒 POUR UN 𝐂𝐎𝐍𝐂𝐎𝐔𝐑𝐒 𝐏𝐑𝐈𝐕𝐄́ 𝐃’𝐀𝐑𝐂𝐇𝐈𝐓𝐄𝐂𝐓𝐔𝐑𝐄. Orange Bu
+2026-10-17 19:22:23 [INFO] Action: Exists-GitHub | HASH: 85bd18681dc8b460d17b | TITRE: 🇧🇫 Burkina Faso : les concours de beauté suspendus jusqu’à nouvel ordre. Dans un
+2026-10-17 19:22:23 [INFO] Action: Exists-GitHub | HASH: ea202bd9b3e74c7bdae7 | TITRE: 🇧🇫 Dans un communiqué publié ce 8 juin, le ministère burkinabè de la Culture a a
+2026-10-17 19:22:23 [INFO] Action: Exists-GitHub | HASH: 7b74f827c029a2e14dfc | TITRE: #ELLEnews 🇧🇫 Le Burkina Faso marque une pause. Les autorités ont annoncé la susp
+2026-10-17 19:22:30 [INFO] Action: Exists-GitHub | HASH: cec02db794cf10055220 | TITRE: UNICEF recrute un-e Nutrition Specialist Cluster Coordination, NO-3, # 138298, T
+2026-10-17 19:22:30 [INFO] Action: Exists-GitHub | HASH: 290c4228f94024d478cb | TITRE: ACTED recrute au Burkina Faso 🇧🇫 ! Vous avez une expertise en gestion de projets
+2026-10-17 19:22:30 [INFO] Action: Exists-GitHub | HASH: 1ad4e549c8d82f9b5705 | TITRE: Save the Children recrute au Burkina Faso 🇧🇫 ! Vous avez une expertise dans la g
+2026-10-17 19:22:30 [INFO] Action: Exists-GitHub | HASH: 4d542dc9413100b8b319 | TITRE: Nous recrutons 📢 🎯Consultant(e) National(e) - Ingénieur(e) Génie Civil - Projet 
+2026-10-17 19:22:30 [INFO] Action: Exists-GitHub | HASH: 2c426d18787b643a7b3d | TITRE: 🆕 OFFRE D'EMPLOI — Chief WASH (P-4) – Ouagadougou 🏢 UNICEF · 📍 Ouagadougou, Burk
+2026-10-17 19:22:36 [INFO] Action: Exists-GitHub | HASH: 64770abf3beff04832c8 | TITRE: WWF Cameroon is hiring ! - Position : An Agriculture Officer - Location: Yokadou
+2026-10-17 19:22:36 [INFO] Action: Exists-GitHub | HASH: 3073fb88fe71512a8c2d | TITRE: 🌍 **Votre expertise en audit peut contribuer à la mission des Nations Unies !** 
+2026-10-17 19:22:36 [INFO] Action: Exists-GitHub | HASH: 2ca9c38f17b202f5b816 | TITRE: FHI 360 recrute un clinicien au Burkina Faso 🇧🇫 Vous avez une expertise en prati
+2026-10-17 19:22:36 [INFO] Action: Exists-GitHub | HASH: b73a1b09f50802c8125e | TITRE: 𝐀𝐧𝐧𝐨𝐧𝐜𝐞 𝐝𝐞 𝐫𝐞𝐜𝐫𝐮𝐭𝐞𝐦𝐞𝐧𝐭 : 𝐀𝐆𝐄𝐍𝐓 𝐃𝐄𝐒 𝐎𝐏𝐄́𝐑𝐀𝐓𝐈𝐎𝐍𝐒 𝐁𝐀𝐍𝐂𝐀𝐈𝐑𝐄𝐒 Lieu : Zone CEMAC (Répu
+2026-10-17 19:22:36 [INFO] Action: Exists-GitHub | HASH: b442795e44f992b252e8 | TITRE: #Avis de #Recrutement WHH 👉Superviseurs des opérations (14447) Lieu📍: Bamako Pos
+2026-10-17 19:22:43 [INFO] Action: Exists-GitHub | HASH: 1ad4e549c8d82f9b5705 | TITRE: Save the Children recrute au Burkina Faso 🇧🇫 ! Vous avez une expertise dans la g
+2026-10-17 19:22:43 [INFO] Action: Exists-GitHub | HASH: 290c4228f94024d478cb | TITRE: ACTED recrute au Burkina Faso 🇧🇫 ! Vous avez une expertise en gestion de projets
+2026-10-17 19:22:43 [INFO] Action: Exists-GitHub | HASH: 2c426d18787b643a7b3d | TITRE: 🆕 OFFRE D'EMPLOI — Chief WASH (P-4) – Ouagadougou 🏢 UNICEF · 📍 Ouagadougou, Burk
+2026-10-17 19:22:43 [INFO] Action: Exists-GitHub | HASH: 4253c0c3e0fc326891b1 | TITRE: 🆕 OFFRE D'EMPLOI — Spécialiste communication et plaidoyer (P-3, temporaire 6 moi
+2026-10-17 19:22:43 [INFO] Action: Exists-GitHub | HASH: 2ca9c38f17b202f5b816 | TITRE: FHI 360 recrute un clinicien au Burkina Faso 🇧🇫 Vous avez une expertise en prati
+2026-10-17 19:22:49 [INFO] Action: Exists-GitHub | HASH: 957c783d2eec7d5848de | TITRE: 📢 Recrutement : Lycée Français André Malraux (Bobo-Dioulasso, Burkina Faso) Le L
+2026-10-17 19:22:49 [INFO] Action: Exists-GitHub | HASH: 0c924ee6faa71468a4c1 | TITRE: 🆕 OFFRE D'EMPLOI — Research Officer 🏢 Organisation Mondiale de la Santé (OMS / W
+2026-10-17 19:22:49 [INFO] Action: Exists-GitHub | HASH: a69afd8d761c2bbc5843 | TITRE: #Burkina Faso Appel à candidatures : Stage subventionné pour jeunes diplômé.e.s/
+2026-10-17 19:22:49 [INFO] Action: Exists-GitHub | HASH: 44337dfa751864687418 | TITRE: Votre prochaine opportunité vous attend! 👷‍♂️ Forage FTE Drilling poursuit sa cr
+2026-10-17 19:22:49 [INFO] Action: Exists-GitHub | HASH: 9bbee8a9e14d87fe0987 | TITRE: 🇧🇫 #BurkinaFaso 𝗘𝘁 𝘀𝗶 𝘃𝗼𝘁𝗿𝗲 𝗽𝗿𝗲𝗺𝗶𝗲𝗿 𝗽𝗮𝘀 𝘃𝗲𝗿𝘀 𝘂𝗻𝗲 𝗰𝗮𝗿𝗿𝗶𝗲̀𝗿𝗲 𝗯𝗮𝗻𝗰𝗮𝗶𝗿𝗲 𝗰𝗼𝗺𝗺𝗲𝗻𝗰̧𝗮𝗶𝘁 
+2026-10-17 19:22:56 [INFO] Action: Exists-GitHub | HASH: bef5ff00c5b4958e647f | TITRE: 𝐁𝐨𝐬𝐬, est-ce que tu sais que tu peux avoir une bourse d'étude en cumulant tes po
+2026-10-17 19:22:56 [INFO] Action: Exists-GitHub | HASH: 8b537a8a0bbb1b4e17d2 | TITRE: Bonne Nouvelle!!! Cette année encore, la Fondation Orange au Burkina Faso offre 
+2026-10-17 19:22:56 [INFO] Action: Exists-GitHub | HASH: d7001bf1a9957fe52513 | TITRE: Plus de 𝟯𝟬𝟬 𝗲́𝘁𝘂𝗱𝗶𝗮𝗻𝘁𝘀 ont bénéficié d'une bourse d'étude dans le domaine du num
+2026-10-17 19:22:56 [INFO] Action: Exists-GitHub | HASH: 4e4ef0913d9127564cba | TITRE: 📣Les candidatures pour les « bourses d'études Türkiye » sont ouvertes ! Postulez
+2026-10-17 19:22:56 [INFO] Action: Exists-GitHub | HASH: 95900acbe76402ec69c1 | TITRE: 🇧🇫 Bourses d’Excellence 2026-2027 Les Écoles Internationales Maarif Burkina Faso
+2026-10-17 19:23:03 [INFO] Action: Exists-GitHub | HASH: 816b0d4cd071a8e017b5 | TITRE: 🎓 Trouve le chemin qui mène à la bourse, trois entrées, un seul chemin gagnant..
+2026-10-17 19:23:03 [INFO] Action: Exists-GitHub | HASH: bef5ff00c5b4958e647f | TITRE: 𝐁𝐨𝐬𝐬, est-ce que tu sais que tu peux avoir une bourse d'étude en cumulant tes po
+2026-10-17 19:23:03 [INFO] Action: Exists-GitHub | HASH: 75620dd0042cd2603416 | TITRE: Les actions cotées à la Bourse de Burkina Faso (BRVM) versent des dividendes att
+2026-10-17 19:23:03 [INFO] Action: Exists-GitHub | HASH: fd5a86c4c14c92a49c03 | TITRE: BOURSES DE FORMATION CONTINUE 2027 Le Goethe-Institut Burkina Faso offre des bou
+2026-10-17 19:23:03 [INFO] Action: Exists-GitHub | HASH: 8b537a8a0bbb1b4e17d2 | TITRE: Bonne Nouvelle!!! Cette année encore, la Fondation Orange au Burkina Faso offre 
+2026-10-17 19:23:10 [INFO] Action: Exists-GitHub | HASH: e3f764b3e68d829f2e3c | TITRE: Exemplaire de lettre de demande d'emploi au burkina faso - Pinterest
+2026-10-17 19:23:10 [INFO] Action: Exists-GitHub | HASH: fe0a1418a2d12dff424b | TITRE: Exemplaire de demande d'emploi au Burkina Faso | Lettre de motivation spontanée,
+2026-10-17 19:23:10 [INFO] Action: Exists-GitHub | HASH: 9d225adea241bc72d789 | TITRE: Exemplaire de demande d - Pinterest
+2026-10-17 19:23:10 [INFO] Action: Exists-GitHub | HASH: cd79b34f8da30b05a2ab | TITRE: Exemplaire de demande d'emploi pdf - Pinterest
+2026-10-17 19:23:10 [INFO] Action: Exists-GitHub | HASH: 959f8f93b44ba518beaa | TITRE: demande manuscrite pour emploi - Pinterest
+2026-10-17 19:23:17 [INFO] Action: Exists-GitHub | HASH: e3f764b3e68d829f2e3c | TITRE: Exemplaire de lettre de demande d'emploi au burkina faso - Pinterest
+2026-10-17 19:23:17 [INFO] Action: Exists-GitHub | HASH: fe0a1418a2d12dff424b | TITRE: Exemplaire de demande d'emploi au Burkina Faso | Lettre de motivation spontanée,
+2026-10-17 19:23:17 [INFO] Action: Exists-GitHub | HASH: cd79b34f8da30b05a2ab | TITRE: Exemplaire de demande d'emploi pdf - Pinterest
+2026-10-17 19:23:17 [INFO] Action: Exists-GitHub | HASH: 2a99aa42fa654147e8fd | TITRE: Exemplaire de demande d - Pinterest
+2026-10-17 19:23:17 [INFO] Action: Exists-GitHub | HASH: 959f8f93b44ba518beaa | TITRE: demande manuscrite pour emploi - Pinterest
+2026-10-17 19:23:23 [INFO] Action: Exists-GitHub | HASH: e3f764b3e68d829f2e3c | TITRE: Exemplaire de lettre de demande d'emploi au burkina faso - Pinterest
+2026-10-17 19:23:23 [INFO] Action: Exists-GitHub | HASH: fe0a1418a2d12dff424b | TITRE: Exemplaire de demande d'emploi au Burkina Faso | Lettre de motivation spontanée,
+2026-10-17 19:23:23 [INFO] Action: Exists-GitHub | HASH: 9d225adea241bc72d789 | TITRE: Exemplaire de demande d - Pinterest
+2026-10-17 19:23:23 [INFO] Action: Exists-GitHub | HASH: 6c5b0776b7cbc3d32851 | TITRE: Modèle de Demande d'Emploi au Cameroun (PDF et Word) - Pinterest
+2026-10-17 19:23:23 [INFO] Action: Exists-GitHub | HASH: cd79b34f8da30b05a2ab | TITRE: Exemplaire de demande d'emploi pdf - Pinterest
+2026-10-17 19:23:30 [INFO] Action: Exists-GitHub | HASH: e3f764b3e68d829f2e3c | TITRE: Exemplaire de lettre de demande d'emploi au burkina faso - Pinterest
+2026-10-17 19:23:30 [INFO] Action: Exists-GitHub | HASH: fe0a1418a2d12dff424b | TITRE: Exemplaire de demande d'emploi au Burkina Faso | Lettre de motivation spontanée,
+2026-10-17 19:23:30 [INFO] Action: Exists-GitHub | HASH: 9d225adea241bc72d789 | TITRE: Exemplaire de demande d - Pinterest
+2026-10-17 19:23:30 [INFO] Action: Exists-GitHub | HASH: cd79b34f8da30b05a2ab | TITRE: Exemplaire de demande d'emploi pdf - Pinterest
+2026-10-17 19:23:30 [INFO] Action: Exists-GitHub | HASH: 959f8f93b44ba518beaa | TITRE: demande manuscrite pour emploi - Pinterest
+2026-10-17 19:23:36 [INFO] Action: Exists-GitHub | HASH: ac18db8292f57b6f7c77 | TITRE: Exemple De Demande Manuscrite Au Burkina Faso - Pinterest
+2026-10-17 19:23:36 [INFO] Action: Exists-GitHub | HASH: 793d8aa0a6827f3abf14 | TITRE: Lettre De Demande Manuscrite Burkina Faso - Pinterest
+2026-10-17 19:23:36 [INFO] Action: Exists-GitHub | HASH: e3f764b3e68d829f2e3c | TITRE: Exemplaire de lettre de demande d'emploi au burkina faso - Pinterest
+2026-10-17 19:23:36 [INFO] Action: Exists-GitHub | HASH: 2d0a3d6521414087e001 | TITRE: Comment Écrire Une Lettre De Demande De Stage - Pinterest
+2026-10-17 19:23:36 [INFO] Action: Exists-GitHub | HASH: aa5a6c15f6d60e71872b | TITRE: Demande De Stage Au Mali - Pinterest
+2026-10-17 19:23:43 [INFO] Action: Exists-GitHub | HASH: ac18db8292f57b6f7c77 | TITRE: Exemple De Demande Manuscrite Au Burkina Faso - Pinterest
+2026-10-17 19:23:43 [INFO] Action: Exists-GitHub | HASH: 793d8aa0a6827f3abf14 | TITRE: Lettre De Demande Manuscrite Burkina Faso - Pinterest
+2026-10-17 19:23:43 [INFO] Action: Exists-GitHub | HASH: d58c7600900af8c6f835 | TITRE: Demande Manuscrite Concours Fonction Publique - Pinterest
+2026-10-17 19:23:43 [INFO] Action: Exists-GitHub | HASH: e3f764b3e68d829f2e3c | TITRE: Exemplaire de lettre de demande d'emploi au burkina faso - Pinterest
+2026-10-17 19:23:43 [INFO] Action: Exists-GitHub | HASH: 97fbacffe7d8619c8a73 | TITRE: Demande de Participation Au Concours de Recrutement | Lettre de motivation emplo
+2026-10-17 19:23:49 [INFO] Action: Exists-GitHub | HASH: fe0a1418a2d12dff424b | TITRE: Exemplaire de demande d'emploi au Burkina Faso | Lettre de motivation spontanée,
+2026-10-17 19:23:49 [INFO] Action: Exists-GitHub | HASH: e3f764b3e68d829f2e3c | TITRE: Exemplaire de lettre de demande d'emploi au burkina faso - Pinterest
+2026-10-17 19:23:49 [INFO] Action: Exists-GitHub | HASH: 2a99aa42fa654147e8fd | TITRE: Exemplaire de demande d - Pinterest
+2026-10-17 19:23:49 [INFO] Action: Exists-GitHub | HASH: 959f8f93b44ba518beaa | TITRE: demande manuscrite pour emploi - Pinterest
+2026-10-17 19:23:49 [INFO] Action: Exists-GitHub | HASH: 0976e0087a01c2a9108c | TITRE: modèles de demande d'emploi - Pinterest
+2026-10-17 19:24:01 [INFO] Action: Exists-GitHub | HASH: ecb25bd6bda8ed9bd3d4 | TITRE: Message De Démission - Pinterest
+2026-10-17 19:24:01 [INFO] Action: Exists-GitHub | HASH: 8753be0c98c4249a4103 | TITRE: Rédiger Une Lettre De Démission - Pinterest
+2026-10-17 19:24:01 [INFO] Action: Exists-GitHub | HASH: 42a324fddb900c201194 | TITRE: Modèle de Lettre de Demande d'Aide Sociale | PDF & Word - Pinterest
+2026-10-17 19:24:01 [INFO] Action: Exists-GitHub | HASH: cac2d865e9f24fdf84a6 | TITRE: Demande Modèle Lettre Avancement De Grade - Pinterest
+2026-10-17 19:24:01 [INFO] Action: Exists-GitHub | HASH: 247b2e39defc356acdfa | TITRE: Exemple de Demande Manuscrite pour le Ministre de l'Éducation Nationale en PDF -
+2026-10-17 19:24:07 [INFO] Action: Exists-GitHub | HASH: 6b42ccd79c807debef85 | TITRE: Monument Aux Martyrs - Pinterest
+2026-10-17 19:24:07 [INFO] Action: Exists-GitHub | HASH: 8753be0c98c4249a4103 | TITRE: Rédiger Une Lettre De Démission - Pinterest
+2026-10-17 19:24:07 [INFO] Action: Exists-GitHub | HASH: ecb25bd6bda8ed9bd3d4 | TITRE: Message De Démission - Pinterest
+2026-10-17 19:24:07 [INFO] Action: Exists-GitHub | HASH: c391b5ad70955b526fd6 | TITRE: COUDRE UN BOUBOU - SB Afrique Couture - Pinterest
+2026-10-17 19:24:07 [INFO] Action: Exists-GitHub | HASH: 7a004be0cdc8ab319068 | TITRE: Exemple De Démission Avec Préavis - Pinterest
+2026-10-17 19:24:14 [INFO] Action: Exists-GitHub | HASH: b704b44efc842161040e | TITRE: Découvrez cette Épingle de Kelt- - Pinterest
+2026-10-17 19:24:14 [INFO] Action: Exists-GitHub | HASH: 22e858194deb98084dd1 | TITRE: Lettre de motivation demande d'inscription au collège ou lycée - Pinterest
+2026-10-17 19:24:14 [INFO] Action: Exists-GitHub | HASH: 69f9bf3589f4d93fcced | TITRE: Lettre De Demande De Prêt Scolaire - Pinterest
+2026-10-17 19:24:14 [INFO] Action: Exists-GitHub | HASH: 81151b18095896263e77 | TITRE: Lettre De Stage - Pinterest
+2026-10-17 19:24:14 [INFO] Action: Exists-GitHub | HASH: db164c27e55520efe1c9 | TITRE: Collection GUEU - Pinterest
+2026-10-17 19:24:20 [INFO] Action: Exists-GitHub | HASH: b704b44efc842161040e | TITRE: Découvrez cette Épingle de Kelt- - Pinterest
+2026-10-17 19:24:20 [INFO] Action: Exists-GitHub | HASH: 0eade2c313213c6c7f65 | TITRE: 18 idées de Couture : toile de jute | sac toile de jute, créations en toile de j
+2026-10-17 19:24:20 [INFO] Action: Exists-GitHub | HASH: ebf021b727f5f2db8265 | TITRE: 150 idées de Ensemble pantalon | mode femme pantalon, mode femme décontractée, m
+2026-10-17 19:24:20 [INFO] Action: Exists-GitHub | HASH: 22e858194deb98084dd1 | TITRE: Lettre de motivation demande d'inscription au collège ou lycée - Pinterest
+2026-10-17 19:24:20 [INFO] Action: Exists-GitHub | HASH: 42a324fddb900c201194 | TITRE: Modèle de Lettre de Demande d'Aide Sociale | PDF & Word - Pinterest
+2026-10-17 19:24:25 [INFO] Démarrage du scan GitHub...
+2026-10-17 19:24:26 [INFO] Système de logs initialisé (Console + Fichier).
+2026-10-17 19:24:26 [INFO] Démarrage du scan Google News...
+2026-10-17 19:24:27 [INFO] Action: Exists-GitHub | HASH: e5a6138f3c0387a0bc75 | TITRE: Burkina Faso: les inquiétudes de Human Rights Watch face au nouveau recrutement 
+2026-10-17 19:24:27 [INFO] Action: Exists-GitHub | HASH: a244a56bbc0ca9fbdb18 | TITRE: CANULAR : Ce site n'est pas le portail de recrutement de la Raffinerie nationale
+2026-10-17 19:24:27 [INFO] Action: Exists-GitHub | HASH: 930285e908ea8160e1b8 | TITRE: Eagle Football Group : recrutement en défense - Boursier.com
+2026-10-17 19:24:27 [INFO] Action: Exists-GitHub | HASH: 41ceebbca58470c6866f | TITRE: Burkina Faso : 100.000 civils recrutés pour renforcer l’armée face à la menace j
+2026-10-17 19:24:27 [INFO] Action: Exists-GitHub | HASH: 7c5de74c2e95c6a05623 | TITRE: Le Burkina Faso va recruter 100.000 civils comme réservistes dans l’armée - Le36
+2026-10-17 19:24:33 [INFO] Action: Exists-GitHub | HASH: 283693a3c3627834a35a | TITRE: Jeunesse et emploi : Orange Burkina Faso, à travers Orange Digital Center, prése
+2026-10-17 19:24:33 [INFO] Action: Exists-GitHub | HASH: d335156d756c7a694676 | TITRE: Burkina Faso : le Ouaga Job Challenge, réponse novatrice au problème de l’emploi
+2026-10-17 19:24:33 [INFO] Action: Exists-GitHub | HASH: 97e7863c516b46f3cedb | TITRE: Emploi : 3 questions à Christian Koko, DRH d’Orange Côte d’Ivoire - Jeune Afriqu
+2026-10-17 19:24:33 [INFO] Action: Exists-GitHub | HASH: a1094cb82e1e9a961b8c | TITRE: Burkina Faso : « Carrefour des opportunités », une initiative pour l’insertion s
+2026-10-17 19:24:33 [INFO] Action: Exists-GitHub | HASH: 63865edfa8363dcbc003 | TITRE: Orange Digital Center/ Job Dating 2025 : Plus de 200 talents face aux recruteurs
+2026-10-17 19:24:40 [INFO] Action: Exists-GitHub | HASH: e5a6138f3c0387a0bc75 | TITRE: Burkina Faso: les inquiétudes de Human Rights Watch face au nouveau recrutement 
+2026-10-17 19:24:40 [INFO] Action: Exists-GitHub | HASH: 283693a3c3627834a35a | TITRE: Jeunesse et emploi : Orange Burkina Faso, à travers Orange Digital Center, prése
+2026-10-17 19:24:40 [INFO] Action: Exists-GitHub | HASH: a7519cae2ea4ea29c187 | TITRE: Avis de recrutement d’un comptable - leFaso.net - L'actualité au Burkina Faso
+2026-10-17 19:24:40 [INFO] Action: Exists-GitHub | HASH: c5fad6461a282bcd616b | TITRE: Attention à cette fausse offre d’emploi chez TotalEnergies au Burkina Faso - AFP
+2026-10-17 19:24:40 [INFO] Action: Exists-GitHub | HASH: 2818d4aa7ff94845bec2 | TITRE: Le bureau de la FAO au Burkina Faso recrute un(e) spécialiste national(e) en sau
+2026-10-17 19:24:47 [INFO] Action: Exists-GitHub | HASH: b30322d864d99101fe8c | TITRE: Burkina Faso - Banque mondiale : un nouveau partenariat pour l'emploi - Koaci
+2026-10-17 19:24:47 [INFO] Action: Exists-GitHub | HASH: 7ee1394715062937d992 | TITRE: Burkina-BM : partenariat pour l’emploi et les secteurs sociaux - APAnews - Agenc
+2026-10-17 19:24:47 [INFO] Action: Exists-GitHub | HASH: 1c763f71cb77990edcfb | TITRE: Burkina Naatilgué : 1 000 jeunes, 1 000 emplois, 1 000 entreprises à l’horizon 2
+2026-10-17 19:24:47 [INFO] Action: Exists-GitHub | HASH: e5a6138f3c0387a0bc75 | TITRE: Burkina Faso: les inquiétudes de Human Rights Watch face au nouveau recrutement 
+2026-10-17 19:24:47 [INFO] Action: Exists-GitHub | HASH: 38296cb4fec6e288cc31 | TITRE: Burkina Faso : création de 117 000 nouveaux emplois d’ici 2023 - Africa24 TV
+2026-10-17 19:24:53 [INFO] Action: Exists-GitHub | HASH: bc7a2a6ea16e5312bd12 | TITRE: Un stage de bronze à la cire perdue avec un fondeur burkinabé, à Moëlan-sur-Mer 
+2026-10-17 19:24:53 [INFO] Action: Exists-GitHub | HASH: cb1898295c5341efe3c9 | TITRE: Offre de stage : conception d’une plateforme de services support à l’innovation 
+2026-10-17 19:24:53 [INFO] Action: Exists-GitHub | HASH: eb8a75ca8e0114b42628 | TITRE: Préparatifs CAN 2026 : les Lionnes de l’Atlas concluent leur stage par un nul fa
+2026-10-17 19:24:53 [INFO] Action: Exists-GitHub | HASH: ddcfd9fe4f8cb507b4de | TITRE: Études, formation ou stage à l’étranger : Ouverture des demandes d’autorisation 
+2026-10-17 19:24:53 [INFO] Action: Exists-GitHub | HASH: 6b550c57e09ffe9214af | TITRE: Burkina Faso : désormais, partir étudier à l'étranger nécessitera une autorisati
+2026-10-17 19:25:00 [INFO] Action: Exists-GitHub | HASH: a3521665314e183ef21e | TITRE: Burkina Faso : 15 lauréates reçues au palais de koulouba pour le concours de Tal
+2026-10-17 19:25:00 [INFO] Action: Exists-GitHub | HASH: c74897de3ec0c82188b0 | TITRE: Au Burkina Faso, le ministère de la Culture suspend tous les concours de beauté 
+2026-10-17 19:25:00 [INFO] Action: Exists-GitHub | HASH: 5e7c0ce9a3369ada0c3a | TITRE: Burkina Faso : Hakili Mousso veut faire des sciences un terrain de conquête pour
+2026-10-17 19:25:00 [INFO] Action: Exists-GitHub | HASH: 87087fa9d21dcfaeb315 | TITRE: Au Burkina Faso, les concours de beauté sont désormais proscrits - Jeune Afrique
+2026-10-17 19:25:00 [INFO] Action: Exists-GitHub | HASH: d4c19d3c4e1611f0fb9e | TITRE: Le Burkina Faso suspend tous les concours de beauté jusqu’à nouvel ordre | L'obs
+2026-10-17 19:25:06 [INFO] Action: Exists-GitHub | HASH: b30322d864d99101fe8c | TITRE: Burkina Faso - Banque mondiale : un nouveau partenariat pour l'emploi - Koaci
+2026-10-17 19:25:06 [INFO] Action: Exists-GitHub | HASH: 38296cb4fec6e288cc31 | TITRE: Burkina Faso : création de 117 000 nouveaux emplois d’ici 2023 - Africa24 TV
+2026-10-17 19:25:06 [INFO] Action: Exists-GitHub | HASH: 283693a3c3627834a35a | TITRE: Jeunesse et emploi : Orange Burkina Faso, à travers Orange Digital Center, prése
+2026-10-17 19:25:06 [INFO] Action: Exists-GitHub | HASH: 2818d4aa7ff94845bec2 | TITRE: Le bureau de la FAO au Burkina Faso recrute un(e) spécialiste national(e) en sau
+2026-10-17 19:25:06 [INFO] Action: Exists-GitHub | HASH: c5fad6461a282bcd616b | TITRE: Attention à cette fausse offre d’emploi chez TotalEnergies au Burkina Faso - AFP
+2026-10-17 19:25:12 [INFO] Action: Exists-GitHub | HASH: 6018769d50cb49abb7b0 | TITRE: Carrières à l’OMS : Postuler à un poste - World Health Organization (WHO)
+2026-10-17 19:25:12 [INFO] Action: Exists-GitHub | HASH: 3ec37d2e7c8e45dcc33d | TITRE: Le retrait français du Burkina Faso - Le Grand Continent
+2026-10-17 19:25:12 [INFO] Action: Exists-GitHub | HASH: 1e75aabf960d58ddd28a | TITRE: Recrutement : Responsable de l’Afrique francophone pour le Global Investigative 
+2026-10-17 19:25:12 [INFO] Action: Exists-GitHub | HASH: d8034bf4cfd8a1224cdd | TITRE: Recrutement : Magasinier de pièces de rechange pour engins lourds - leFaso.net -
+2026-10-17 19:25:12 [INFO] Action: Exists-GitHub | HASH: a32c72a996559870dfc4 | TITRE: Côte d’Ivoire : avis de recrutement de l’UNFPA - L-FRII
+2026-10-17 19:25:18 [INFO] Action: Exists-GitHub | HASH: a937f2ca34038ee2889f | TITRE: Burkina Faso . Un Code du travail tout neuf | L'observateur - L'observateur
+2026-10-17 19:25:18 [INFO] Action: Exists-GitHub | HASH: 381f0785a009503f44cb | TITRE: Quelques innovations majeures de la loi n°013-2026/ALP du 6 mai 2026 portant nou
+2026-10-17 19:25:18 [INFO] Action: Exists-GitHub | HASH: ee273c33b1c737af486a | TITRE: Le Burkina Faso adopte un nouveau Code du travail - AGENCE ECOFIN
+2026-10-17 19:25:18 [INFO] Action: Exists-GitHub | HASH: 9c330e9beb1bfdb1f0ae | TITRE: Code du travail au Burkina Faso : Le projet de loi adopté par les députés de l’A
+2026-10-17 19:25:18 [INFO] Action: Exists-GitHub | HASH: 1e9b2f79dce1a44200bb | TITRE: Communiqué | SONABEL : recrutement de 120 Ouvriers Qualifiés Monteurs Lignes HTB
+2026-10-17 19:25:24 [INFO] Action: Exists-GitHub | HASH: 6cc0a39de1366c6c4215 | TITRE: Burkina Faso : la CDI-BF clôture 2025 avec un bénéfice net de 844 millions FCFA 
+2026-10-17 19:25:24 [INFO] Action: Exists-GitHub | HASH: 6d604d5cf0a93b8f9607 | TITRE: Caisse des dépôts et d’investissements du Burkina Faso : Serge Auguste Bayala pa
+2026-10-17 19:25:24 [INFO] Action: Exists-GitHub | HASH: 07195db768e33364546c | TITRE: SONABEL/ tests de recrutements Contrats de Travail à Durée Indéterminée (CDI) : 
+2026-10-17 19:25:24 [INFO] Action: Exists-GitHub | HASH: 461a6c008b71b7f3bfd9 | TITRE: L’Etat du Burkina Faso prend le contrôle de la Société pharmaceutique PROPHARM S
+2026-10-17 19:25:24 [INFO] Action: Exists-GitHub | HASH: c26cc41c9e678c4da717 | TITRE: Burkina Faso : La Caisse des dépôts boucle 2025 avec 844 millions FCFA de bénéfi
+2026-10-17 19:25:30 [INFO] Action: Exists-GitHub | HASH: 5931744faff6b007df51 | TITRE: Burkina: les étudiants doivent désormais obtenir une autorisation du gouvernemen
+2026-10-17 19:25:30 [INFO] Action: Exists-GitHub | HASH: 8af325d19e90a80cca66 | TITRE: Burkina Faso: les étudiants désormais obligés d'obtenir l'aval du gouvernement p
+2026-10-17 19:25:30 [INFO] Action: Exists-GitHub | HASH: 77eb30963b7f6f2702cf | TITRE: Burkina/Enseignement supérieur : Moov Africa-ONATEL octroie 2,5 millions de FCFA
+2026-10-17 19:25:30 [INFO] Action: Exists-GitHub | HASH: ca4af9feac2ca582e3d9 | TITRE: Burkina Faso. Aval obligatoire du gouvernement pour les études à l’étranger: les
+2026-10-17 19:25:30 [INFO] Action: Exists-GitHub | HASH: ab587845412047783a56 | TITRE: Burkina : autorisation obligatoire pour étudier à l’étranger - APAnews - Agence 
+2026-10-17 19:25:37 [INFO] Action: Exists-GitHub | HASH: ab587845412047783a56 | TITRE: Burkina : autorisation obligatoire pour étudier à l’étranger - APAnews - Agence 
+2026-10-17 19:25:37 [INFO] Action: Exists-GitHub | HASH: ca4af9feac2ca582e3d9 | TITRE: Burkina Faso. Aval obligatoire du gouvernement pour les études à l’étranger: les
+2026-10-17 19:25:37 [INFO] Action: Exists-GitHub | HASH: 373d9ab2fc6e9279ca42 | TITRE: BRVM : Investir en bourse, est-ce vraimant pour les Maliens ? - Canal+
+2026-10-17 19:25:37 [INFO] Action: Exists-GitHub | HASH: 63df9d100d69a595a4e4 | TITRE: Burkina Faso : fuite des cerveaux, plus de bourses pour les meilleurs bacheliers
+2026-10-17 19:25:37 [INFO] Action: Exists-GitHub | HASH: e83ebe6549090c9b9ff1 | TITRE: Burkina / Réforme des bourses d’études supérieures : « L’objectif n’est pas de l
+2026-10-17 19:25:44 [INFO] Action: Exists-GitHub | HASH: 91754703fe484a03c861 | TITRE: Résultats d'#admission au #concours_direct de recrutement de mille neuf cent soi
+2026-10-17 19:25:44 [INFO] Action: Exists-GitHub | HASH: aca69087b58bc43b965a | TITRE: Bon à savoir : des metiers, emplois, postes de travail et classes Les fonctionna
+2026-10-17 19:25:44 [INFO] Action: Exists-GitHub | HASH: 88b2d690f5ff8b879a65 | TITRE: 🟥🇧🇫 Souveraineté nationale : le recrutement des volontaires réservistes lancé - 
+2026-10-17 19:25:44 [INFO] Action: Exists-GitHub | HASH: 405113414489ebeb5a9a | TITRE: 🇧🇫 BURKINA FASO - Dans le cadre du projet BenkadiBaara - Tous ensemble pour l’em
+2026-10-17 19:25:44 [INFO] Action: Exists-GitHub | HASH: 861d60d7ce501a1e333d | TITRE: Orange Burkina. . Orange Burkina Faso informe le public que des messages circula
+2026-10-17 19:25:51 [INFO] Action: Exists-GitHub | HASH: 9700d5364702669c71eb | TITRE: 🚛 *OPPORTUNITÉ D'EMPLOI | RECRUTEMENT DE CONDUCTEURS ROUTIERS* La Direction de l
+2026-10-17 19:25:51 [INFO] Action: Exists-GitHub | HASH: 1710ab3dbc2ed82d5a64 | TITRE: INNOVATIONS DU NOUVEAU CODE DU TRAVAIL DU BURKINA FASO ARTICLE 42 #CodeduTravail
+2026-10-17 19:25:51 [INFO] Action: Exists-GitHub | HASH: 56175e57634894932813 | TITRE: Bon à savoir : Placement, activité de travail temporaire L’activité de placement
+2026-10-17 19:25:51 [INFO] Action: Exists-GitHub | HASH: 5b3d105216a9f2337b5f | TITRE: 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐪𝐮𝐞́ : Résultats Dans le cadre du recrutement d'un Auditeur interne, d'un
+2026-10-17 19:25:51 [INFO] Action: Exists-GitHub | HASH: a0550d5143aa9e39e024 | TITRE: Bon à savoir : Moyens de contrôle des entreprises Toute personne qui se propose 
+2026-10-17 19:25:57 [INFO] Action: Exists-GitHub | HASH: 9700d5364702669c71eb | TITRE: 🚛 *OPPORTUNITÉ D'EMPLOI | RECRUTEMENT DE CONDUCTEURS ROUTIERS* La Direction de l
+2026-10-17 19:25:57 [INFO] Action: Exists-GitHub | HASH: 1311104f14c91fdf47bd | TITRE: UNICEF Burkina Faso recrute pour son bureau de Ouagadougou un(e) : Cold Chain Sp
+2026-10-17 19:25:57 [INFO] Action: Exists-GitHub | HASH: e66c954409c2e4386b05 | TITRE: Avis de recrutement à l'international Le Ministère de la Fonction publique, du T
+2026-10-17 19:25:57 [INFO] Action: Exists-GitHub | HASH: ebf06b763e1372489e91 | TITRE: Liste actualisée des agences d'emploi privées titulaires d'un agrement au 15 jan
+2026-10-17 19:25:57 [INFO] Action: Exists-GitHub | HASH: 414329c3bb5d9243e03a | TITRE: 🛑[📢𝐎𝐟𝐟𝐫𝐞 𝐝’𝐞𝐦𝐩𝐥𝐨𝐢] L'Ambassade de Belgique à Ouagadougou recrute le poste suivan
+2026-10-17 19:26:04 [INFO] Action: Exists-GitHub | HASH: aca69087b58bc43b965a | TITRE: Bon à savoir : des metiers, emplois, postes de travail et classes Les fonctionna
+2026-10-17 19:26:04 [INFO] Action: Exists-GitHub | HASH: 405113414489ebeb5a9a | TITRE: 🇧🇫 BURKINA FASO - Dans le cadre du projet BenkadiBaara - Tous ensemble pour l’em
+2026-10-17 19:26:04 [INFO] Action: Exists-GitHub | HASH: 99ea8c66703aebc805d9 | TITRE: 🇧🇫 BURKINA FASO – La formation comme tremplin vers l’emploi des jeunes 🚀 Aider l
+2026-10-17 19:26:04 [INFO] Action: Exists-GitHub | HASH: ebf06b763e1372489e91 | TITRE: Liste actualisée des agences d'emploi privées titulaires d'un agrement au 15 jan
+2026-10-17 19:26:04 [INFO] Action: Exists-GitHub | HASH: b78a8bd3099d72147141 | TITRE: Bon à savoir : De la classification catégorielle Les emplois de fonctionnaires s
+2026-10-17 19:26:11 [INFO] Action: Exists-GitHub | HASH: 993058937e0b752b9248 | TITRE: Le stage de formation sur la technologie de Juncao au Burkina Faso a récemment é
+2026-10-17 19:26:11 [INFO] Action: Exists-GitHub | HASH: 84531839f12e2e1acc1f | TITRE: 𝟒 𝟕𝟎𝟎 𝐣𝐞𝐮𝐧𝐞𝐬 𝐞𝐧 𝐬𝐭𝐚𝐠𝐞 𝐝’𝐢𝐧𝐢𝐭𝐢𝐚𝐭𝐢𝐨𝐧 𝐚̀ 𝐥𝐚 𝐯𝐢𝐞 𝐩𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐧𝐞𝐥𝐥𝐞 : 𝐮𝐧𝐞 𝐧𝐨𝐮𝐯𝐞𝐥𝐥𝐞 𝐞́𝐭𝐚
+2026-10-17 19:26:11 [INFO] Action: Exists-GitHub | HASH: ae87fb65d7d5a87d4ba5 | TITRE: GROUPEMENT D’INSTRUCTION DES FORCES ARMEES Fin du stage militaire pour 543 énarq
+2026-10-17 19:26:11 [INFO] Action: Exists-GitHub | HASH: 9cbd3c56ab403263959e | TITRE: Lancement d’une plateforme nationale des stages : Le point des préparatifs fait 
+2026-10-17 19:26:11 [INFO] Action: Exists-GitHub | HASH: c67ec2e9fecd5165898a | TITRE: Bon à savoir : Le contrat de stage Il est institué un contrat de stage en vue de
+2026-10-17 19:26:18 [INFO] Action: Exists-GitHub | HASH: cba3cbbfedc7a46f0c27 | TITRE: Programme de #répartition par sous-centre et par tranche de #numéro_récépissé de
+2026-10-17 19:26:18 [INFO] Action: Exists-GitHub | HASH: 91754703fe484a03c861 | TITRE: Résultats d'#admission au #concours_direct de recrutement de mille neuf cent soi
+2026-10-17 19:26:18 [INFO] Action: Exists-GitHub | HASH: 7aa7ebbe834d4d9f74e0 | TITRE: En juin 2026, le Burkina Faso suspend les concours de beauté afin de revoir leur
+2026-10-17 19:26:18 [INFO] Action: Exists-GitHub | HASH: 3e1c28dd22373ce3bf44 | TITRE: ⛔ Urgent ⛔ liste de répartition des candidats concours directs session 2022 de l
+2026-10-17 19:26:18 [INFO] Action: Exists-GitHub | HASH: 42aacf601bfda0e05dc0 | TITRE: Chers candidats aux concours directs 2026 de niveaux BEPC et CEP, après la vidéo
+2026-10-17 19:26:25 [INFO] Action: Exists-GitHub | HASH: 8577afc2411cde1f21f8 | TITRE: Revivez en images les temps forts de nos Job Days au Burkina Faso ! Nous avons e
+2026-10-17 19:26:25 [INFO] Action: Exists-GitHub | HASH: aca69087b58bc43b965a | TITRE: Bon à savoir : des metiers, emplois, postes de travail et classes Les fonctionna
+2026-10-17 19:26:25 [INFO] Action: Exists-GitHub | HASH: 96559cf87cbd215cf2a8 | TITRE: 📣 JOB ALERT - BURKINA FASO Autre Terre engage pour son bureau basé à Ouagadougou
+2026-10-17 19:26:25 [INFO] Action: Exists-GitHub | HASH: eaaea968881d5687950e | TITRE: Ministère des Sports, de la Jeunesse et de l'Emploi - Facebook
+2026-10-17 19:26:25 [INFO] Action: Exists-GitHub | HASH: ebf06b763e1372489e91 | TITRE: Liste actualisée des agences d'emploi privées titulaires d'un agrement au 15 jan
+2026-10-17 19:26:31 [INFO] Action: Exists-GitHub | HASH: e952dda1c7ce1199d239 | TITRE: We are hiring !! U.S. Embassy Burkina Faso is seeking eligible and qualified app
+2026-10-17 19:26:31 [INFO] Action: Exists-GitHub | HASH: 5089f2ff22fe84093d35 | TITRE: We are hiring !!! 📣 The U.S. Mission in Ouagadougou, Burkina Faso is seeking eli
+2026-10-17 19:26:31 [INFO] Action: Exists-GitHub | HASH: 9f1d4a125632e9a42cff | TITRE: We are hiring !!! 📣 The U.S. Mission in Ouagadougou, Burkina Faso is seeking eli
+2026-10-17 19:26:31 [INFO] Action: Exists-GitHub | HASH: c6095bb617c8987edc94 | TITRE: Enko Education. . 𝗪𝗲 𝗮𝗿𝗲 𝗵𝗶𝗿𝗶𝗻𝗴 𝘁𝗲𝗮𝗰𝗵𝗲𝗿𝘀! 👩‍🏫 👨‍🏫 We are currently looking for m
+2026-10-17 19:26:31 [INFO] Action: Exists-GitHub | HASH: 9e3ff1315cde3cde9a12 | TITRE: 🔴 #Communiqué | Offre de Recrutement : Metreur en Construction Métallique Minièr
+2026-10-17 19:26:38 [INFO] Action: Exists-GitHub | HASH: bacbd59417c7128e4b50 | TITRE: Code du travail au Burkina Faso Le Burkina Faso dispose désormais d’une nouvelle
+2026-10-17 19:26:38 [INFO] Action: Exists-GitHub | HASH: 5390910994f269540a90 | TITRE: INNOVATIONS DU NOUVEAU CODE DU TRAVAIL DU BURKINA FASO ARTICLES 59 #CodeduTravai
+2026-10-17 19:26:38 [INFO] Action: Exists-GitHub | HASH: 1710ab3dbc2ed82d5a64 | TITRE: INNOVATIONS DU NOUVEAU CODE DU TRAVAIL DU BURKINA FASO ARTICLE 42 #CodeduTravail
+2026-10-17 19:26:38 [INFO] Action: Exists-GitHub | HASH: ff4780b057ae280ce224 | TITRE: CONSEIL DES MINISTRES DU 27 NOVEMBRE 2025 Un projet de loi portant Code du trava
+2026-10-17 19:26:38 [INFO] Action: Exists-GitHub | HASH: 70fc623b7936967d0781 | TITRE: Code du travail au Burkina Faso : Le projet de loi adopté par les députés de l’A
+2026-10-17 19:26:44 [INFO] Action: Exists-GitHub | HASH: 90e2f48e07018c72c972 | TITRE: 𝐏𝐫𝐨𝐛𝐥é𝐦𝐚𝐭𝐢𝐪𝐮𝐞 𝐝𝐮 𝐥𝐨𝐠𝐞𝐦𝐞𝐧𝐭 𝐚𝐮 𝐁𝐮𝐫𝐤𝐢𝐧𝐚 𝐅𝐚𝐬𝐨 : 𝐋𝐚 𝐂𝐃𝐈-𝐁𝐅 à 𝐥𝐚 𝐫𝐞𝐜𝐡𝐞𝐫𝐜𝐡𝐞 𝐝𝐞 𝐦é𝐜𝐚𝐧𝐢𝐬𝐦
+2026-10-17 19:26:44 [INFO] Action: Exists-GitHub | HASH: 2d4d54478bb750a82eb1 | TITRE: FINANCEMENT DU LOGEMENT AU BURKINA FASO A l'initiative de la Caisse des dépôts e
+2026-10-17 19:26:44 [INFO] Action: Exists-GitHub | HASH: 32def9df6019a6e651bf | TITRE: Au Burkina Faso, un CDI est à saisir avec GIZ. Devenez Directeur du projet : App
+2026-10-17 19:26:44 [INFO] Action: Exists-GitHub | HASH: 619f28de68f0d78f2baa | TITRE: RTB. . Askadar Houssouman Sanou prend désormais en rênes de la Caisse de Dépôt e
+2026-10-17 19:26:44 [INFO] Action: Exists-GitHub | HASH: e20171e614e6f19ec857 | TITRE: 𝐀𝐯𝐢𝐬 𝐝'𝐚𝐩𝐩𝐞𝐥 𝐚̀ 𝐜𝐚𝐧𝐝𝐢𝐝𝐚𝐭𝐮𝐫𝐞 𝐩𝐨𝐮𝐫 𝐥𝐞 𝐫𝐞𝐜𝐫𝐮𝐭𝐞𝐦𝐞𝐧𝐭 𝐝'𝐮𝐧 𝐃𝐢𝐫𝐞𝐜𝐭𝐞𝐮𝐫 𝐠𝐞́𝐧𝐞́𝐫𝐚𝐥 𝐚𝐮 𝐩𝐫𝐨𝐟
+2026-10-17 19:26:51 [INFO] Action: Exists-GitHub | HASH: 101542983b477776c392 | TITRE: 𝐁𝐨𝐬𝐬, est-ce que tu sais que tu peux avoir une bourse d'étude en cumulant tes po
+2026-10-17 19:26:51 [INFO] Action: Exists-GitHub | HASH: ae5419b7201b160b01c0 | TITRE: Une nouvelle bourse d’études destinée à un élève de la filière scientifique du H
+2026-10-17 19:26:51 [INFO] Action: Exists-GitHub | HASH: f04347481dccd8d5f6f0 | TITRE: #Communiqué_démenti Depuis quelques temps, il circule sur les réseaux sociaux, u
+2026-10-17 19:26:51 [INFO] Action: Exists-GitHub | HASH: 5dac7e63e0e310c1a204 | TITRE: Bonne Nouvelle!!! Cette année encore, Orange Burkina Faso à travers sa Fondation
+2026-10-17 19:26:51 [INFO] Action: Exists-GitHub | HASH: 9ba5ba2504ed6602d280 | TITRE: RTB. . Offre de bourses scolaires : 60 étudiants méritants déplacés internes de 
+2026-10-17 19:26:58 [INFO] Action: Exists-GitHub | HASH: 05d504146598df56d55d | TITRE: RTB. . HEBDO BOURSE du 11 octobre 2026 - Facebook
+2026-10-17 19:26:58 [INFO] Action: Exists-GitHub | HASH: 38896a683728d9396e80 | TITRE: HEBDO BOURSE DU 20 SEPTEMBRE - Facebook
+2026-10-17 19:26:58 [INFO] Action: Exists-GitHub | HASH: e4fe13ac1cfcbbf43f23 | TITRE: RTB. . HEBDO BOURSE DU 20 SEPTEMBRE - Facebook
+2026-10-17 19:26:58 [INFO] Action: Exists-GitHub | HASH: f11f6b29d69d56d00675 | TITRE: 🇩🇪🎓 Le Goethe-Institut Burkina Faso offre des bourses de formation continue en A
+2026-10-17 19:26:58 [INFO] Action: Exists-GitHub | HASH: 99e0fe8a72b5c23b13e3 | TITRE: RTB. . 🚨 HEBDO BOURSE du 27 septembre 2026 - Facebook
+2026-10-17 19:27:05 [INFO] Action: Exists-GitHub | HASH: 9642d4f14a73c6e90e03 | TITRE: Recrutement d’un Cabinet de ressource humaine au Burkina Faso - LinkedIn Mali
+2026-10-17 19:27:05 [INFO] Action: Exists-GitHub | HASH: c1a6c61ab4a4c0fc7b78 | TITRE: Weapons & Ammunition Management Support Officer - Africa - LinkedIn
+2026-10-17 19:27:05 [INFO] Action: Exists-GitHub | HASH: d7c6418ef22cfa1f6178 | TITRE: 📢 OFFRE D’EMPLOI Selectus recrute un Comptable au profit d’une importante sociét
+2026-10-17 19:27:05 [INFO] Action: Exists-GitHub | HASH: 4d7111ba79e68e43b342 | TITRE: Nous #recrutons #hiring ! Connaissez-vous quelqu’un qui pourrait être intéressé 
+2026-10-17 19:27:05 [INFO] Action: Exists-GitHub | HASH: 77b1fdbe2be978ae07ce | TITRE: Faso Emplois | Job Connect hiring APPEL À CANDIDATURE POUR LE RECRUTEMENT D’UN(E
+2026-10-17 19:27:11 [INFO] Action: Exists-GitHub | HASH: 0d77b9c6774415d9b8ec | TITRE: Faso Emplois | Job Connect hiring APPEL À CANDIDATURE POUR LE RECRUTEMENT D’UN(E
+2026-10-17 19:27:11 [INFO] Action: Exists-GitHub | HASH: b0823920d83e6cbd2144 | TITRE: EmploiBurkina - LinkedIn
+2026-10-17 19:27:11 [INFO] Action: Exists-GitHub | HASH: afcb9506762feec88bb7 | TITRE: #PDAC2022 : Visitez IAMGOLD au kiosque 2522 pour en apprendre davantage sur les 
+2026-10-17 19:27:11 [INFO] Action: Exists-GitHub | HASH: 3212f5530ab291b879e4 | TITRE: Postes de Burkina Faso (France) : (11,000+ postes à pourvoir) - LinkedIn
+2026-10-17 19:27:11 [INFO] Action: Exists-GitHub | HASH: 275507ae671d074e72fb | TITRE: Bel Emploi Sarl hiring Comptable in Ouagadougou, Centre, Burkina Faso - LinkedIn
+2026-10-17 19:27:18 [INFO] Action: Exists-GitHub | HASH: d7c6418ef22cfa1f6178 | TITRE: 📢 OFFRE D’EMPLOI Selectus recrute un Comptable au profit d’une importante sociét
+2026-10-17 19:27:18 [INFO] Action: Exists-GitHub | HASH: 9642d4f14a73c6e90e03 | TITRE: Recrutement d’un Cabinet de ressource humaine au Burkina Faso - LinkedIn Mali
+2026-10-17 19:27:18 [INFO] Action: Exists-GitHub | HASH: 4a3ad0f231818da92319 | TITRE: Postes de Offres D’emploi (Nord, Burkina Faso) : (7 postes à pourvoir) - LinkedI
+2026-10-17 19:27:18 [INFO] Action: Exists-GitHub | HASH: 49a111bbeeb4099eaece | TITRE: 📍[🇧🇫] CECI au Burkina Faso recherche 𝘂𝗻-𝗲 𝗰𝗵𝗮𝗿𝗴𝗲́𝗲 𝗱𝗲 𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗲𝘁 𝗶𝗻𝘀𝗲𝗿𝘁𝗶𝗼𝗻 𝗽𝗿𝗼
+2026-10-17 19:27:18 [INFO] Action: Exists-GitHub | HASH: a1c8dc91317a2294d354 | TITRE: 📢 JOB ALERT : SOUDEURS EXPERIMENTES NEEMBA BURKINA recrute des soudeurs expérime
+2026-10-17 19:27:24 [INFO] Action: Exists-GitHub | HASH: 9642d4f14a73c6e90e03 | TITRE: Recrutement d’un Cabinet de ressource humaine au Burkina Faso - LinkedIn Mali
+2026-10-17 19:27:24 [INFO] Action: Exists-GitHub | HASH: d7c6418ef22cfa1f6178 | TITRE: 📢 OFFRE D’EMPLOI Selectus recrute un Comptable au profit d’une importante sociét
+2026-10-17 19:27:24 [INFO] Action: Exists-GitHub | HASH: bd8b3c664e652248d6ea | TITRE: 🇧🇫 𝐍𝐞 𝐲 𝐲𝐢𝐛𝐞𝐨𝐨𝐠𝐨 ! 𝐁𝐨𝐧𝐣𝐨𝐮𝐫, 𝐁𝐮𝐫𝐤𝐢𝐧𝐚 𝐅𝐚𝐬𝐨. Un CV professionnel ne consiste pas à 
+2026-10-17 19:27:24 [INFO] Action: Exists-GitHub | HASH: 4a3ad0f231818da92319 | TITRE: Postes de Offres D’emploi (Nord, Burkina Faso) : (7 postes à pourvoir) - LinkedI
+2026-10-17 19:27:24 [INFO] Action: Exists-GitHub | HASH: 42055a9e363afcbd3e21 | TITRE: Mamadou OUEDRAOGO - Assistant aux ressources humaines chez SAER Emploi Burkina -
+2026-10-17 19:27:31 [INFO] Action: Exists-GitHub | HASH: e95c17b21d5dc5b65de3 | TITRE: ✨ Je suis ravie d'annoncer le début de mon stage en gestion des approvisionnemen
+2026-10-17 19:27:31 [INFO] Action: Exists-GitHub | HASH: 7378af45a3d3ad767277 | TITRE: Retro année 2023 Je suis ravi d'avoir effectué mon stage chez CIMBURKINA, Sectio
+2026-10-17 19:27:31 [INFO] Action: Exists-GitHub | HASH: b3d2aab37c898245d084 | TITRE: #AlerteJob [Basé au Burkina Faso] ✍️L'ONG ACTED recherche 01 CHARGE DE TERRAIN R
+2026-10-17 19:27:31 [INFO] Action: Exists-GitHub | HASH: b7f4fc576f271f1da0b6 | TITRE: Decret n° 2015-777 du 02 juin 2015 fixant les règles applicables au contrat de s
+2026-10-17 19:27:31 [INFO] Action: Exists-GitHub | HASH: ba9fb41eefdd23a16058 | TITRE: UbrainSoft hiring Offre de Stage - Réseaux, Systèmes et Sécurité Informatique in
+2026-10-17 19:27:37 [INFO] Action: Exists-GitHub | HASH: 5a75c9b1a3df3cb6b51c | TITRE: Directeur des affaires administratives et financières chez Office centrale des e
+2026-10-17 19:27:37 [INFO] Action: Exists-GitHub | HASH: abd492553af18ad0288a | TITRE: 🎓Diplôme d’Études Supérieures en Comptabilité et Gestion Financière Le DESCOGEF,
+2026-10-17 19:27:37 [INFO] Action: Exists-GitHub | HASH: 370e5343dba5d4527ac3 | TITRE: KOUAME GERMAIN KPRIE - Expert Senior Education et Gestion de Projets -Sociologue
+2026-10-17 19:27:37 [INFO] Action: Exists-GitHub | HASH: ce47cfff1336a31cf337 | TITRE: Concours d’entrée – Magistère d’Économie du Développement | Promotion 2025/2026 
+2026-10-17 19:27:37 [INFO] Action: Exists-GitHub | HASH: 5c28159a4169e13d6085 | TITRE: Rakibou AKAMBI - Technicien supérieur en génie civil/Bâtiment et Travaux Publics
+2026-10-17 19:27:44 [INFO] Action: Exists-GitHub | HASH: 3212f5530ab291b879e4 | TITRE: Postes de Burkina Faso (France) : (11,000+ postes à pourvoir) - LinkedIn
+2026-10-17 19:27:44 [INFO] Action: Exists-GitHub | HASH: 4a20b952ba59f77c98f3 | TITRE: CEP Business Copilot hiring Directeur Pays Burkina Faso in Ouagadougou, Centre, 
+2026-10-17 19:27:44 [INFO] Action: Exists-GitHub | HASH: 6598f83d5193b5c1cb08 | TITRE: ▶ Burkina Faso Les offres que vous avez manquez à la date d'hier : World Vision 
+2026-10-17 19:27:44 [INFO] Action: Exists-GitHub | HASH: 4a3ad0f231818da92319 | TITRE: Postes de Offres D’emploi (Nord, Burkina Faso) : (7 postes à pourvoir) - LinkedI
+2026-10-17 19:27:44 [INFO] Action: Exists-GitHub | HASH: ca6ad7e301c7cb7f8116 | TITRE: NTU International A/S Ouagadougou, Centre, Burkina Faso - LinkedIn
+2026-10-17 19:27:51 [INFO] Action: Exists-GitHub | HASH: 40d9083f75803abe500a | TITRE: Center for Civilians in Conflict hiring Renforcement de la protection des civils
+2026-10-17 19:27:51 [INFO] Action: Exists-GitHub | HASH: 4d7111ba79e68e43b342 | TITRE: Nous #recrutons #hiring ! Connaissez-vous quelqu’un qui pourrait être intéressé 
+2026-10-17 19:27:51 [INFO] Action: Exists-GitHub | HASH: 4cccb861b7e09f763698 | TITRE: Sogea-Satom hiring Responsable Topographie in Burkina Faso - LinkedIn
+2026-10-17 19:27:51 [INFO] Action: Exists-GitHub | HASH: 94cc9a00e67fcf7e93c0 | TITRE: IAMGOLD Corporation hiring Coordonnateur principal parc à résidus in Burkina Fas
+2026-10-17 19:27:51 [INFO] Action: Exists-GitHub | HASH: 160138fa6d6d7fca2b06 | TITRE: IAMGOLD Corporation hiring Ingénieur minier planification long terme in Burkina 
+2026-10-17 19:27:57 [INFO] Action: Exists-GitHub | HASH: ef20e1c152a1a1e1b7c3 | TITRE: MARIAM .L. LINGANI - JURISTE: Recherche Stage , contrat de professionalisation (
+2026-10-17 19:27:57 [INFO] Action: Exists-GitHub | HASH: f40f5f9d18579ac976c0 | TITRE: Sayouba MONE - Assistant RH chez LNBTP (Laboratoire National du Bâtiment et des 
+2026-10-17 19:27:57 [INFO] Action: Exists-GitHub | HASH: bf27009d9c6aab2c16be | TITRE: 📢 SANTÉ SUD RECRUTE ! Vous souhaitez rejoindre nos équipes au Burkina Faso ? Pos
+2026-10-17 19:27:57 [INFO] Action: Exists-GitHub | HASH: 0dae2a68712467003d76 | TITRE: 🇧🇫 BURKINA FASO 🏢 Entreprise · Finance 💼 Contrôleur interne 📍 Ouagadougou, Burki
+2026-10-17 19:27:57 [INFO] Action: Exists-GitHub | HASH: bb1ec82e94693f592510 | TITRE: Wendlamita Valerie Yasmine Compaoré - A la recherche d’un Stage, CDD ou CDI - Li
+2026-10-17 19:28:06 [INFO] Action: Exists-GitHub | HASH: 566b1f53d11ba2b865ae | TITRE: CDI - Directeur / Directrice des Opérations - CANAL+ Télécom Burkina Faso (F/H/X
+2026-10-17 19:28:06 [INFO] Action: Exists-GitHub | HASH: a26678b2a2173d106817 | TITRE: CDI - ASSISTANT / ASSISTANTE SYSTEME D'INFORMATION BURKINA FASO - (F/H/X) - Link
+2026-10-17 19:28:07 [INFO] Action: Exists-GitHub | HASH: 6131f6bb9d20b308999a | TITRE: Caisse des Dépôts et d'Investissements du Burkina Faso - LinkedIn
+2026-10-17 19:28:07 [INFO] Action: Exists-GitHub | HASH: 3820d20726c7213ef94e | TITRE: CDI - Directeur / Directrice des Opérations - CANAL+ Télécom Burkina Faso (F/H/X
+2026-10-17 19:28:07 [INFO] Action: Exists-GitHub | HASH: 3a409928336e975912f4 | TITRE: 𝐌𝐨𝐛𝐢𝐥𝐢𝐬𝐚𝐭𝐢𝐨𝐧 𝐝𝐞𝐬 𝐫𝐞𝐬𝐬𝐨𝐮𝐫𝐜𝐞𝐬 : 𝐥𝐚 𝐂𝐃𝐈-𝐁𝐅 𝐫𝐞𝐧𝐟𝐨𝐫𝐜𝐞 𝐥𝐞 𝐝𝐢𝐚𝐥𝐨𝐠𝐮𝐞 𝐚𝐯𝐞𝐜 𝐥𝐞𝐬 𝐛𝐚𝐧𝐪𝐮𝐞𝐬, 𝐞
+2026-10-17 19:28:14 [INFO] Action: Exists-GitHub | HASH: 77ed3b4e6cef9bd58e93 | TITRE: Notre filiale SOMISA SA au Burkina Faso, opérant le projet de Sanbrado, a lancé 
+2026-10-17 19:28:14 [INFO] Action: Exists-GitHub | HASH: 68e7ae9fe96c883cf08f | TITRE: FR 🎓 BACHELIERS 2025 DU BURKINA FASO: BOURSE D'ÉTUDES EN TRANSPORT MARITIME & LO
+2026-10-17 19:28:14 [INFO] Action: Exists-GitHub | HASH: 479b9192b03a367d2b2c | TITRE: Abdoul Mahazou Tiemtoré - Étudiant chez Institut National des Sciences Appliquée
+2026-10-17 19:28:14 [INFO] Action: Exists-GitHub | HASH: 504070798eb06a5fa87a | TITRE: Issouf Ouedraogo - LinkedIn
+2026-10-17 19:28:14 [INFO] Action: Exists-GitHub | HASH: beb74fb3b4e4a9eb25af | TITRE: Arole Tapsoba - Stagiaire chez Société des Aéroports du Faso - LinkedIn
+2026-10-17 19:28:20 [INFO] Action: Exists-GitHub | HASH: 68e7ae9fe96c883cf08f | TITRE: FR 🎓 BACHELIERS 2025 DU BURKINA FASO: BOURSE D'ÉTUDES EN TRANSPORT MARITIME & LO
+2026-10-17 19:28:20 [INFO] Action: Exists-GitHub | HASH: 9dfa3c20cbb2fe1a5fd4 | TITRE: Fancho Hermann TRAORE - LinkedIn
+2026-10-17 19:28:20 [INFO] Action: Exists-GitHub | HASH: b5c8740c521ee206208f | TITRE: La Fondation Orange au Burkina Faso à travers son Fonds d’Aide à la Formation au
+2026-10-17 19:28:20 [INFO] Action: Exists-GitHub | HASH: f62c0885af76bd980260 | TITRE: Askadar SANOU - Responsable du Marché des Capitaux chez CORIS BOURSE - LinkedIn
+2026-10-17 19:28:20 [INFO] Action: Exists-GitHub | HASH: 77ed3b4e6cef9bd58e93 | TITRE: Notre filiale SOMISA SA au Burkina Faso, opérant le projet de Sanbrado, a lancé 
+2026-10-17 19:28:27 [INFO] Action: Exists-GitHub | HASH: c645a3bfd42075f653bf | TITRE: Orange recrute pour le poste de : ✅Comptable des Opérations Diverses 📅 Date limi
+2026-10-17 19:28:27 [INFO] Action: Exists-GitHub | HASH: d69d00bf04b68f48df31 | TITRE: Orange recrute pour le poste de : ✅ Contrôleur de Gestion Costing 📅 Date limite 
+2026-10-17 19:28:27 [INFO] Action: Exists-GitHub | HASH: 04bdcacaaff84cbb717a | TITRE: 𝗢𝗿𝗮𝗻𝗴𝗲 𝗿𝗲𝗰𝗿𝘂𝘁𝗲 𝗽𝗼𝘂𝗿 𝗹𝗲 𝗽𝗼𝘀𝘁𝗲 𝗱𝗲 : ✅ Chargé(e) Talent Acquisition - Direction des
+2026-10-17 19:28:27 [INFO] Action: Exists-GitHub | HASH: 411ddf68019935a1c214 | TITRE: 𝗢𝗿𝗮𝗻𝗴𝗲 𝗿𝗲𝗰𝗿𝘂𝘁𝗲 𝗽𝗼𝘂𝗿 𝗹𝗲 𝗽𝗼𝘀𝘁𝗲 𝗱𝗲 : ✅ Responsable Customer Base Management (CBM) -
+2026-10-17 19:28:27 [INFO] Action: Exists-GitHub | HASH: 287e50628600b06c47e7 | TITRE: 𝗢𝗿𝗮𝗻𝗴𝗲 𝗿𝗲𝗰𝗿𝘂𝘁𝗲 𝗽𝗼𝘂𝗿 𝗹𝗲 𝗽𝗼𝘀𝘁𝗲 𝗱𝗲 : ✅ Responsable de la Fiscalité - Direction Fina
+2026-10-17 19:28:33 [INFO] Action: Exists-GitHub | HASH: f77ac02a8bc24c3a4baf | TITRE: Le Niger accueille, du 17 au 24 septembre 2026, un atelier consacré à l’élaborat
+2026-10-17 19:28:33 [INFO] Action: Exists-GitHub | HASH: 6be8261a0a54966489f8 | TITRE: CISR Canada (@CISR_Canada) - X
+2026-10-17 19:28:33 [INFO] Action: Exists-GitHub | HASH: 45338b195c4c576dad37 | TITRE: Replies by After Foot RMC (@AfterRMC) - X
+2026-10-17 19:28:33 [INFO] Action: Exists-GitHub | HASH: 1fa556d1894acb87ef21 | TITRE: Premium Organisations - X Help Center
+2026-10-17 19:28:33 [INFO] Action: Exists-GitHub | HASH: 1e5bf86198670dc3530f | TITRE: IBbankTogo (@ibbank228) - X
+2026-10-17 19:28:42 [INFO] Action: Exists-GitHub | HASH: b63a07d1339c77cdc847 | TITRE: 🚨 BRIDGE BANK GROUP RECRUTE – 7 POSTES À POURVOIR AU BURKINA FASO 🇧🇫 Dans le cad
+2026-10-17 19:28:42 [INFO] Action: Exists-GitHub | HASH: a6f3ecf8e413669ac1fd | TITRE: OFFRE D’EMPLOI : Coordinateur (trice) terrain / CHEF.FE DE BASE / AREA MANAGER -
+2026-10-17 19:28:42 [INFO] Action: Exists-GitHub | HASH: f0c3ae7fdfd2b31af7c5 | TITRE: 🚨🇺🇳 OFFRE D’EMPLOI - PROFESSIONNEL CHARGÉ DE L’AMÉNAGEMENT DU TERRITOIRE 🇺🇳🚨 📍 L
+2026-10-17 19:28:42 [INFO] Action: Exists-GitHub | HASH: 96062d5a78f5e0fb41a9 | TITRE: Nous recherchons des profils pour le poste de : ✅ 𝗔𝗰𝗵𝗲𝘁𝗲𝘂𝗿 𝗝𝘂𝗻𝗶𝗼𝗿 📅 Date limite 
+2026-10-17 19:28:42 [INFO] Action: Exists-GitHub | HASH: 84b08f4aca7d6f53a698 | TITRE: #OFFRE #EMPLOI - #VERGNET #BURKINA (filiale de @VergnetHydro) #recrute un(e) #Ch
+2026-10-17 19:28:53 [INFO] Action: Exists-GitHub | HASH: abf0014e66aec7b71d9c | TITRE: 𝐋𝐞 𝐬𝐚𝐯𝐢𝐞𝐳-𝐯𝐨𝐮𝐬 ? – 𝐅𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧, 𝐈𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧 & 𝐄𝐦𝐩𝐥𝐨𝐢 Grâce à ses programmes de form
+2026-10-17 19:28:53 [INFO] Action: Exists-GitHub | HASH: b0a6217dec12a0844846 | TITRE: Jeunesse, emploi et sport au cœur du dialogue 🇧🇫🤝🇺🇳 M. @HaoliangXu, Administrate
+2026-10-17 19:28:53 [INFO] Action: Exists-GitHub | HASH: a6f3ecf8e413669ac1fd | TITRE: OFFRE D’EMPLOI : Coordinateur (trice) terrain / CHEF.FE DE BASE / AREA MANAGER -
+2026-10-17 19:28:53 [INFO] Action: Exists-GitHub | HASH: b63a07d1339c77cdc847 | TITRE: 🚨 BRIDGE BANK GROUP RECRUTE – 7 POSTES À POURVOIR AU BURKINA FASO 🇧🇫 Dans le cad
+2026-10-17 19:28:53 [INFO] Action: Exists-GitHub | HASH: 0976bc74bb93e134fef2 | TITRE: 📣 Alerte aux PME au Burkina Faso Rejoignez-nous le Jeudi 6 février 2025 à 14h GM
+2026-10-17 19:28:59 [INFO] Action: Exists-GitHub | HASH: abf0014e66aec7b71d9c | TITRE: 𝐋𝐞 𝐬𝐚𝐯𝐢𝐞𝐳-𝐯𝐨𝐮𝐬 ? – 𝐅𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧, 𝐈𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧 & 𝐄𝐦𝐩𝐥𝐨𝐢 Grâce à ses programmes de form
+2026-10-17 19:28:59 [INFO] Action: Exists-GitHub | HASH: a4319a8e72da2c55ce34 | TITRE: 🇧🇫 ⚽️ Les Etalons du Burkina Faso sont arrivés ce dimanche 29 mai 2022 à Marrake
+2026-10-17 19:28:59 [INFO] Action: Exists-GitHub | HASH: 3d2a657213e92b6c0c5f | TITRE: En prélude à la CAN des U17, les Étalons U17 effectuent, depuis le 16 mars 2025,
+2026-10-17 19:28:59 [INFO] Action: Exists-GitHub | HASH: afd267102cb94feb86b9 | TITRE: Une centaine de stagiaires burkinabè et nigériens qualifiés en techniques comman
+2026-10-17 19:28:59 [INFO] Action: Exists-GitHub | HASH: d6a1fcd26c05638780ef | TITRE: L'entreprise GRETECH présente l'état des lieux du projet de réhabilitation du st
+2026-10-17 19:29:07 [INFO] Action: Exists-GitHub | HASH: ea1dd83f07582206ee98 | TITRE: Les lauréats de la 3e édition du concours #TremplinStartupUEMOA au Burkina Faso 
+2026-10-17 19:29:07 [INFO] Action: Exists-GitHub | HASH: 62e346d5154af1669024 | TITRE: Concours directs 2026 : 40 résultats d’admissibilité déjà disponibles sur 62 con
+2026-10-17 19:29:07 [INFO] Action: Exists-GitHub | HASH: aff867517c12f7c30fcf | TITRE: La 3e édition du concours de langue «Pont vers le chinois» renforce les liens cu
+2026-10-17 19:29:07 [INFO] Action: Exists-GitHub | HASH: 210ef397565d6feecda3 | TITRE: 🔴 #burkinafaso🇧🇫 Le Gouvernement autorise le recrutement de 11 404 agents sur co
+2026-10-17 19:29:07 [INFO] Action: Exists-GitHub | HASH: c6cf8145a5c516fd720b | TITRE: 🔴 Burkina Faso : Bientôt le recrutement de 2000 Sous-Officiers de Police Ce Conc
+2026-10-17 19:29:13 [INFO] Action: Exists-GitHub | HASH: b66baa8b011f27a896a1 | TITRE: UNICEF Burkina Faso recrute pour son bureau de Ouagadougou un(e) : Cold Chain Sp
+2026-10-17 19:29:13 [INFO] Action: Exists-GitHub | HASH: b7d162bed518432fcdb1 | TITRE: Nous recrutons pour notre bureau pays #Burkinafaso un (e) Responsable des Ressou
+2026-10-17 19:29:13 [INFO] Action: Exists-GitHub | HASH: 64ef8e015a8a6d3d3259 | TITRE: Burkina-Faso - Conseiller(ère) en Gestion de connaissances / Partenaire UMPL/B: 
+2026-10-17 19:29:13 [INFO] Action: Exists-GitHub | HASH: 4a45f58ba5b8bdf6008d | TITRE: 🌍 Au Burkina Faso, l’OIT œuvre pour des emplois décents, des conditions justes e
+2026-10-17 19:29:13 [INFO] Action: Exists-GitHub | HASH: b63a07d1339c77cdc847 | TITRE: 🚨 BRIDGE BANK GROUP RECRUTE – 7 POSTES À POURVOIR AU BURKINA FASO 🇧🇫 Dans le cad
+2026-10-17 19:29:20 [INFO] Action: Exists-GitHub | HASH: 4c4ecbafef41dc53f817 | TITRE: L’ESMT recrute : DIRECTEUR GÉNÉRAL SEUL(E)S LES CANDIDAT(E)S PRÉSÉLECTIONNÉ(E)S 
+2026-10-17 19:29:20 [INFO] Action: Exists-GitHub | HASH: 6ef002f3ed91bcc1cf99 | TITRE: Cowater International (@Cowater_Intl) - X
+2026-10-17 19:29:20 [INFO] Action: Exists-GitHub | HASH: d9a826590a49e605f4a0 | TITRE: Code for Africa (@Code4Africa) - X
+2026-10-17 19:29:20 [INFO] Action: Exists-GitHub | HASH: ec0e18dded80de5312b5 | TITRE: La Chaîne de l'Espoir (@chainedelespoir) - X
+2026-10-17 19:29:20 [INFO] Action: Exists-GitHub | HASH: db6eae29f5db44c4d7c2 | TITRE: African Risk Capacity Group (@ARCapacity) - X
+2026-10-17 19:29:33 [INFO] Action: Exists-GitHub | HASH: 7ee0373d86236cdcd55e | TITRE: Angel Losada (@AngelLosadaEU) - X
+2026-10-17 19:29:33 [INFO] Action: Exists-GitHub | HASH: ec0e18dded80de5312b5 | TITRE: La Chaîne de l'Espoir (@chainedelespoir) - X
+2026-10-17 19:29:33 [INFO] Action: Exists-GitHub | HASH: 397ebe8c944317c279a6 | TITRE: La France au Mali (@FranceauMali) - X
+2026-10-17 19:29:33 [INFO] Action: Exists-GitHub | HASH: 321310a290166e445ebd | TITRE: Forum des Caisses de Dépôt (@ForumCaisses) - X
+2026-10-17 19:29:33 [INFO] Action: Exists-GitHub | HASH: 6e7be9995563766bfbdd | TITRE: IJBA (@IjbaOfficiel) - X
+2026-10-17 19:29:39 [INFO] Action: Exists-GitHub | HASH: c5e87466b4ce97c52e41 | TITRE: Lycée St-Exupéry (Ouagadougou) (@ExuperyLycee) on X - X
+2026-10-17 19:29:39 [INFO] Action: Exists-GitHub | HASH: 848bacd6e2c88943113d | TITRE: AMF_UMOA - X
+2026-10-17 19:29:39 [INFO] Action: Exists-GitHub | HASH: ec0e18dded80de5312b5 | TITRE: La Chaîne de l'Espoir (@chainedelespoir) - X
+2026-10-17 19:29:39 [INFO] Action: Exists-GitHub | HASH: 138cef2a14fae6ce7c4c | TITRE: Tropisme (@tropismeMtp) - X
+2026-10-17 19:29:39 [INFO] Action: Exists-GitHub | HASH: d9ccf2d25b7e14010ac4 | TITRE: UNAIDS Western & Central Africa (@UNAIDS_WCA) - X
+2026-10-17 19:29:45 [INFO] Action: Exists-GitHub | HASH: 9803006b0550b9cfd958 | TITRE: Bourse de l’excellence 2025 : La Fondation Orange Burkina octroi des bourses d’é
+2026-10-17 19:29:45 [INFO] Action: Exists-GitHub | HASH: 86267bb7e7b78ed67298 | TITRE: Burundi/Bureau des Bourses d'Etudes et de Stages (@bureau_et) - X
+2026-10-17 19:29:45 [INFO] Action: Exists-GitHub | HASH: 039ecb7779906345f78e | TITRE: UdeM international (@UdeM_intl) - X
+2026-10-17 19:29:45 [INFO] Action: Exists-GitHub | HASH: 8386791f7c21a2f7910e | TITRE: CIRDES (@CIRDES_BF) - X
+2026-10-17 19:29:45 [INFO] Action: Exists-GitHub | HASH: 2f91efbacb7f1b493f54 | TITRE: Université Saint-Paul University (@ustpaul_ca) - X
+2026-10-17 19:29:51 [INFO] Action: Exists-GitHub | HASH: 9803006b0550b9cfd958 | TITRE: Bourse de l’excellence 2025 : La Fondation Orange Burkina octroi des bourses d’é
+2026-10-17 19:29:51 [INFO] Action: Exists-GitHub | HASH: 3f13563c14a1f39e6e62 | TITRE: La Fondation Orange au Burkina Faso donne l'opportunité aux étudiants burkinabè 
+2026-10-17 19:29:51 [INFO] Action: Exists-GitHub | HASH: fb1a4508f28479577706 | TITRE: L'Ambassadeure d'Algérie au Burkina Faso a reçu les jeunes bacheliers burkinabè 
+2026-10-17 19:29:51 [INFO] Action: Exists-GitHub | HASH: d1f84baded852b83a13d | TITRE: #IndependanceBurkinaFaso #05Août1960 #BurkinaFaso Vous êtes intéressé par l’inve
+2026-10-17 19:29:51 [INFO] Action: Exists-GitHub | HASH: 3f0aae9a077e7b1bce36 | TITRE: 𝐄𝐧𝐠𝐚𝐠𝐞𝐫 𝐩𝐨𝐮𝐫 𝐥𝐚 𝐅𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 - 𝐔𝐧 𝐞́𝐭𝐮𝐝𝐢𝐚𝐧𝐭 𝐫𝐞𝐜̧𝐨𝐢𝐭 𝐮𝐧𝐞 𝐛𝐨𝐮𝐫𝐬𝐞… C’est un rêve qui c
+2026-10-17 19:29:59 [INFO] Action: Exists-GitHub | HASH: 3f22e78ce21bde54ea5b | TITRE: L’info du jour | 16 octobre 2026 - Mi-journée - YouTube
+2026-10-17 19:29:59 [INFO] Action: Exists-GitHub | HASH: e4a9cc902b788270f6ac | TITRE: Le Niger accuse la France à l’ONU : « une ingénierie cynique de recolonisation »
+2026-10-17 19:29:59 [INFO] Action: Exists-GitHub | HASH: 4bfd1e83b0c7c72412aa | TITRE: Niger : Niamey dénonce des manquements des sociétés pétrolières chinoises, cinq 
+2026-10-17 19:29:59 [INFO] Action: Exists-GitHub | HASH: 2880ba41d782dc374080 | TITRE: Entre l'Éthiopie et l'Érythrée, les tensions ont rarement été aussi importantes 
+2026-10-17 19:29:59 [INFO] Action: Exists-GitHub | HASH: 908d894394a09d3d24a7 | TITRE: Burkina : le recrutement de volontaires face au terrorisme dépasse largement les
+2026-10-17 19:30:07 [INFO] Action: Exists-GitHub | HASH: 076750c4fb1df5e69962 | TITRE: COMMENT CONDUIRE UNE VOITURE MANUELLE TUTO FACILE ! - YouTube
+2026-10-17 19:30:07 [INFO] Action: Exists-GitHub | HASH: a7892b7202321189563b | TITRE: Cours - 5e - Géographie : Le Chômage au Burkina Faso 2/4 - YouTube
+2026-10-17 19:30:07 [INFO] Action: Exists-GitHub | HASH: 92e6218bf8aa3091ee27 | TITRE: Expertise France Programmes Emploi Burkina Faso - YouTube
+2026-10-17 19:30:07 [INFO] Action: Exists-GitHub | HASH: a359a74724f60a27d53f | TITRE: [Dossier] Emploi Burkina Faso: les personnes handicapées dénoncent une exclusion
+2026-10-17 19:30:07 [INFO] Action: Exists-GitHub | HASH: 14f96f27306e20a76531 | TITRE: Burkina Faso : La SONABEL lance sa plateforme E-recrutement pour fluidifier son 
+2026-10-17 19:30:16 [INFO] Action: Exists-GitHub | HASH: 3f22e78ce21bde54ea5b | TITRE: L’info du jour | 16 octobre 2026 - Mi-journée - YouTube
+2026-10-17 19:30:16 [INFO] Action: Exists-GitHub | HASH: e4a9cc902b788270f6ac | TITRE: Le Niger accuse la France à l’ONU : « une ingénierie cynique de recolonisation »
+2026-10-17 19:30:16 [INFO] Action: Exists-GitHub | HASH: 4bfd1e83b0c7c72412aa | TITRE: Niger : Niamey dénonce des manquements des sociétés pétrolières chinoises, cinq 
+2026-10-17 19:30:16 [INFO] Action: Exists-GitHub | HASH: 2880ba41d782dc374080 | TITRE: Entre l'Éthiopie et l'Érythrée, les tensions ont rarement été aussi importantes 
+2026-10-17 19:30:16 [INFO] Action: Exists-GitHub | HASH: 1fc6837b00ac797eb777 | TITRE: Recrutement de 15000 agents de santé à base communautaire - YouTube
+2026-10-17 19:30:23 [INFO] Action: Exists-GitHub | HASH: 3f22e78ce21bde54ea5b | TITRE: L’info du jour | 16 octobre 2026 - Mi-journée - YouTube
+2026-10-17 19:30:23 [INFO] Action: Exists-GitHub | HASH: e4a9cc902b788270f6ac | TITRE: Le Niger accuse la France à l’ONU : « une ingénierie cynique de recolonisation »
+2026-10-17 19:30:23 [INFO] Action: Exists-GitHub | HASH: 4bfd1e83b0c7c72412aa | TITRE: Niger : Niamey dénonce des manquements des sociétés pétrolières chinoises, cinq 
+2026-10-17 19:30:23 [INFO] Action: Exists-GitHub | HASH: 2880ba41d782dc374080 | TITRE: Entre l'Éthiopie et l'Érythrée, les tensions ont rarement été aussi importantes 
+2026-10-17 19:30:23 [INFO] Action: Exists-GitHub | HASH: a599a763eb549c792576 | TITRE: « Faso Tonlo Zï » veut rapprocher l’emploi des jeunes - YouTube
+2026-10-17 19:30:29 [INFO] Action: Exists-GitHub | HASH: b0d0d2425bd912d0083f | TITRE: RD Congo : la pression sociale pour mettre au monde des garçons plutôt que des f
+2026-10-17 19:30:29 [INFO] Action: Exists-GitHub | HASH: 475b85089bd8956efce4 | TITRE: Employabilité des jeunes :un Forum national des stages au Burkina - YouTube
+2026-10-17 19:30:29 [INFO] Action: Exists-GitHub | HASH: 093ea2b39b91cc2ecfe1 | TITRE: Les procédures de recrutement de Burkina Equipements et la présentation du progr
+2026-10-17 19:30:29 [INFO] Action: Exists-GitHub | HASH: e079a3e93515038d478a | TITRE: La 2e édition du forum national des stages a été lancée, ce 26 avril, à Bobo-Dio
+2026-10-17 19:30:29 [INFO] Action: Exists-GitHub | HASH: 640d8761c7ac6fccf0cc | TITRE: 🟥🚴Tour du Faso 2025: Le Burkinabè Mahamadi Ilboudo remporte la 7e étape - YouTub
+2026-10-17 19:30:36 [INFO] Action: Exists-GitHub | HASH: 1dff166384a163f97b99 | TITRE: Burkina Faso : 15 lauréates reçues au palais de koulouba pour le concours de Tal
+2026-10-17 19:30:36 [INFO] Action: Exists-GitHub | HASH: 4e0866b7117cfb800865 | TITRE: Concours CAMES : 16 nouveaux enseignants-chercheurs burkinabè agrégés - YouTube
+2026-10-17 19:30:36 [INFO] Action: Exists-GitHub | HASH: e4b3bf2c04c1d4fc7ffb | TITRE: Concours de la Fonction publique: tout est mis en œuvre pour garantir l’égalité 
+2026-10-17 19:30:36 [INFO] Action: Exists-GitHub | HASH: 318822027e3306b8498c | TITRE: Le Burkina Faso suspend tous les concours de beauté nationaux. - YouTube
+2026-10-17 19:30:36 [INFO] Action: Exists-GitHub | HASH: 1716ab077975917bbdef | TITRE: Concours national Elite Mathématique 2024: les six (06) meilleures ont été disti
+2026-10-17 19:30:43 [INFO] Action: Exists-GitHub | HASH: b3d5e4a0fd1586010df0 | TITRE: Emploi au Burkina Faso : 76 postes pourvus sur plus de 3500 demandes en fin de 2
+2026-10-17 19:30:43 [INFO] Action: Exists-GitHub | HASH: 457806dc7efada6f8d58 | TITRE: Entreprendre au Burkina Faso (2/4) : Job Zongo présente Sinergi Burkina - YouTub
+2026-10-17 19:30:43 [INFO] Action: Exists-GitHub | HASH: c0293bf668342333a970 | TITRE: Burkina Faso : Plus de 20 000 entreprises et 200 000 emplois créés en 2023 - You
+2026-10-17 19:30:43 [INFO] Action: Exists-GitHub | HASH: e6388fb443bd2c33c991 | TITRE: Métier de Designer plateau télé au Burkina Faso - YouTube
+2026-10-17 19:30:43 [INFO] Action: Exists-GitHub | HASH: 21efe3701dd16c25c4f7 | TITRE: Burkina Faso : RMO Job Center fait un don de 10 tonnes de ciment à Faso Mêbo - Y
+2026-10-17 19:30:49 [INFO] Action: Exists-GitHub | HASH: 14f96f27306e20a76531 | TITRE: Burkina Faso : La SONABEL lance sa plateforme E-recrutement pour fluidifier son 
+2026-10-17 19:30:49 [INFO] Action: Exists-GitHub | HASH: ef66b9c6bfa2f6e04cd3 | TITRE: 📌❌📌 LE SECRET POUR TROUVER UN TRAVAIL AU CANADA 🇨🇦 - YouTube
+2026-10-17 19:30:49 [INFO] Action: Exists-GitHub | HASH: 5902d90f1591a2f084a8 | TITRE: Top 15 des Métiers les Plus Recherchés au Canada en 2026 🇨🇦 | Immigration & Trav
+2026-10-17 19:30:49 [INFO] Action: Exists-GitHub | HASH: 4dcc21db19b8fb8aaada | TITRE: Petit Sergent - Saison 2 - Episode 03 - L'EMBAUCHE DE TOE - YouTube
+2026-10-17 19:30:49 [INFO] Action: Exists-GitHub | HASH: b65c9f4adfbe0815832f | TITRE: Des entreprises disent avoir recours aux travailleurs étrangers faute de main-d'
+2026-10-17 19:30:56 [INFO] Action: Exists-GitHub | HASH: 81571de605e4122e1d8e | TITRE: Revue de presse: l’adoption du nouveau code de travail est le sujet phare des pa
+2026-10-17 19:30:56 [INFO] Action: Exists-GitHub | HASH: 4426b8de39a22647cf74 | TITRE: Code du travail au Burkina: plusieurs innovations dans le nouveau texte ( Consei
+2026-10-17 19:30:56 [INFO] Action: Exists-GitHub | HASH: 875d5db6e6e68d397d92 | TITRE: Le 7Infos du 30 novembre 2025 (intégrale)- BF1TV - YouTube
+2026-10-17 19:30:57 [INFO] Action: Exists-GitHub | HASH: 61ce067ca2fb212a3036 | TITRE: FIN de CDD : VOS DROITS ET CALCUL DU SOLDE DE TOUT COMPTE - YouTube
+2026-10-17 19:30:57 [INFO] Action: Exists-GitHub | HASH: 93d7775eac8cbce91354 | TITRE: «Le contrat à durée déterminée ne peut être renouvelé plus de deux fois» - YouTu
+2026-10-17 19:31:03 [INFO] Action: Exists-GitHub | HASH: 6653245b57bd465020f9 | TITRE: Burkina Faso : Askadar Housmane Sanou prend les rênes de la Caisse des dépôts et
+2026-10-17 19:31:03 [INFO] Action: Exists-GitHub | HASH: 3728713f1c8e42494c05 | TITRE: Burkina Faso : POCERAM et la CDI-BF signent une convention pour promouvoir le dr
+2026-10-17 19:31:03 [INFO] Action: Exists-GitHub | HASH: 86154bf360b7df6aae00 | TITRE: CDI-BF : Le conseil de surveillance fort de 11 membres installé - YouTube
+2026-10-17 19:31:03 [INFO] Action: Exists-GitHub | HASH: 325fb18b36987d2f72cc | TITRE: Askadar Houssouman Sanou prend désormais en rênes de la Caisse de Dépôt et d’Inv
+2026-10-17 19:31:03 [INFO] Action: Exists-GitHub | HASH: eaf905be533b5361af5f | TITRE: Logement au Burkina Faso : La Caisse des dépôts et les acteurs de l'urbanisme en
+2026-10-17 19:31:10 [INFO] Action: Exists-GitHub | HASH: 351bacab9027d90c5aad | TITRE: RTB - Plusieurs étudiants reçoivent des bourses d’Etudes de l’ambassade de Chine
+2026-10-17 19:31:10 [INFO] Action: Exists-GitHub | HASH: 796e6d05d5b9bffd6956 | TITRE: Education: l’Arabie Saoudite au Burkina Faso offre des kits et des bourses d’étu
+2026-10-17 19:31:10 [INFO] Action: Exists-GitHub | HASH: 029179d5cf957087a008 | TITRE: Burkina Faso : Tout savoir sur la réforme portant régime des bourses d’études et
+2026-10-17 19:31:10 [INFO] Action: Exists-GitHub | HASH: 7a18736502fbe20a887f | TITRE: Burkina Faso : Les critères d'attribution des bourses d'études de l'enseignement
+2026-10-17 19:31:10 [INFO] Action: Exists-GitHub | HASH: 3ec4ff43d400d9576241 | TITRE: BOURSE D’ÉTUDES AU CANADA 2025 : JUSQU’À 12 700$ OFFERTS ! - YouTube
+2026-10-17 19:31:16 [INFO] Action: Exists-GitHub | HASH: 48cc72a73a87737c03f2 | TITRE: Burkina faso, Opportunité d'investissement, de placement et de financement des e
+2026-10-17 19:31:16 [INFO] Action: Exists-GitHub | HASH: 50580294cd4643e4deeb | TITRE: La SONABHY marque son introduction en bourse ce 22 janvier 2026 - YouTube
+2026-10-17 19:31:16 [INFO] Action: Exists-GitHub | HASH: 1e0753cc8fadd394ff5c | TITRE: Burkina Faso: Ouagadougou accueille le tout premier Salon International de la Bo
+2026-10-17 19:31:16 [INFO] Action: Exists-GitHub | HASH: 84b42d4ff9c2e8f7b16e | TITRE: Les bacheliers bénéficiaires de la bourse marocaine reçoivent les informations n
+2026-10-17 19:31:16 [INFO] Action: Exists-GitHub | HASH: 979d53ecd231027d0c4c | TITRE: Education : cinq (5) étudiants ont reçu des bourses dénommées « bourse Ibriga » 
+2026-10-17 19:31:23 [INFO] Action: Exists-GitHub | HASH: 44337dfa751864687418 | TITRE: Votre prochaine opportunité vous attend! 👷‍♂️ Forage FTE Drilling poursuit sa cr
+2026-10-17 19:31:23 [INFO] Action: Exists-GitHub | HASH: cec02db794cf10055220 | TITRE: UNICEF recrute un-e Nutrition Specialist Cluster Coordination, NO-3, # 138298, T
+2026-10-17 19:31:23 [INFO] Action: Exists-GitHub | HASH: 4d542dc9413100b8b319 | TITRE: Nous recrutons 📢 🎯Consultant(e) National(e) - Ingénieur(e) Génie Civil - Projet 
+2026-10-17 19:31:23 [INFO] Action: Exists-GitHub | HASH: 95259f889a38b1251886 | TITRE: 𝐃𝐞𝐫𝐫𝐢𝐞̀𝐫𝐞 𝐜𝐡𝐚𝐪𝐮𝐞 𝐠𝐫𝐚𝐧𝐝 𝐞́𝐯𝐞́𝐧𝐞𝐦𝐞𝐧𝐭 𝐬𝐞 𝐜𝐚𝐜𝐡𝐞 𝐮𝐧𝐞 𝐞́𝐪𝐮𝐢𝐩𝐞 𝐜𝐚𝐩𝐚𝐛𝐥𝐞 𝐝𝐞 𝐭𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐞𝐫 𝐮
+2026-10-17 19:31:23 [INFO] Action: Exists-GitHub | HASH: 959212eaa93fe3b9d036 | TITRE: 📢 𝐑𝐞𝐜𝐫𝐮𝐭𝐞𝐦𝐞𝐧𝐭 𝐝'𝐮𝐧 𝐩𝐚𝐫𝐭𝐞𝐧𝐚𝐢𝐫𝐞 𝐝𝐞́𝐝𝐢𝐞́ 𝐚̀ 𝐥𝐚 𝐯𝐞𝐧𝐭𝐞 𝐝’𝐨𝐟𝐟𝐫𝐞𝐬 𝐬𝐮𝐫 𝐥𝐞 𝐬𝐞𝐠𝐦𝐞𝐧𝐭 «𝐄𝐧𝐭𝐫𝐞
+2026-10-17 19:31:42 [INFO] Action: Exists-GitHub | HASH: 1a5438e614f845f0fba0 | TITRE: 📢 REMA Pharma recrute en urgence sur 02 postes de délégués médicaux (Grand compt
+2026-10-17 19:31:42 [INFO] Action: Exists-GitHub | HASH: a87668f20b928cd8a25a | TITRE: 📢 🇧🇫 #BurkinaFaso [𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡] La Direction Générale de Banque Atlantique Burki
+2026-10-17 19:31:42 [INFO] Action: Exists-GitHub | HASH: 9d24bd7896cb981ef739 | TITRE: APPEL À CANDIDATURES Bonsoir les ami.e.s ! Le Goethe-Institut Burkina Faso recru
+2026-10-17 19:31:42 [INFO] Action: Exists-GitHub | HASH: ed49655a281d61d9ae71 | TITRE: 📢 6 consultants à recruter Une opportunité à saisir dans le cadre d’un projet fi
+2026-10-17 19:31:42 [INFO] Action: Exists-GitHub | HASH: 6a0e2fbb76a7ab2c1f1c | TITRE: Abdoulaye Bah a décroché un job suite à un Stage First, découvrez son témoignage
+2026-10-17 19:31:52 [INFO] Action: Exists-GitHub | HASH: 4d542dc9413100b8b319 | TITRE: Nous recrutons 📢 🎯Consultant(e) National(e) - Ingénieur(e) Génie Civil - Projet 
+2026-10-17 19:31:52 [INFO] Action: Exists-GitHub | HASH: cec02db794cf10055220 | TITRE: UNICEF recrute un-e Nutrition Specialist Cluster Coordination, NO-3, # 138298, T
+2026-10-17 19:31:52 [INFO] Action: Exists-GitHub | HASH: 0c924ee6faa71468a4c1 | TITRE: 🆕 OFFRE D'EMPLOI — Research Officer 🏢 Organisation Mondiale de la Santé (OMS / W
+2026-10-17 19:31:52 [INFO] Action: Exists-GitHub | HASH: 4a795f07d0154c7d087d | TITRE: UNICEF recrute un-e Social Policy Officer (Information/ Data Management), NO-2, 
+2026-10-17 19:31:52 [INFO] Action: Exists-GitHub | HASH: 89c397e26ada9893abe7 | TITRE: UNICEF republie l’offre pour un-e Information Management Specialist (Child Prote
+2026-10-17 19:31:59 [INFO] Action: Exists-GitHub | HASH: 44337dfa751864687418 | TITRE: Votre prochaine opportunité vous attend! 👷‍♂️ Forage FTE Drilling poursuit sa cr
+2026-10-17 19:31:59 [INFO] Action: Exists-GitHub | HASH: cec02db794cf10055220 | TITRE: UNICEF recrute un-e Nutrition Specialist Cluster Coordination, NO-3, # 138298, T
+2026-10-17 19:31:59 [INFO] Action: Exists-GitHub | HASH: 290c4228f94024d478cb | TITRE: ACTED recrute au Burkina Faso 🇧🇫 ! Vous avez une expertise en gestion de projets
+2026-10-17 19:31:59 [INFO] Action: Exists-GitHub | HASH: 1ad4e549c8d82f9b5705 | TITRE: Save the Children recrute au Burkina Faso 🇧🇫 ! Vous avez une expertise dans la g
+2026-10-17 19:31:59 [INFO] Action: Exists-GitHub | HASH: 957c783d2eec7d5848de | TITRE: 📢 Recrutement : Lycée Français André Malraux (Bobo-Dioulasso, Burkina Faso) Le L
+2026-10-17 19:32:06 [INFO] Action: Exists-GitHub | HASH: 977842d7a660dfcaa16f | TITRE: 𝟒 𝟕𝟎𝟎 𝐣𝐞𝐮𝐧𝐞𝐬 𝐞𝐧 𝐬𝐭𝐚𝐠𝐞 𝐝’𝐢𝐧𝐢𝐭𝐢𝐚𝐭𝐢𝐨𝐧 𝐚̀ 𝐥𝐚 𝐯𝐢𝐞 𝐩𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐧𝐞𝐥𝐥𝐞 : 𝐮𝐧𝐞 𝐧𝐨𝐮𝐯𝐞𝐥𝐥𝐞 𝐞́𝐭𝐚
+2026-10-17 19:32:06 [INFO] Action: Exists-GitHub | HASH: a8ba044719daf792ea13 | TITRE: Préparation CAN Féminine : fin de stage pour les Étalons Dames Les Étalons Dames
+2026-10-17 19:32:06 [INFO] Action: Exists-GitHub | HASH: f88a516d259a67ad8e3b | TITRE: L'étape des phases éliminatoires de Fitini Show 2021 à Ouagadougou a été une réu
+2026-10-17 19:32:06 [INFO] Action: Exists-GitHub | HASH: bf29a0ce6b05c7e18029 | TITRE: 🚨 CAF – Stage des arbitres en Égypte : Une représentante pour le Burkina Faso ! 
+2026-10-17 19:32:06 [INFO] Action: Exists-GitHub | HASH: a69afd8d761c2bbc5843 | TITRE: #Burkina Faso Appel à candidatures : Stage subventionné pour jeunes diplômé.e.s/
+2026-10-17 19:32:13 [INFO] Action: Exists-GitHub | HASH: ea202bd9b3e74c7bdae7 | TITRE: 🇧🇫 Dans un communiqué publié ce 8 juin, le ministère burkinabè de la Culture a a
+2026-10-17 19:32:13 [INFO] Action: Exists-GitHub | HASH: 85bd18681dc8b460d17b | TITRE: 🇧🇫 Burkina Faso : les concours de beauté suspendus jusqu’à nouvel ordre. Dans un
+2026-10-17 19:32:13 [INFO] Action: Exists-GitHub | HASH: c52326b05f8bef048e14 | TITRE: En juin 2026, le Burkina Faso suspend les concours de beauté afin de revoir leur
+2026-10-17 19:32:13 [INFO] Action: Exists-GitHub | HASH: e96bdc36657a0cb24491 | TITRE: 🇧🇫👑 #SOCIÉTÉ : Le ministère burkinabè de la Culture a annoncé la suspension de t
+2026-10-17 19:32:13 [INFO] Action: Exists-GitHub | HASH: 7b74f827c029a2e14dfc | TITRE: #ELLEnews 🇧🇫 Le Burkina Faso marque une pause. Les autorités ont annoncé la susp
+2026-10-17 19:32:20 [INFO] Action: Exists-GitHub | HASH: cec02db794cf10055220 | TITRE: UNICEF recrute un-e Nutrition Specialist Cluster Coordination, NO-3, # 138298, T
+2026-10-17 19:32:20 [INFO] Action: Exists-GitHub | HASH: 290c4228f94024d478cb | TITRE: ACTED recrute au Burkina Faso 🇧🇫 ! Vous avez une expertise en gestion de projets
+2026-10-17 19:32:20 [INFO] Action: Exists-GitHub | HASH: 1ad4e549c8d82f9b5705 | TITRE: Save the Children recrute au Burkina Faso 🇧🇫 ! Vous avez une expertise dans la g
+2026-10-17 19:32:20 [INFO] Action: Exists-GitHub | HASH: 4d542dc9413100b8b319 | TITRE: Nous recrutons 📢 🎯Consultant(e) National(e) - Ingénieur(e) Génie Civil - Projet 
+2026-10-17 19:32:20 [INFO] Action: Exists-GitHub | HASH: 2c426d18787b643a7b3d | TITRE: 🆕 OFFRE D'EMPLOI — Chief WASH (P-4) – Ouagadougou 🏢 UNICEF · 📍 Ouagadougou, Burk
+2026-10-17 19:32:27 [INFO] Action: Exists-GitHub | HASH: 64770abf3beff04832c8 | TITRE: WWF Cameroon is hiring ! - Position : An Agriculture Officer - Location: Yokadou
+2026-10-17 19:32:27 [INFO] Action: Exists-GitHub | HASH: 3073fb88fe71512a8c2d | TITRE: 🌍 **Votre expertise en audit peut contribuer à la mission des Nations Unies !** 
+2026-10-17 19:32:27 [INFO] Action: Exists-GitHub | HASH: 2ca9c38f17b202f5b816 | TITRE: FHI 360 recrute un clinicien au Burkina Faso 🇧🇫 Vous avez une expertise en prati
+2026-10-17 19:32:27 [INFO] Action: Exists-GitHub | HASH: b73a1b09f50802c8125e | TITRE: 𝐀𝐧𝐧𝐨𝐧𝐜𝐞 𝐝𝐞 𝐫𝐞𝐜𝐫𝐮𝐭𝐞𝐦𝐞𝐧𝐭 : 𝐀𝐆𝐄𝐍𝐓 𝐃𝐄𝐒 𝐎𝐏𝐄́𝐑𝐀𝐓𝐈𝐎𝐍𝐒 𝐁𝐀𝐍𝐂𝐀𝐈𝐑𝐄𝐒 Lieu : Zone CEMAC (Répu
+2026-10-17 19:32:27 [INFO] Action: Exists-GitHub | HASH: b442795e44f992b252e8 | TITRE: #Avis de #Recrutement WHH 👉Superviseurs des opérations (14447) Lieu📍: Bamako Pos
+2026-10-17 19:32:33 [INFO] Action: Exists-GitHub | HASH: 1ad4e549c8d82f9b5705 | TITRE: Save the Children recrute au Burkina Faso 🇧🇫 ! Vous avez une expertise dans la g
+2026-10-17 19:32:33 [INFO] Action: Exists-GitHub | HASH: 290c4228f94024d478cb | TITRE: ACTED recrute au Burkina Faso 🇧🇫 ! Vous avez une expertise en gestion de projets
+2026-10-17 19:32:33 [INFO] Action: Exists-GitHub | HASH: 2c426d18787b643a7b3d | TITRE: 🆕 OFFRE D'EMPLOI — Chief WASH (P-4) – Ouagadougou 🏢 UNICEF · 📍 Ouagadougou, Burk
+2026-10-17 19:32:33 [INFO] Action: Exists-GitHub | HASH: 4253c0c3e0fc326891b1 | TITRE: 🆕 OFFRE D'EMPLOI — Spécialiste communication et plaidoyer (P-3, temporaire 6 moi
+2026-10-17 19:32:33 [INFO] Action: Exists-GitHub | HASH: 2ca9c38f17b202f5b816 | TITRE: FHI 360 recrute un clinicien au Burkina Faso 🇧🇫 Vous avez une expertise en prati
+2026-10-17 19:32:40 [INFO] Action: Exists-GitHub | HASH: 957c783d2eec7d5848de | TITRE: 📢 Recrutement : Lycée Français André Malraux (Bobo-Dioulasso, Burkina Faso) Le L
+2026-10-17 19:32:40 [INFO] Action: Exists-GitHub | HASH: 0c924ee6faa71468a4c1 | TITRE: 🆕 OFFRE D'EMPLOI — Research Officer 🏢 Organisation Mondiale de la Santé (OMS / W
+2026-10-17 19:32:40 [INFO] Action: Exists-GitHub | HASH: a69afd8d761c2bbc5843 | TITRE: #Burkina Faso Appel à candidatures : Stage subventionné pour jeunes diplômé.e.s/
+2026-10-17 19:32:40 [INFO] Action: Exists-GitHub | HASH: 44337dfa751864687418 | TITRE: Votre prochaine opportunité vous attend! 👷‍♂️ Forage FTE Drilling poursuit sa cr
+2026-10-17 19:32:40 [INFO] Action: Exists-GitHub | HASH: 9bbee8a9e14d87fe0987 | TITRE: 🇧🇫 #BurkinaFaso 𝗘𝘁 𝘀𝗶 𝘃𝗼𝘁𝗿𝗲 𝗽𝗿𝗲𝗺𝗶𝗲𝗿 𝗽𝗮𝘀 𝘃𝗲𝗿𝘀 𝘂𝗻𝗲 𝗰𝗮𝗿𝗿𝗶𝗲̀𝗿𝗲 𝗯𝗮𝗻𝗰𝗮𝗶𝗿𝗲 𝗰𝗼𝗺𝗺𝗲𝗻𝗰̧𝗮𝗶𝘁 
+2026-10-17 19:32:47 [INFO] Action: Exists-GitHub | HASH: bef5ff00c5b4958e647f | TITRE: 𝐁𝐨𝐬𝐬, est-ce que tu sais que tu peux avoir une bourse d'étude en cumulant tes po
+2026-10-17 19:32:47 [INFO] Action: Exists-GitHub | HASH: 8b537a8a0bbb1b4e17d2 | TITRE: Bonne Nouvelle!!! Cette année encore, la Fondation Orange au Burkina Faso offre 
+2026-10-17 19:32:47 [INFO] Action: Exists-GitHub | HASH: d7001bf1a9957fe52513 | TITRE: Plus de 𝟯𝟬𝟬 𝗲́𝘁𝘂𝗱𝗶𝗮𝗻𝘁𝘀 ont bénéficié d'une bourse d'étude dans le domaine du num
+2026-10-17 19:32:47 [INFO] Action: Exists-GitHub | HASH: 4e4ef0913d9127564cba | TITRE: 📣Les candidatures pour les « bourses d'études Türkiye » sont ouvertes ! Postulez
+2026-10-17 19:32:47 [INFO] Action: Exists-GitHub | HASH: 95900acbe76402ec69c1 | TITRE: 🇧🇫 Bourses d’Excellence 2026-2027 Les Écoles Internationales Maarif Burkina Faso
+2026-10-17 19:32:54 [INFO] Action: Exists-GitHub | HASH: 816b0d4cd071a8e017b5 | TITRE: 🎓 Trouve le chemin qui mène à la bourse, trois entrées, un seul chemin gagnant..
+2026-10-17 19:32:54 [INFO] Action: Exists-GitHub | HASH: bef5ff00c5b4958e647f | TITRE: 𝐁𝐨𝐬𝐬, est-ce que tu sais que tu peux avoir une bourse d'étude en cumulant tes po
+2026-10-17 19:32:54 [INFO] Action: Exists-GitHub | HASH: 75620dd0042cd2603416 | TITRE: Les actions cotées à la Bourse de Burkina Faso (BRVM) versent des dividendes att
+2026-10-17 19:32:54 [INFO] Action: Exists-GitHub | HASH: fd5a86c4c14c92a49c03 | TITRE: BOURSES DE FORMATION CONTINUE 2027 Le Goethe-Institut Burkina Faso offre des bou
+2026-10-17 19:32:54 [INFO] Action: Exists-GitHub | HASH: 8b537a8a0bbb1b4e17d2 | TITRE: Bonne Nouvelle!!! Cette année encore, la Fondation Orange au Burkina Faso offre 
+2026-10-17 19:33:01 [INFO] Action: Exists-GitHub | HASH: e3f764b3e68d829f2e3c | TITRE: Exemplaire de lettre de demande d'emploi au burkina faso - Pinterest
+2026-10-17 19:33:01 [INFO] Action: Exists-GitHub | HASH: fe0a1418a2d12dff424b | TITRE: Exemplaire de demande d'emploi au Burkina Faso | Lettre de motivation spontanée,
+2026-10-17 19:33:01 [INFO] Action: Exists-GitHub | HASH: 9d225adea241bc72d789 | TITRE: Exemplaire de demande d - Pinterest
+2026-10-17 19:33:01 [INFO] Action: Exists-GitHub | HASH: cd79b34f8da30b05a2ab | TITRE: Exemplaire de demande d'emploi pdf - Pinterest
+2026-10-17 19:33:01 [INFO] Action: Exists-GitHub | HASH: 959f8f93b44ba518beaa | TITRE: demande manuscrite pour emploi - Pinterest
+2026-10-17 19:33:08 [INFO] Action: Exists-GitHub | HASH: e3f764b3e68d829f2e3c | TITRE: Exemplaire de lettre de demande d'emploi au burkina faso - Pinterest
+2026-10-17 19:33:08 [INFO] Action: Exists-GitHub | HASH: fe0a1418a2d12dff424b | TITRE: Exemplaire de demande d'emploi au Burkina Faso | Lettre de motivation spontanée,
+2026-10-17 19:33:08 [INFO] Action: Exists-GitHub | HASH: cd79b34f8da30b05a2ab | TITRE: Exemplaire de demande d'emploi pdf - Pinterest
+2026-10-17 19:33:08 [INFO] Action: Exists-GitHub | HASH: 2a99aa42fa654147e8fd | TITRE: Exemplaire de demande d - Pinterest
+2026-10-17 19:33:08 [INFO] Action: Exists-GitHub | HASH: 959f8f93b44ba518beaa | TITRE: demande manuscrite pour emploi - Pinterest
+2026-10-17 19:33:15 [INFO] Action: Exists-GitHub | HASH: e3f764b3e68d829f2e3c | TITRE: Exemplaire de lettre de demande d'emploi au burkina faso - Pinterest
+2026-10-17 19:33:15 [INFO] Action: Exists-GitHub | HASH: fe0a1418a2d12dff424b | TITRE: Exemplaire de demande d'emploi au Burkina Faso | Lettre de motivation spontanée,
+2026-10-17 19:33:15 [INFO] Action: Exists-GitHub | HASH: 9d225adea241bc72d789 | TITRE: Exemplaire de demande d - Pinterest
+2026-10-17 19:33:15 [INFO] Action: Exists-GitHub | HASH: 6c5b0776b7cbc3d32851 | TITRE: Modèle de Demande d'Emploi au Cameroun (PDF et Word) - Pinterest
+2026-10-17 19:33:15 [INFO] Action: Exists-GitHub | HASH: cd79b34f8da30b05a2ab | TITRE: Exemplaire de demande d'emploi pdf - Pinterest
+2026-10-17 19:33:21 [INFO] Action: Exists-GitHub | HASH: e3f764b3e68d829f2e3c | TITRE: Exemplaire de lettre de demande d'emploi au burkina faso - Pinterest
+2026-10-17 19:33:21 [INFO] Action: Exists-GitHub | HASH: fe0a1418a2d12dff424b | TITRE: Exemplaire de demande d'emploi au Burkina Faso | Lettre de motivation spontanée,
+2026-10-17 19:33:21 [INFO] Action: Exists-GitHub | HASH: 9d225adea241bc72d789 | TITRE: Exemplaire de demande d - Pinterest
+2026-10-17 19:33:21 [INFO] Action: Exists-GitHub | HASH: cd79b34f8da30b05a2ab | TITRE: Exemplaire de demande d'emploi pdf - Pinterest
+2026-10-17 19:33:21 [INFO] Action: Exists-GitHub | HASH: 959f8f93b44ba518beaa | TITRE: demande manuscrite pour emploi - Pinterest
+2026-10-17 19:33:28 [INFO] Action: Exists-GitHub | HASH: ac18db8292f57b6f7c77 | TITRE: Exemple De Demande Manuscrite Au Burkina Faso - Pinterest
+2026-10-17 19:33:28 [INFO] Action: Exists-GitHub | HASH: 793d8aa0a6827f3abf14 | TITRE: Lettre De Demande Manuscrite Burkina Faso - Pinterest
+2026-10-17 19:33:28 [INFO] Action: Exists-GitHub | HASH: e3f764b3e68d829f2e3c | TITRE: Exemplaire de lettre de demande d'emploi au burkina faso - Pinterest
+2026-10-17 19:33:28 [INFO] Action: Exists-GitHub | HASH: 2d0a3d6521414087e001 | TITRE: Comment Écrire Une Lettre De Demande De Stage - Pinterest
+2026-10-17 19:33:28 [INFO] Action: Exists-GitHub | HASH: aa5a6c15f6d60e71872b | TITRE: Demande De Stage Au Mali - Pinterest
+2026-10-17 19:33:35 [INFO] Action: Exists-GitHub | HASH: ac18db8292f57b6f7c77 | TITRE: Exemple De Demande Manuscrite Au Burkina Faso - Pinterest
+2026-10-17 19:33:35 [INFO] Action: Exists-GitHub | HASH: 793d8aa0a6827f3abf14 | TITRE: Lettre De Demande Manuscrite Burkina Faso - Pinterest
+2026-10-17 19:33:35 [INFO] Action: Exists-GitHub | HASH: d58c7600900af8c6f835 | TITRE: Demande Manuscrite Concours Fonction Publique - Pinterest
+2026-10-17 19:33:35 [INFO] Action: Exists-GitHub | HASH: e3f764b3e68d829f2e3c | TITRE: Exemplaire de lettre de demande d'emploi au burkina faso - Pinterest
+2026-10-17 19:33:35 [INFO] Action: Exists-GitHub | HASH: 97fbacffe7d8619c8a73 | TITRE: Demande de Participation Au Concours de Recrutement | Lettre de motivation emplo
+2026-10-17 19:33:44 [INFO] Action: Exists-GitHub | HASH: fe0a1418a2d12dff424b | TITRE: Exemplaire de demande d'emploi au Burkina Faso | Lettre de motivation spontanée,
+2026-10-17 19:33:44 [INFO] Action: Exists-GitHub | HASH: e3f764b3e68d829f2e3c | TITRE: Exemplaire de lettre de demande d'emploi au burkina faso - Pinterest
+2026-10-17 19:33:44 [INFO] Action: Exists-GitHub | HASH: 2a99aa42fa654147e8fd | TITRE: Exemplaire de demande d - Pinterest
+2026-10-17 19:33:44 [INFO] Action: Exists-GitHub | HASH: 959f8f93b44ba518beaa | TITRE: demande manuscrite pour emploi - Pinterest
+2026-10-17 19:33:44 [INFO] Action: Exists-GitHub | HASH: 0976e0087a01c2a9108c | TITRE: modèles de demande d'emploi - Pinterest
+2026-10-17 19:33:56 [INFO] Action: Exists-GitHub | HASH: ecb25bd6bda8ed9bd3d4 | TITRE: Message De Démission - Pinterest
+2026-10-17 19:33:56 [INFO] Action: Exists-GitHub | HASH: 8753be0c98c4249a4103 | TITRE: Rédiger Une Lettre De Démission - Pinterest
+2026-10-17 19:33:56 [INFO] Action: Exists-GitHub | HASH: 42a324fddb900c201194 | TITRE: Modèle de Lettre de Demande d'Aide Sociale | PDF & Word - Pinterest
+2026-10-17 19:33:56 [INFO] Action: Exists-GitHub | HASH: cac2d865e9f24fdf84a6 | TITRE: Demande Modèle Lettre Avancement De Grade - Pinterest
+2026-10-17 19:33:56 [INFO] Action: Exists-GitHub | HASH: 247b2e39defc356acdfa | TITRE: Exemple de Demande Manuscrite pour le Ministre de l'Éducation Nationale en PDF -
+2026-10-17 19:34:03 [INFO] Action: Exists-GitHub | HASH: 6b42ccd79c807debef85 | TITRE: Monument Aux Martyrs - Pinterest
+2026-10-17 19:34:03 [INFO] Action: Exists-GitHub | HASH: 8753be0c98c4249a4103 | TITRE: Rédiger Une Lettre De Démission - Pinterest
+2026-10-17 19:34:03 [INFO] Action: Exists-GitHub | HASH: ecb25bd6bda8ed9bd3d4 | TITRE: Message De Démission - Pinterest
+2026-10-17 19:34:03 [INFO] Action: Exists-GitHub | HASH: c391b5ad70955b526fd6 | TITRE: COUDRE UN BOUBOU - SB Afrique Couture - Pinterest
+2026-10-17 19:34:03 [INFO] Action: Exists-GitHub | HASH: 7a004be0cdc8ab319068 | TITRE: Exemple De Démission Avec Préavis - Pinterest
+2026-10-17 19:34:09 [INFO] Action: Exists-GitHub | HASH: b704b44efc842161040e | TITRE: Découvrez cette Épingle de Kelt- - Pinterest
+2026-10-17 19:34:09 [INFO] Action: Exists-GitHub | HASH: 22e858194deb98084dd1 | TITRE: Lettre de motivation demande d'inscription au collège ou lycée - Pinterest
+2026-10-17 19:34:09 [INFO] Action: Exists-GitHub | HASH: 69f9bf3589f4d93fcced | TITRE: Lettre De Demande De Prêt Scolaire - Pinterest
+2026-10-17 19:34:09 [INFO] Action: Exists-GitHub | HASH: db164c27e55520efe1c9 | TITRE: Collection GUEU - Pinterest
+2026-10-17 19:34:09 [INFO] Action: Exists-GitHub | HASH: 81151b18095896263e77 | TITRE: Lettre De Stage - Pinterest
+2026-10-17 19:34:19 [INFO] Action: Exists-GitHub | HASH: ca457c8eff9e61b399a0 | TITRE: U23 Maroc - Pinterest
+2026-10-17 19:34:19 [INFO] Action: Exists-GitHub | HASH: b704b44efc842161040e | TITRE: Découvrez cette Épingle de Kelt- - Pinterest
+2026-10-17 19:34:19 [INFO] Action: Exists-GitHub | HASH: 42a324fddb900c201194 | TITRE: Modèle de Lettre de Demande d'Aide Sociale | PDF & Word - Pinterest
+2026-10-17 19:34:19 [INFO] Action: Exists-GitHub | HASH: 0eade2c313213c6c7f65 | TITRE: 18 idées de Couture : toile de jute | sac toile de jute, créations en toile de j
+2026-10-17 19:34:19 [INFO] Action: Exists-GitHub | HASH: ebf021b727f5f2db8265 | TITRE: 150 idées de Ensemble pantalon | mode femme pantalon, mode femme décontractée, m
+2026-10-17 19:34:24 [INFO] Démarrage du scan GitHub...
+2026-10-17 19:34:30 [INFO] Système de logs initialisé (Console + Fichier).
+2026-10-17 19:34:30 [INFO] Démarrage du scan Google News...
+2026-10-17 19:34:32 [INFO] Action: Exists-GitHub | HASH: e5a6138f3c0387a0bc75 | TITRE: Burkina Faso: les inquiétudes de Human Rights Watch face au nouveau recrutement 
+2026-10-17 19:34:32 [INFO] Action: Exists-GitHub | HASH: a244a56bbc0ca9fbdb18 | TITRE: CANULAR : Ce site n'est pas le portail de recrutement de la Raffinerie nationale
+2026-10-17 19:34:32 [INFO] Action: Exists-GitHub | HASH: 930285e908ea8160e1b8 | TITRE: Eagle Football Group : recrutement en défense - Boursier.com
+2026-10-17 19:34:32 [INFO] Action: Exists-GitHub | HASH: 41ceebbca58470c6866f | TITRE: Burkina Faso : 100.000 civils recrutés pour renforcer l’armée face à la menace j
+2026-10-17 19:34:32 [INFO] Action: Exists-GitHub | HASH: 7c5de74c2e95c6a05623 | TITRE: Le Burkina Faso va recruter 100.000 civils comme réservistes dans l’armée - Le36
+2026-10-17 19:34:39 [INFO] Action: Exists-GitHub | HASH: 283693a3c3627834a35a | TITRE: Jeunesse et emploi : Orange Burkina Faso, à travers Orange Digital Center, prése
+2026-10-17 19:34:39 [INFO] Action: Exists-GitHub | HASH: d335156d756c7a694676 | TITRE: Burkina Faso : le Ouaga Job Challenge, réponse novatrice au problème de l’emploi
+2026-10-17 19:34:39 [INFO] Action: Exists-GitHub | HASH: 97e7863c516b46f3cedb | TITRE: Emploi : 3 questions à Christian Koko, DRH d’Orange Côte d’Ivoire - Jeune Afriqu
+2026-10-17 19:34:39 [INFO] Action: Exists-GitHub | HASH: a1094cb82e1e9a961b8c | TITRE: Burkina Faso : « Carrefour des opportunités », une initiative pour l’insertion s
+2026-10-17 19:34:39 [INFO] Action: Exists-GitHub | HASH: 63865edfa8363dcbc003 | TITRE: Orange Digital Center/ Job Dating 2025 : Plus de 200 talents face aux recruteurs
+2026-10-17 19:34:49 [INFO] Action: Exists-GitHub | HASH: e5a6138f3c0387a0bc75 | TITRE: Burkina Faso: les inquiétudes de Human Rights Watch face au nouveau recrutement 
+2026-10-17 19:34:49 [INFO] Action: Exists-GitHub | HASH: 283693a3c3627834a35a | TITRE: Jeunesse et emploi : Orange Burkina Faso, à travers Orange Digital Center, prése
+2026-10-17 19:34:49 [INFO] Action: Exists-GitHub | HASH: a7519cae2ea4ea29c187 | TITRE: Avis de recrutement d’un comptable - leFaso.net - L'actualité au Burkina Faso
+2026-10-17 19:34:49 [INFO] Action: Exists-GitHub | HASH: c5fad6461a282bcd616b | TITRE: Attention à cette fausse offre d’emploi chez TotalEnergies au Burkina Faso - AFP
+2026-10-17 19:34:49 [INFO] Action: Exists-GitHub | HASH: 2818d4aa7ff94845bec2 | TITRE: Le bureau de la FAO au Burkina Faso recrute un(e) spécialiste national(e) en sau
+2026-10-17 19:35:05 [INFO] Action: Exists-GitHub | HASH: b30322d864d99101fe8c | TITRE: Burkina Faso - Banque mondiale : un nouveau partenariat pour l'emploi - Koaci
+2026-10-17 19:35:05 [INFO] Action: Exists-GitHub | HASH: 7ee1394715062937d992 | TITRE: Burkina-BM : partenariat pour l’emploi et les secteurs sociaux - APAnews - Agenc
+2026-10-17 19:35:05 [INFO] Action: Exists-GitHub | HASH: 1c763f71cb77990edcfb | TITRE: Burkina Naatilgué : 1 000 jeunes, 1 000 emplois, 1 000 entreprises à l’horizon 2
+2026-10-17 19:35:05 [INFO] Action: Exists-GitHub | HASH: e5a6138f3c0387a0bc75 | TITRE: Burkina Faso: les inquiétudes de Human Rights Watch face au nouveau recrutement 
+2026-10-17 19:35:05 [INFO] Action: Exists-GitHub | HASH: 38296cb4fec6e288cc31 | TITRE: Burkina Faso : création de 117 000 nouveaux emplois d’ici 2023 - Africa24 TV
+2026-10-17 19:35:13 [INFO] Action: Exists-GitHub | HASH: bc7a2a6ea16e5312bd12 | TITRE: Un stage de bronze à la cire perdue avec un fondeur burkinabé, à Moëlan-sur-Mer 
+2026-10-17 19:35:13 [INFO] Action: Exists-GitHub | HASH: cb1898295c5341efe3c9 | TITRE: Offre de stage : conception d’une plateforme de services support à l’innovation 
+2026-10-17 19:35:13 [INFO] Action: Exists-GitHub | HASH: eb8a75ca8e0114b42628 | TITRE: Préparatifs CAN 2026 : les Lionnes de l’Atlas concluent leur stage par un nul fa
+2026-10-17 19:35:13 [INFO] Action: Exists-GitHub | HASH: ddcfd9fe4f8cb507b4de | TITRE: Études, formation ou stage à l’étranger : Ouverture des demandes d’autorisation 
+2026-10-17 19:35:13 [INFO] Action: Exists-GitHub | HASH: 6b550c57e09ffe9214af | TITRE: Burkina Faso : désormais, partir étudier à l'étranger nécessitera une autorisati
+2026-10-17 19:35:20 [INFO] Action: Exists-GitHub | HASH: a3521665314e183ef21e | TITRE: Burkina Faso : 15 lauréates reçues au palais de koulouba pour le concours de Tal
+2026-10-17 19:35:20 [INFO] Action: Exists-GitHub | HASH: c74897de3ec0c82188b0 | TITRE: Au Burkina Faso, le ministère de la Culture suspend tous les concours de beauté 
+2026-10-17 19:35:20 [INFO] Action: Exists-GitHub | HASH: 5e7c0ce9a3369ada0c3a | TITRE: Burkina Faso : Hakili Mousso veut faire des sciences un terrain de conquête pour
+2026-10-17 19:35:20 [INFO] Action: Exists-GitHub | HASH: 87087fa9d21dcfaeb315 | TITRE: Au Burkina Faso, les concours de beauté sont désormais proscrits - Jeune Afrique
+2026-10-17 19:35:20 [INFO] Action: Exists-GitHub | HASH: d4c19d3c4e1611f0fb9e | TITRE: Le Burkina Faso suspend tous les concours de beauté jusqu’à nouvel ordre | L'obs
+2026-10-17 19:35:27 [INFO] Action: Exists-GitHub | HASH: b30322d864d99101fe8c | TITRE: Burkina Faso - Banque mondiale : un nouveau partenariat pour l'emploi - Koaci
+2026-10-17 19:35:27 [INFO] Action: Exists-GitHub | HASH: 38296cb4fec6e288cc31 | TITRE: Burkina Faso : création de 117 000 nouveaux emplois d’ici 2023 - Africa24 TV
+2026-10-17 19:35:27 [INFO] Action: Exists-GitHub | HASH: 283693a3c3627834a35a | TITRE: Jeunesse et emploi : Orange Burkina Faso, à travers Orange Digital Center, prése
+2026-10-17 19:35:27 [INFO] Action: Exists-GitHub | HASH: 2818d4aa7ff94845bec2 | TITRE: Le bureau de la FAO au Burkina Faso recrute un(e) spécialiste national(e) en sau
+2026-10-17 19:35:27 [INFO] Action: Exists-GitHub | HASH: c5fad6461a282bcd616b | TITRE: Attention à cette fausse offre d’emploi chez TotalEnergies au Burkina Faso - AFP
+2026-10-17 19:35:33 [INFO] Action: Exists-GitHub | HASH: 6018769d50cb49abb7b0 | TITRE: Carrières à l’OMS : Postuler à un poste - World Health Organization (WHO)
+2026-10-17 19:35:33 [INFO] Action: Exists-GitHub | HASH: 3ec37d2e7c8e45dcc33d | TITRE: Le retrait français du Burkina Faso - Le Grand Continent
+2026-10-17 19:35:33 [INFO] Action: Exists-GitHub | HASH: d8034bf4cfd8a1224cdd | TITRE: Recrutement : Magasinier de pièces de rechange pour engins lourds - leFaso.net -
+2026-10-17 19:35:33 [INFO] Action: Exists-GitHub | HASH: 1e75aabf960d58ddd28a | TITRE: Recrutement : Responsable de l’Afrique francophone pour le Global Investigative 
+2026-10-17 19:35:33 [INFO] Action: Exists-GitHub | HASH: a32c72a996559870dfc4 | TITRE: Côte d’Ivoire : avis de recrutement de l’UNFPA - L-FRII
+2026-10-17 19:35:40 [INFO] Action: Exists-GitHub | HASH: a937f2ca34038ee2889f | TITRE: Burkina Faso . Un Code du travail tout neuf | L'observateur - L'observateur
+2026-10-17 19:35:40 [INFO] Action: Exists-GitHub | HASH: 381f0785a009503f44cb | TITRE: Quelques innovations majeures de la loi n°013-2026/ALP du 6 mai 2026 portant nou
+2026-10-17 19:35:40 [INFO] Action: Exists-GitHub | HASH: ee273c33b1c737af486a | TITRE: Le Burkina Faso adopte un nouveau Code du travail - AGENCE ECOFIN
+2026-10-17 19:35:40 [INFO] Action: Exists-GitHub | HASH: 9c330e9beb1bfdb1f0ae | TITRE: Code du travail au Burkina Faso : Le projet de loi adopté par les députés de l’A
+2026-10-17 19:35:40 [INFO] Action: Exists-GitHub | HASH: 1e9b2f79dce1a44200bb | TITRE: Communiqué | SONABEL : recrutement de 120 Ouvriers Qualifiés Monteurs Lignes HTB
+2026-10-17 19:35:46 [INFO] Action: Exists-GitHub | HASH: 6cc0a39de1366c6c4215 | TITRE: Burkina Faso : la CDI-BF clôture 2025 avec un bénéfice net de 844 millions FCFA 
+2026-10-17 19:35:46 [INFO] Action: Exists-GitHub | HASH: 6d604d5cf0a93b8f9607 | TITRE: Caisse des dépôts et d’investissements du Burkina Faso : Serge Auguste Bayala pa
+2026-10-17 19:35:46 [INFO] Action: Exists-GitHub | HASH: 07195db768e33364546c | TITRE: SONABEL/ tests de recrutements Contrats de Travail à Durée Indéterminée (CDI) : 
+2026-10-17 19:35:46 [INFO] Action: Exists-GitHub | HASH: 461a6c008b71b7f3bfd9 | TITRE: L’Etat du Burkina Faso prend le contrôle de la Société pharmaceutique PROPHARM S
+2026-10-17 19:35:46 [INFO] Action: Exists-GitHub | HASH: c26cc41c9e678c4da717 | TITRE: Burkina Faso : La Caisse des dépôts boucle 2025 avec 844 millions FCFA de bénéfi
+2026-10-17 19:35:53 [INFO] Action: Exists-GitHub | HASH: 5931744faff6b007df51 | TITRE: Burkina: les étudiants doivent désormais obtenir une autorisation du gouvernemen
+2026-10-17 19:35:53 [INFO] Action: Exists-GitHub | HASH: 8af325d19e90a80cca66 | TITRE: Burkina Faso: les étudiants désormais obligés d'obtenir l'aval du gouvernement p
+2026-10-17 19:35:53 [INFO] Action: Exists-GitHub | HASH: 77eb30963b7f6f2702cf | TITRE: Burkina/Enseignement supérieur : Moov Africa-ONATEL octroie 2,5 millions de FCFA
+2026-10-17 19:35:53 [INFO] Action: Exists-GitHub | HASH: ca4af9feac2ca582e3d9 | TITRE: Burkina Faso. Aval obligatoire du gouvernement pour les études à l’étranger: les
+2026-10-17 19:35:53 [INFO] Action: Exists-GitHub | HASH: ab587845412047783a56 | TITRE: Burkina : autorisation obligatoire pour étudier à l’étranger - APAnews - Agence 
+2026-10-17 19:36:00 [INFO] Action: Exists-GitHub | HASH: 63df9d100d69a595a4e4 | TITRE: Burkina Faso : fuite des cerveaux, plus de bourses pour les meilleurs bacheliers
+2026-10-17 19:36:00 [INFO] Action: Exists-GitHub | HASH: ab587845412047783a56 | TITRE: Burkina : autorisation obligatoire pour étudier à l’étranger - APAnews - Agence 
+2026-10-17 19:36:00 [INFO] Action: Exists-GitHub | HASH: ca4af9feac2ca582e3d9 | TITRE: Burkina Faso. Aval obligatoire du gouvernement pour les études à l’étranger: les
+2026-10-17 19:36:00 [INFO] Action: Exists-GitHub | HASH: 373d9ab2fc6e9279ca42 | TITRE: BRVM : Investir en bourse, est-ce vraimant pour les Maliens ? - Canal+
+2026-10-17 19:36:00 [INFO] Action: Exists-GitHub | HASH: e613a15463721fc6aa33 | TITRE: Burkina Faso : la Fondation Orange lance des bourses pour le numérique - We are 

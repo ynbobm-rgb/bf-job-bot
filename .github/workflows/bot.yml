@@ -41,3 +41,17 @@ jobs:
           EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
           EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
+      - name: Sauvegarder le fichier seen.json
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add seen.json
+          git diff --cached --quiet || git commit -m "Update seen.json"
+          git push
+      - name: Sauvegarder le fichier fingerprints.json
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add fingerprints.json
+          git diff --cached --quiet || git commit -m "Update fingerprints.json"
+          git push
