@@ -1,0 +1,246 @@
+2026-10-15 21:22:22,903 [INFO] Fichier seen.json introuvable. Création d'une nouvelle liste.
+2026-10-15 21:22:22,903 [INFO] Démarrage du scan Google News...
+2026-10-15 21:22:25,687 [INFO] Action: DATE-ILLISIBLE | HASH: a244a56bbc0ca9fbdb18 | TITRE: Date illisible, envoi dégradé - CANULAR : Ce site n'est pas le portail de recrut
+2026-10-15 21:22:25,687 [INFO] Action: Erreur-mail | HASH: a244a56bbc0ca9fbdb18 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:22:25,688 [INFO] Action: Erreur-Scan-GoogleNews | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:22:32,246 [INFO] Action: DATE-ILLISIBLE | HASH: 283693a3c3627834a35a | TITRE: Date illisible, envoi dégradé - Jeunesse et emploi : Orange Burkina Faso, à trav
+2026-10-15 21:22:32,247 [INFO] Action: Erreur-mail | HASH: 283693a3c3627834a35a | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:22:32,247 [INFO] Action: Erreur-Scan-GoogleNews | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:22:41,314 [INFO] Action: DATE-ILLISIBLE | HASH: e5a6138f3c0387a0bc75 | TITRE: Date illisible, envoi dégradé - Burkina Faso: les inquiétudes de Human Rights Wa
+2026-10-15 21:22:41,315 [INFO] Action: Erreur-mail | HASH: e5a6138f3c0387a0bc75 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:22:41,315 [INFO] Action: Erreur-Scan-GoogleNews | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:22:48,066 [INFO] Action: DATE-ILLISIBLE | HASH: b30322d864d99101fe8c | TITRE: Date illisible, envoi dégradé - Burkina Faso - Banque mondiale : un nouveau part
+2026-10-15 21:22:48,067 [INFO] Action: Erreur-mail | HASH: b30322d864d99101fe8c | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:22:48,067 [INFO] Action: Erreur-Scan-GoogleNews | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:22:55,353 [INFO] Action: DATE-ILLISIBLE | HASH: bc7a2a6ea16e5312bd12 | TITRE: Date illisible, envoi dégradé - Un stage de bronze à la cire perdue avec un fond
+2026-10-15 21:22:55,353 [INFO] Action: Erreur-mail | HASH: bc7a2a6ea16e5312bd12 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:22:55,353 [INFO] Action: Erreur-Scan-GoogleNews | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:23:02,366 [INFO] Action: DATE-ILLISIBLE | HASH: a3521665314e183ef21e | TITRE: Date illisible, envoi dégradé - Burkina Faso : 15 lauréates reçues au palais de 
+2026-10-15 21:23:02,367 [INFO] Action: Erreur-mail | HASH: a3521665314e183ef21e | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:23:02,367 [INFO] Action: Erreur-Scan-GoogleNews | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:23:10,704 [INFO] Action: DATE-ILLISIBLE | HASH: b30322d864d99101fe8c | TITRE: Date illisible, envoi dégradé - Burkina Faso - Banque mondiale : un nouveau part
+2026-10-15 21:23:10,704 [INFO] Action: Erreur-mail | HASH: b30322d864d99101fe8c | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:23:10,704 [INFO] Action: Erreur-Scan-GoogleNews | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:23:16,703 [INFO] Action: DATE-ILLISIBLE | HASH: 6018769d50cb49abb7b0 | TITRE: Date illisible, envoi dégradé - Carrières à l’OMS : Postuler à un poste - World 
+2026-10-15 21:23:16,704 [INFO] Action: DATE-ILLISIBLE | HASH: 3ec37d2e7c8e45dcc33d | TITRE: Date illisible, envoi dégradé - Le retrait français du Burkina Faso - Le Grand C
+2026-10-15 21:23:16,704 [INFO] Action: DATE-ILLISIBLE | HASH: d8034bf4cfd8a1224cdd | TITRE: Date illisible, envoi dégradé - Recrutement : Magasinier de pièces de rechange p
+2026-10-15 21:23:16,704 [INFO] Action: Erreur-mail | HASH: d8034bf4cfd8a1224cdd | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:23:16,704 [INFO] Action: Erreur-Scan-GoogleNews | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:23:23,487 [INFO] Action: DATE-ILLISIBLE | HASH: a937f2ca34038ee2889f | TITRE: Date illisible, envoi dégradé - Burkina Faso . Un Code du travail tout neuf | L'
+2026-10-15 21:23:23,487 [INFO] Action: DATE-ILLISIBLE | HASH: 381f0785a009503f44cb | TITRE: Date illisible, envoi dégradé - Quelques innovations majeures de la loi n°013-20
+2026-10-15 21:23:23,488 [INFO] Action: DATE-ILLISIBLE | HASH: ee273c33b1c737af486a | TITRE: Date illisible, envoi dégradé - Le Burkina Faso adopte un nouveau Code du travai
+2026-10-15 21:23:23,488 [INFO] Action: DATE-ILLISIBLE | HASH: 9c330e9beb1bfdb1f0ae | TITRE: Date illisible, envoi dégradé - Code du travail au Burkina Faso : Le projet de l
+2026-10-15 21:23:23,488 [INFO] Action: DATE-ILLISIBLE | HASH: 1e9b2f79dce1a44200bb | TITRE: Date illisible, envoi dégradé - Communiqué | SONABEL : recrutement de 120 Ouvrie
+2026-10-15 21:23:23,488 [INFO] Action: Erreur-mail | HASH: 1e9b2f79dce1a44200bb | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:23:23,488 [INFO] Action: Erreur-Scan-GoogleNews | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:23:30,297 [INFO] Action: DATE-ILLISIBLE | HASH: 6cc0a39de1366c6c4215 | TITRE: Date illisible, envoi dégradé - Burkina Faso : la CDI-BF clôture 2025 avec un bé
+2026-10-15 21:23:30,297 [INFO] Action: Erreur-mail | HASH: 6cc0a39de1366c6c4215 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:23:30,298 [INFO] Action: Erreur-Scan-GoogleNews | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:23:40,648 [INFO] Action: DATE-ILLISIBLE | HASH: 5931744faff6b007df51 | TITRE: Date illisible, envoi dégradé - Burkina: les étudiants doivent désormais obtenir
+2026-10-15 21:23:40,649 [INFO] Action: DATE-ILLISIBLE | HASH: 8af325d19e90a80cca66 | TITRE: Date illisible, envoi dégradé - Burkina Faso: les étudiants désormais obligés d'
+2026-10-15 21:23:40,649 [INFO] Action: DATE-ILLISIBLE | HASH: 77eb30963b7f6f2702cf | TITRE: Date illisible, envoi dégradé - Burkina/Enseignement supérieur : Moov Africa-ONA
+2026-10-15 21:23:40,650 [INFO] Action: Erreur-mail | HASH: 77eb30963b7f6f2702cf | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:23:40,650 [INFO] Action: Erreur-Scan-GoogleNews | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:23:52,846 [INFO] Action: DATE-ILLISIBLE | HASH: ab587845412047783a56 | TITRE: Date illisible, envoi dégradé - Burkina : autorisation obligatoire pour étudier 
+2026-10-15 21:23:52,847 [INFO] Action: DATE-ILLISIBLE | HASH: ca4af9feac2ca582e3d9 | TITRE: Date illisible, envoi dégradé - Burkina Faso. Aval obligatoire du gouvernement p
+2026-10-15 21:23:52,847 [INFO] Action: DATE-ILLISIBLE | HASH: e613a15463721fc6aa33 | TITRE: Date illisible, envoi dégradé - Burkina Faso : la Fondation Orange lance des bou
+2026-10-15 21:23:52,847 [INFO] Action: Erreur-mail | HASH: e613a15463721fc6aa33 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:23:52,847 [INFO] Action: Erreur-Scan-GoogleNews | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:24:01,431 [INFO] Action: DATE-ILLISIBLE | HASH: aca69087b58bc43b965a | TITRE: Date illisible, envoi dégradé - Bon à savoir : des metiers, emplois, postes de t
+2026-10-15 21:24:01,432 [INFO] Action: Erreur-mail | HASH: aca69087b58bc43b965a | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:24:01,432 [INFO] Action: Erreur-Scan-Facebook | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:24:08,899 [INFO] Action: DATE-ILLISIBLE | HASH: 9700d5364702669c71eb | TITRE: Date illisible, envoi dégradé - 🚛 *OPPORTUNITÉ D'EMPLOI | RECRUTEMENT DE CONDUCT
+2026-10-15 21:24:08,900 [INFO] Action: Erreur-mail | HASH: 9700d5364702669c71eb | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:24:08,900 [INFO] Action: Erreur-Scan-Facebook | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:24:16,483 [INFO] Action: DATE-ILLISIBLE | HASH: 9700d5364702669c71eb | TITRE: Date illisible, envoi dégradé - 🚛 *OPPORTUNITÉ D'EMPLOI | RECRUTEMENT DE CONDUCT
+2026-10-15 21:24:16,483 [INFO] Action: Erreur-mail | HASH: 9700d5364702669c71eb | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:24:16,483 [INFO] Action: Erreur-Scan-Facebook | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:24:23,652 [INFO] Action: DATE-ILLISIBLE | HASH: aca69087b58bc43b965a | TITRE: Date illisible, envoi dégradé - Bon à savoir : des metiers, emplois, postes de t
+2026-10-15 21:24:23,653 [INFO] Action: Erreur-mail | HASH: aca69087b58bc43b965a | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:24:23,653 [INFO] Action: Erreur-Scan-Facebook | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:24:31,242 [INFO] Action: DATE-ILLISIBLE | HASH: 993058937e0b752b9248 | TITRE: Date illisible, envoi dégradé - Le stage de formation sur la technologie de Junc
+2026-10-15 21:24:31,242 [INFO] Action: Erreur-mail | HASH: 993058937e0b752b9248 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:24:31,242 [INFO] Action: Erreur-Scan-Facebook | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:24:38,379 [INFO] Action: DATE-ILLISIBLE | HASH: cba3cbbfedc7a46f0c27 | TITRE: Date illisible, envoi dégradé - Programme de #répartition par sous-centre et par
+2026-10-15 21:24:38,379 [INFO] Action: DATE-ILLISIBLE | HASH: 7aa7ebbe834d4d9f74e0 | TITRE: Date illisible, envoi dégradé - En juin 2026, le Burkina Faso suspend les concou
+2026-10-15 21:24:38,380 [INFO] Action: Erreur-mail | HASH: 7aa7ebbe834d4d9f74e0 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:24:38,380 [INFO] Action: Erreur-Scan-Facebook | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:24:46,470 [INFO] Action: DATE-ILLISIBLE | HASH: 1311104f14c91fdf47bd | TITRE: Date illisible, envoi dégradé - UNICEF Burkina Faso recrute pour son bureau de O
+2026-10-15 21:24:46,473 [INFO] Action: Erreur-mail | HASH: 1311104f14c91fdf47bd | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:24:46,473 [INFO] Action: Erreur-Scan-Facebook | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:24:53,120 [INFO] Action: DATE-ILLISIBLE | HASH: e952dda1c7ce1199d239 | TITRE: Date illisible, envoi dégradé - We are hiring !! U.S. Embassy Burkina Faso is se
+2026-10-15 21:24:53,120 [INFO] Action: Erreur-mail | HASH: e952dda1c7ce1199d239 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:24:53,121 [INFO] Action: Erreur-Scan-Facebook | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:24:59,759 [INFO] Action: DATE-ILLISIBLE | HASH: bacbd59417c7128e4b50 | TITRE: Date illisible, envoi dégradé - Code du travail au Burkina Faso Le Burkina Faso 
+2026-10-15 21:24:59,760 [INFO] Action: DATE-ILLISIBLE | HASH: 5390910994f269540a90 | TITRE: Date illisible, envoi dégradé - INNOVATIONS DU NOUVEAU CODE DU TRAVAIL DU BURKIN
+2026-10-15 21:24:59,760 [INFO] Action: Erreur-mail | HASH: 5390910994f269540a90 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:24:59,760 [INFO] Action: Erreur-Scan-Facebook | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:25:06,614 [INFO] Action: DATE-ILLISIBLE | HASH: 90e2f48e07018c72c972 | TITRE: Date illisible, envoi dégradé - 𝐏𝐫𝐨𝐛𝐥é𝐦𝐚𝐭𝐢𝐪𝐮𝐞 𝐝𝐮 𝐥𝐨𝐠𝐞𝐦𝐞𝐧𝐭 𝐚𝐮 𝐁𝐮𝐫𝐤𝐢𝐧𝐚 𝐅𝐚𝐬𝐨 : 𝐋𝐚 𝐂
+2026-10-15 21:25:06,615 [INFO] Action: Erreur-mail | HASH: 90e2f48e07018c72c972 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:25:06,615 [INFO] Action: Erreur-Scan-Facebook | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:25:13,265 [INFO] Action: DATE-ILLISIBLE | HASH: 101542983b477776c392 | TITRE: Date illisible, envoi dégradé - 𝐁𝐨𝐬𝐬, est-ce que tu sais que tu peux avoir une b
+2026-10-15 21:25:13,265 [INFO] Action: Erreur-mail | HASH: 101542983b477776c392 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:25:13,265 [INFO] Action: Erreur-Scan-Facebook | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:25:20,056 [INFO] Action: DATE-ILLISIBLE | HASH: 05d504146598df56d55d | TITRE: Date illisible, envoi dégradé - RTB. . HEBDO BOURSE du 11 octobre 2026 - Faceboo
+2026-10-15 21:25:20,056 [INFO] Action: Erreur-mail | HASH: 05d504146598df56d55d | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:25:20,056 [INFO] Action: Erreur-Scan-Facebook | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:25:27,028 [INFO] Action: DATE-ILLISIBLE | HASH: a88c3824652abae94c60 | TITRE: Date illisible, envoi dégradé - TotalEnergies - LinkedIn
+2026-10-15 21:25:27,029 [INFO] Action: DATE-ILLISIBLE | HASH: 9642d4f14a73c6e90e03 | TITRE: Date illisible, envoi dégradé - Recrutement d’un Cabinet de ressource humaine au
+2026-10-15 21:25:27,029 [INFO] Action: Erreur-mail | HASH: 9642d4f14a73c6e90e03 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:25:27,029 [INFO] Action: Erreur-Scan-LinkedIn | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:25:33,959 [INFO] Action: DATE-ILLISIBLE | HASH: c57a9e42f9da3b2f83b8 | TITRE: Date illisible, envoi dégradé - Faso Emplois | Job Connect hiring APPEL À CANDID
+2026-10-15 21:25:33,959 [INFO] Action: Erreur-mail | HASH: c57a9e42f9da3b2f83b8 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:25:33,959 [INFO] Action: Erreur-Scan-LinkedIn | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:25:41,403 [INFO] Action: DATE-ILLISIBLE | HASH: 9642d4f14a73c6e90e03 | TITRE: Date illisible, envoi dégradé - Recrutement d’un Cabinet de ressource humaine au
+2026-10-15 21:25:41,404 [INFO] Action: Erreur-mail | HASH: 9642d4f14a73c6e90e03 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:25:41,404 [INFO] Action: Erreur-Scan-LinkedIn | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:25:48,191 [INFO] Action: DATE-ILLISIBLE | HASH: a88c3824652abae94c60 | TITRE: Date illisible, envoi dégradé - TotalEnergies - LinkedIn
+2026-10-15 21:25:48,191 [INFO] Action: DATE-ILLISIBLE | HASH: 9642d4f14a73c6e90e03 | TITRE: Date illisible, envoi dégradé - Recrutement d’un Cabinet de ressource humaine au
+2026-10-15 21:25:48,191 [INFO] Action: Erreur-mail | HASH: 9642d4f14a73c6e90e03 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:25:48,191 [INFO] Action: Erreur-Scan-LinkedIn | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:25:54,780 [INFO] Action: DATE-ILLISIBLE | HASH: e95c17b21d5dc5b65de3 | TITRE: Date illisible, envoi dégradé - ✨ Je suis ravie d'annoncer le début de mon stage
+2026-10-15 21:25:54,780 [INFO] Action: Erreur-mail | HASH: e95c17b21d5dc5b65de3 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:25:54,781 [INFO] Action: Erreur-Scan-LinkedIn | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:26:01,267 [INFO] Action: DATE-ILLISIBLE | HASH: 6f0dd50cd1d68c3c4488 | TITRE: Date illisible, envoi dégradé - AVIS D’APPEL À CANDIDATURES CONCOURS PRIVÉ D’ARC
+2026-10-15 21:26:01,267 [INFO] Action: Erreur-mail | HASH: 6f0dd50cd1d68c3c4488 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:26:01,267 [INFO] Action: Erreur-Scan-LinkedIn | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:26:08,079 [INFO] Action: DATE-ILLISIBLE | HASH: a88c3824652abae94c60 | TITRE: Date illisible, envoi dégradé - TotalEnergies - LinkedIn
+2026-10-15 21:26:08,079 [INFO] Action: DATE-ILLISIBLE | HASH: 3212f5530ab291b879e4 | TITRE: Date illisible, envoi dégradé - Postes de Burkina Faso (France) : (11,000+ poste
+2026-10-15 21:26:08,080 [INFO] Action: DATE-ILLISIBLE | HASH: 0c622ff294a0a6b26f6a | TITRE: Date illisible, envoi dégradé - Alerte Job Africa - LinkedIn
+2026-10-15 21:26:08,080 [INFO] Action: Erreur-mail | HASH: 0c622ff294a0a6b26f6a | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:26:08,080 [INFO] Action: Erreur-Scan-LinkedIn | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:26:14,712 [INFO] Action: DATE-ILLISIBLE | HASH: a88c3824652abae94c60 | TITRE: Date illisible, envoi dégradé - TotalEnergies - LinkedIn
+2026-10-15 21:26:14,762 [INFO] Action: DATE-ILLISIBLE | HASH: f6f000cacf82527b56aa | TITRE: Date illisible, envoi dégradé - Renforcement de la protection des civils au Burk
+2026-10-15 21:26:14,763 [INFO] Action: DATE-ILLISIBLE | HASH: 4d7111ba79e68e43b342 | TITRE: Date illisible, envoi dégradé - Nous #recrutons #hiring ! Connaissez-vous quelqu
+2026-10-15 21:26:14,763 [INFO] Action: Erreur-mail | HASH: 4d7111ba79e68e43b342 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:26:14,763 [INFO] Action: Erreur-Scan-LinkedIn | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:26:21,533 [INFO] Action: DATE-ILLISIBLE | HASH: ef20e1c152a1a1e1b7c3 | TITRE: Date illisible, envoi dégradé - MARIAM .L. LINGANI - JURISTE: Recherche Stage , 
+2026-10-15 21:26:21,533 [INFO] Action: Erreur-mail | HASH: ef20e1c152a1a1e1b7c3 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:26:21,533 [INFO] Action: Erreur-Scan-LinkedIn | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:27:08 [INFO] Système de logs initialisé (Console + Fichier).
+2026-10-15 21:27:08 [INFO] Fichier seen.json introuvable. Création d'une nouvelle liste.
+2026-10-15 21:27:08 [INFO] Démarrage du scan Google News...
+2026-10-15 21:27:10 [INFO] Action: DATE-ILLISIBLE | HASH: a244a56bbc0ca9fbdb18 | TITRE: Date illisible, envoi dégradé - CANULAR : Ce site n'est pas le portail de recrut
+2026-10-15 21:27:10 [INFO] Action: Erreur-mail | HASH: a244a56bbc0ca9fbdb18 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:27:10 [INFO] Action: Erreur-Scan-GoogleNews | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:27:17 [INFO] Action: DATE-ILLISIBLE | HASH: 283693a3c3627834a35a | TITRE: Date illisible, envoi dégradé - Jeunesse et emploi : Orange Burkina Faso, à trav
+2026-10-15 21:27:17 [INFO] Action: Erreur-mail | HASH: 283693a3c3627834a35a | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:27:17 [INFO] Action: Erreur-Scan-GoogleNews | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:27:23 [INFO] Action: DATE-ILLISIBLE | HASH: e5a6138f3c0387a0bc75 | TITRE: Date illisible, envoi dégradé - Burkina Faso: les inquiétudes de Human Rights Wa
+2026-10-15 21:27:23 [INFO] Action: Erreur-mail | HASH: e5a6138f3c0387a0bc75 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:27:23 [INFO] Action: Erreur-Scan-GoogleNews | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:27:31 [INFO] Action: DATE-ILLISIBLE | HASH: b30322d864d99101fe8c | TITRE: Date illisible, envoi dégradé - Burkina Faso - Banque mondiale : un nouveau part
+2026-10-15 21:27:31 [INFO] Action: Erreur-mail | HASH: b30322d864d99101fe8c | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:27:31 [INFO] Action: Erreur-Scan-GoogleNews | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:27:37 [INFO] Action: DATE-ILLISIBLE | HASH: bc7a2a6ea16e5312bd12 | TITRE: Date illisible, envoi dégradé - Un stage de bronze à la cire perdue avec un fond
+2026-10-15 21:27:37 [INFO] Action: Erreur-mail | HASH: bc7a2a6ea16e5312bd12 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:27:37 [INFO] Action: Erreur-Scan-GoogleNews | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:27:44 [INFO] Action: DATE-ILLISIBLE | HASH: a3521665314e183ef21e | TITRE: Date illisible, envoi dégradé - Burkina Faso : 15 lauréates reçues au palais de 
+2026-10-15 21:27:44 [INFO] Action: Erreur-mail | HASH: a3521665314e183ef21e | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:27:44 [INFO] Action: Erreur-Scan-GoogleNews | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:27:51 [INFO] Action: DATE-ILLISIBLE | HASH: b30322d864d99101fe8c | TITRE: Date illisible, envoi dégradé - Burkina Faso - Banque mondiale : un nouveau part
+2026-10-15 21:27:51 [INFO] Action: Erreur-mail | HASH: b30322d864d99101fe8c | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:27:51 [INFO] Action: Erreur-Scan-GoogleNews | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:27:57 [INFO] Action: DATE-ILLISIBLE | HASH: 6018769d50cb49abb7b0 | TITRE: Date illisible, envoi dégradé - Carrières à l’OMS : Postuler à un poste - World 
+2026-10-15 21:27:57 [INFO] Action: DATE-ILLISIBLE | HASH: 3ec37d2e7c8e45dcc33d | TITRE: Date illisible, envoi dégradé - Le retrait français du Burkina Faso - Le Grand C
+2026-10-15 21:27:57 [INFO] Action: DATE-ILLISIBLE | HASH: d8034bf4cfd8a1224cdd | TITRE: Date illisible, envoi dégradé - Recrutement : Magasinier de pièces de rechange p
+2026-10-15 21:27:57 [INFO] Action: Erreur-mail | HASH: d8034bf4cfd8a1224cdd | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:27:57 [INFO] Action: Erreur-Scan-GoogleNews | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:28:05 [INFO] Action: DATE-ILLISIBLE | HASH: a937f2ca34038ee2889f | TITRE: Date illisible, envoi dégradé - Burkina Faso . Un Code du travail tout neuf | L'
+2026-10-15 21:28:05 [INFO] Action: DATE-ILLISIBLE | HASH: 381f0785a009503f44cb | TITRE: Date illisible, envoi dégradé - Quelques innovations majeures de la loi n°013-20
+2026-10-15 21:28:05 [INFO] Action: DATE-ILLISIBLE | HASH: ee273c33b1c737af486a | TITRE: Date illisible, envoi dégradé - Le Burkina Faso adopte un nouveau Code du travai
+2026-10-15 21:28:05 [INFO] Action: DATE-ILLISIBLE | HASH: 9c330e9beb1bfdb1f0ae | TITRE: Date illisible, envoi dégradé - Code du travail au Burkina Faso : Le projet de l
+2026-10-15 21:28:05 [INFO] Action: DATE-ILLISIBLE | HASH: 1e9b2f79dce1a44200bb | TITRE: Date illisible, envoi dégradé - Communiqué | SONABEL : recrutement de 120 Ouvrie
+2026-10-15 21:28:05 [INFO] Action: Erreur-mail | HASH: 1e9b2f79dce1a44200bb | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:28:05 [INFO] Action: Erreur-Scan-GoogleNews | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:28:11 [INFO] Action: DATE-ILLISIBLE | HASH: 6cc0a39de1366c6c4215 | TITRE: Date illisible, envoi dégradé - Burkina Faso : la CDI-BF clôture 2025 avec un bé
+2026-10-15 21:28:11 [INFO] Action: Erreur-mail | HASH: 6cc0a39de1366c6c4215 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:28:11 [INFO] Action: Erreur-Scan-GoogleNews | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:28:18 [INFO] Action: DATE-ILLISIBLE | HASH: 5931744faff6b007df51 | TITRE: Date illisible, envoi dégradé - Burkina: les étudiants doivent désormais obtenir
+2026-10-15 21:28:18 [INFO] Action: DATE-ILLISIBLE | HASH: 8af325d19e90a80cca66 | TITRE: Date illisible, envoi dégradé - Burkina Faso: les étudiants désormais obligés d'
+2026-10-15 21:28:18 [INFO] Action: DATE-ILLISIBLE | HASH: 77eb30963b7f6f2702cf | TITRE: Date illisible, envoi dégradé - Burkina/Enseignement supérieur : Moov Africa-ONA
+2026-10-15 21:28:18 [INFO] Action: Erreur-mail | HASH: 77eb30963b7f6f2702cf | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:28:18 [INFO] Action: Erreur-Scan-GoogleNews | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:28:25 [INFO] Action: DATE-ILLISIBLE | HASH: ab587845412047783a56 | TITRE: Date illisible, envoi dégradé - Burkina : autorisation obligatoire pour étudier 
+2026-10-15 21:28:25 [INFO] Action: DATE-ILLISIBLE | HASH: ca4af9feac2ca582e3d9 | TITRE: Date illisible, envoi dégradé - Burkina Faso. Aval obligatoire du gouvernement p
+2026-10-15 21:28:25 [INFO] Action: DATE-ILLISIBLE | HASH: e613a15463721fc6aa33 | TITRE: Date illisible, envoi dégradé - Burkina Faso : la Fondation Orange lance des bou
+2026-10-15 21:28:25 [INFO] Action: Erreur-mail | HASH: e613a15463721fc6aa33 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:28:25 [INFO] Action: Erreur-Scan-GoogleNews | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:28:33 [INFO] Action: DATE-ILLISIBLE | HASH: aca69087b58bc43b965a | TITRE: Date illisible, envoi dégradé - Bon à savoir : des metiers, emplois, postes de t
+2026-10-15 21:28:33 [INFO] Action: Erreur-mail | HASH: aca69087b58bc43b965a | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:28:33 [INFO] Action: Erreur-Scan-Facebook | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:28:43 [INFO] Action: DATE-ILLISIBLE | HASH: 9700d5364702669c71eb | TITRE: Date illisible, envoi dégradé - 🚛 *OPPORTUNITÉ D'EMPLOI | RECRUTEMENT DE CONDUCT
+2026-10-15 21:28:43 [INFO] Action: Erreur-mail | HASH: 9700d5364702669c71eb | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:28:43 [INFO] Action: Erreur-Scan-Facebook | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:28:51 [INFO] Action: DATE-ILLISIBLE | HASH: 9700d5364702669c71eb | TITRE: Date illisible, envoi dégradé - 🚛 *OPPORTUNITÉ D'EMPLOI | RECRUTEMENT DE CONDUCT
+2026-10-15 21:28:51 [INFO] Action: Erreur-mail | HASH: 9700d5364702669c71eb | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:28:51 [INFO] Action: Erreur-Scan-Facebook | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:28:59 [INFO] Action: DATE-ILLISIBLE | HASH: aca69087b58bc43b965a | TITRE: Date illisible, envoi dégradé - Bon à savoir : des metiers, emplois, postes de t
+2026-10-15 21:28:59 [INFO] Action: Erreur-mail | HASH: aca69087b58bc43b965a | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:28:59 [INFO] Action: Erreur-Scan-Facebook | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:29:07 [INFO] Action: DATE-ILLISIBLE | HASH: 993058937e0b752b9248 | TITRE: Date illisible, envoi dégradé - Le stage de formation sur la technologie de Junc
+2026-10-15 21:29:07 [INFO] Action: Erreur-mail | HASH: 993058937e0b752b9248 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:29:07 [INFO] Action: Erreur-Scan-Facebook | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:29:15 [INFO] Action: DATE-ILLISIBLE | HASH: cba3cbbfedc7a46f0c27 | TITRE: Date illisible, envoi dégradé - Programme de #répartition par sous-centre et par
+2026-10-15 21:29:15 [INFO] Action: DATE-ILLISIBLE | HASH: 7aa7ebbe834d4d9f74e0 | TITRE: Date illisible, envoi dégradé - En juin 2026, le Burkina Faso suspend les concou
+2026-10-15 21:29:15 [INFO] Action: Erreur-mail | HASH: 7aa7ebbe834d4d9f74e0 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:29:15 [INFO] Action: Erreur-Scan-Facebook | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:29:23 [INFO] Action: DATE-ILLISIBLE | HASH: 1311104f14c91fdf47bd | TITRE: Date illisible, envoi dégradé - UNICEF Burkina Faso recrute pour son bureau de O
+2026-10-15 21:29:23 [INFO] Action: Erreur-mail | HASH: 1311104f14c91fdf47bd | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:29:23 [INFO] Action: Erreur-Scan-Facebook | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:29:33 [INFO] Action: DATE-ILLISIBLE | HASH: e952dda1c7ce1199d239 | TITRE: Date illisible, envoi dégradé - We are hiring !! U.S. Embassy Burkina Faso is se
+2026-10-15 21:29:33 [INFO] Action: Erreur-mail | HASH: e952dda1c7ce1199d239 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:29:34 [INFO] Action: Erreur-Scan-Facebook | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:29:43 [INFO] Action: DATE-ILLISIBLE | HASH: bacbd59417c7128e4b50 | TITRE: Date illisible, envoi dégradé - Code du travail au Burkina Faso Le Burkina Faso 
+2026-10-15 21:29:43 [INFO] Action: DATE-ILLISIBLE | HASH: 5390910994f269540a90 | TITRE: Date illisible, envoi dégradé - INNOVATIONS DU NOUVEAU CODE DU TRAVAIL DU BURKIN
+2026-10-15 21:29:44 [INFO] Action: Erreur-mail | HASH: 5390910994f269540a90 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:29:44 [INFO] Action: Erreur-Scan-Facebook | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:29:53 [INFO] Action: DATE-ILLISIBLE | HASH: 90e2f48e07018c72c972 | TITRE: Date illisible, envoi dégradé - 𝐏𝐫𝐨𝐛𝐥é𝐦𝐚𝐭𝐢𝐪𝐮𝐞 𝐝𝐮 𝐥𝐨𝐠𝐞𝐦𝐞𝐧𝐭 𝐚𝐮 𝐁𝐮𝐫𝐤𝐢𝐧𝐚 𝐅𝐚𝐬𝐨 : 𝐋𝐚 𝐂
+2026-10-15 21:29:53 [INFO] Action: Erreur-mail | HASH: 90e2f48e07018c72c972 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:29:53 [INFO] Action: Erreur-Scan-Facebook | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:30:01 [INFO] Action: DATE-ILLISIBLE | HASH: 101542983b477776c392 | TITRE: Date illisible, envoi dégradé - 𝐁𝐨𝐬𝐬, est-ce que tu sais que tu peux avoir une b
+2026-10-15 21:30:01 [INFO] Action: Erreur-mail | HASH: 101542983b477776c392 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:30:01 [INFO] Action: Erreur-Scan-Facebook | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:30:09 [INFO] Action: DATE-ILLISIBLE | HASH: 05d504146598df56d55d | TITRE: Date illisible, envoi dégradé - RTB. . HEBDO BOURSE du 11 octobre 2026 - Faceboo
+2026-10-15 21:30:09 [INFO] Action: Erreur-mail | HASH: 05d504146598df56d55d | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:30:10 [INFO] Action: Erreur-Scan-Facebook | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:30:20 [INFO] Action: DATE-ILLISIBLE | HASH: a88c3824652abae94c60 | TITRE: Date illisible, envoi dégradé - TotalEnergies - LinkedIn
+2026-10-15 21:30:20 [INFO] Action: DATE-ILLISIBLE | HASH: 9642d4f14a73c6e90e03 | TITRE: Date illisible, envoi dégradé - Recrutement d’un Cabinet de ressource humaine au
+2026-10-15 21:30:20 [INFO] Action: Erreur-mail | HASH: 9642d4f14a73c6e90e03 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:30:20 [INFO] Action: Erreur-Scan-LinkedIn | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:30:28 [INFO] Action: DATE-ILLISIBLE | HASH: c57a9e42f9da3b2f83b8 | TITRE: Date illisible, envoi dégradé - Faso Emplois | Job Connect hiring APPEL À CANDID
+2026-10-15 21:30:29 [INFO] Action: Erreur-mail | HASH: c57a9e42f9da3b2f83b8 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:30:29 [INFO] Action: Erreur-Scan-LinkedIn | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:30:37 [INFO] Action: DATE-ILLISIBLE | HASH: 9642d4f14a73c6e90e03 | TITRE: Date illisible, envoi dégradé - Recrutement d’un Cabinet de ressource humaine au
+2026-10-15 21:30:37 [INFO] Action: Erreur-mail | HASH: 9642d4f14a73c6e90e03 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:30:37 [INFO] Action: Erreur-Scan-LinkedIn | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:30:46 [INFO] Action: DATE-ILLISIBLE | HASH: a88c3824652abae94c60 | TITRE: Date illisible, envoi dégradé - TotalEnergies - LinkedIn
+2026-10-15 21:30:46 [INFO] Action: DATE-ILLISIBLE | HASH: 9642d4f14a73c6e90e03 | TITRE: Date illisible, envoi dégradé - Recrutement d’un Cabinet de ressource humaine au
+2026-10-15 21:30:46 [INFO] Action: Erreur-mail | HASH: 9642d4f14a73c6e90e03 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:30:46 [INFO] Action: Erreur-Scan-LinkedIn | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:30:53 [INFO] Action: DATE-ILLISIBLE | HASH: e95c17b21d5dc5b65de3 | TITRE: Date illisible, envoi dégradé - ✨ Je suis ravie d'annoncer le début de mon stage
+2026-10-15 21:30:53 [INFO] Action: Erreur-mail | HASH: e95c17b21d5dc5b65de3 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:30:53 [INFO] Action: Erreur-Scan-LinkedIn | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:31:00 [INFO] Action: DATE-ILLISIBLE | HASH: 6f0dd50cd1d68c3c4488 | TITRE: Date illisible, envoi dégradé - AVIS D’APPEL À CANDIDATURES CONCOURS PRIVÉ D’ARC
+2026-10-15 21:31:00 [INFO] Action: Erreur-mail | HASH: 6f0dd50cd1d68c3c4488 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:31:00 [INFO] Action: Erreur-Scan-LinkedIn | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:31:11 [INFO] Action: DATE-ILLISIBLE | HASH: a88c3824652abae94c60 | TITRE: Date illisible, envoi dégradé - TotalEnergies - LinkedIn
+2026-10-15 21:31:11 [INFO] Action: DATE-ILLISIBLE | HASH: 3212f5530ab291b879e4 | TITRE: Date illisible, envoi dégradé - Postes de Burkina Faso (France) : (11,000+ poste
+2026-10-15 21:31:11 [INFO] Action: DATE-ILLISIBLE | HASH: 0c622ff294a0a6b26f6a | TITRE: Date illisible, envoi dégradé - Alerte Job Africa - LinkedIn
+2026-10-15 21:31:12 [INFO] Action: Erreur-mail | HASH: 0c622ff294a0a6b26f6a | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:31:12 [INFO] Action: Erreur-Scan-LinkedIn | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:31:23 [INFO] Action: DATE-ILLISIBLE | HASH: a88c3824652abae94c60 | TITRE: Date illisible, envoi dégradé - TotalEnergies - LinkedIn
+2026-10-15 21:31:23 [INFO] Action: DATE-ILLISIBLE | HASH: f6f000cacf82527b56aa | TITRE: Date illisible, envoi dégradé - Renforcement de la protection des civils au Burk
+2026-10-15 21:31:23 [INFO] Action: DATE-ILLISIBLE | HASH: 4d7111ba79e68e43b342 | TITRE: Date illisible, envoi dégradé - Nous #recrutons #hiring ! Connaissez-vous quelqu
+2026-10-15 21:31:23 [INFO] Action: Erreur-mail | HASH: 4d7111ba79e68e43b342 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:31:23 [INFO] Action: Erreur-Scan-LinkedIn | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:31:33 [INFO] Action: DATE-ILLISIBLE | HASH: ef20e1c152a1a1e1b7c3 | TITRE: Date illisible, envoi dégradé - MARIAM .L. LINGANI - JURISTE: Recherche Stage , 
+2026-10-15 21:31:33 [INFO] Action: Erreur-mail | HASH: ef20e1c152a1a1e1b7c3 | TITRE: module 'datetime' has no attribute 'now'
+2026-10-15 21:31:33 [INFO] Action: Erreur-Scan-LinkedIn | HASH: N/A | TITRE: module 'datetime' has no attribute 'now'
+2026-10-16 11:28:03 [INFO] Système de logs initialisé (Console + Fichier).
+2026-10-16 11:28:03 [INFO] Fichier seen.json introuvable. Création d'une nouvelle liste.
+2026-10-16 11:28:03 [INFO] Démarrage du scan Google News...
+2026-10-17 10:24:09 [INFO] Démarrage du scan GitHub...
+2026-10-17 10:24:09 [INFO] Action: Erreur-Scan-GitHub | HASH: N/A | TITRE: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with 
+2026-10-17 10:24:09 [INFO] Système de logs initialisé (Console + Fichier).
+2026-10-17 10:24:09 [INFO] Démarrage du scan Google News...
