@@ -4,18 +4,12 @@ from config import BLACKLIST, KEYWORDS, MAX_PAR_JOUR, QUERY_PAYS, SOCIAUX
 import feedparser
 from datetime import datetime
 import logging
-
 from logging_config import log_securite
 from notifier.emailer import mail
 from notifier.telegram import telegram
 from ocr import lire_texte_dans_image
 from storage import get_compteur, inc_compteur
 from utils import empreinte
-
-# from bf_job_bot.config import KEYWORDS, SOCIAUX, QUERY_PAYS, BLACKLIST, MAX_PAR_JOUR
-# from bf_job_bot.storage import empreinte, get_compteur, inc_compteur, seen_save
-# from bf_job_bot.analyser import analyse_offre, extraire_images_de_entry, lire_texte_dans_image
-# from bf_job_bot.utils import log_securite, mail, telegram # (ou tes modules de notif correspondants)
 
 def scan_google_news(seen: dict):
     """

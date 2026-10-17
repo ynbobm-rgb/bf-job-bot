@@ -10,7 +10,7 @@ import os
 def get_compteur():
     try:
         data = json.load(open(COMPTEUR_FILE))
-        if data.get("date") == datetime.now().strftime("%Y-%m-%d"):
+        if data.get("date") == datetime.datetime.now().strftime("%Y-%m-%d"):
             return data.get("count", 0)
         else:
             return 0 # Nouveau jour
@@ -20,7 +20,7 @@ def get_compteur():
 # Fonction pour incrementer le compteur
 def inc_compteur():
     count = get_compteur() + 1
-    json.dump({"date": datetime.now().strftime("%Y-%m-%d"), "count": count}, open(COMPTEUR_FILE, "w"))
+    json.dump({"date": datetime.datetime.now().strftime("%Y-%m-%d"), "count": count}, open(COMPTEUR_FILE, "w"))
     return count
 
 
@@ -42,7 +42,7 @@ def limit():
             body = f"""<h2>Bot BF-JOB - Fichier seen.json trop gros</h2>
             <p>Taille: {taille_mo:.2f} Mo (limite {LIMITE_TAILLE_MO} Mo)</p>
             <p>Je vide le fichier pour libérer l'espace sur Render.</p>
-            <p>Date: {datetime.now()}</p>
+            <p>Date: {datetime.datetime.now()}</p>
             <hr>
             <pre>{contenu[:5000]}... (tronqué)</pre>
             """
@@ -51,7 +51,7 @@ def limit():
             telegram(f"[MAINTENANCE] seen.json {taille_mo:.2f}Mo - Nettoyage", "https://render.com", f"Maintenance - {taille_mo:.2f}Mo", "MAINTENANCE")
             
             # 2. Sauvegarde backup local (optionnel)
-            backup_name = f"seen_backup_{datetime.now().strftime('%Y%m%d')}.json"
+            backup_name = f"seen_backup_{datetime.datetime.now().strftime('%Y%m%d')}.json"
             os.rename(SEEN, backup_name)
             
             # 3. Vide pour libérer
