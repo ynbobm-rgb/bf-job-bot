@@ -1,6 +1,6 @@
 import time
 import requests
-from datetime import datetime
+import datetime
 import logging
 
 from config import KEYWORDS, MAX_PAR_JOUR, QUERY_PAYS
@@ -31,7 +31,7 @@ def scan_github(seen: dict):
             if h in seen:
                 continue
                 
-            seen[h] = {"titre": titre, "lien": lien, "date": str(datetime.now()), "source": "GitHub"}
+            seen[h] = {"titre": titre, "lien": lien, "date": str(datetime.datetime.now()), "source": "GitHub"}
             log_securite("VALIDE-GitHub", titre, h)
             mail(titre, lien, "GitHub", h)
             telegram(titre, lien, "GitHub", h)

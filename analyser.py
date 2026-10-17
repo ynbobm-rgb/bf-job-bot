@@ -26,13 +26,13 @@ def extraire_date_du_texte(texte):
                         date_str = date_str.replace(nom, num)
                     # maintenant date_str est "12 01 2024"
                     try:
-                        return datetime.strptime(date_str, "%d %m %Y")
+                        return datetime.datetime.strptime(date_str, "%d %m %Y")
                     except:
                         continue
                 # parser en JJMMAAAA
                 for fmt in ("%d/%m/%Y", "%d-%m-%Y", "%d/%m/%y", "%d-%m-%y"):
                     try:
-                        return datetime.strptime(date_str, fmt)
+                        return datetime.datetime.strptime(date_str, fmt)
                     except:
                         continue
             except:
@@ -44,9 +44,9 @@ def extraire_date_du_texte(texte):
 def analyse_offre(entry, texte_complet=None):
     # temps de pub
     try:
-        temp_publication = datetime(*entry.published_parsed[:6])
+        temp_publication = datetime.datetime(*entry.published_parsed[:6])
     except:
-        temp_publication = datetime.now()
+        temp_publication = datetime.datetime.now()
     
     # temps de debut = temps de pub
     temp_debut = temp_publication
@@ -61,7 +61,7 @@ def analyse_offre(entry, texte_complet=None):
         temp_fin = temp_debut + timedelta(days=21)
     
     # temps actuel
-    temp_actuel = datetime.now()
+    temp_actuel = datetime.datetime.now()
 
     # analyse
     est_valide = temp_actuel < temp_fin and temp_actuel >= temp_debut
