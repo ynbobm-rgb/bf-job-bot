@@ -4,7 +4,12 @@ on:
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
-
+permissions: 
+  contents: write
+concurrency:
+  group: bf-job-bot
+  cancel-in-progress: false
+  
 jobs:
   run:
     runs-on: ubuntu-latest
