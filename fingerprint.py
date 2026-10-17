@@ -1,7 +1,6 @@
 import os
 import json
-
-FINGERPRINT_FILE = os.getenv("FINGERPRINT_FILE", "fingerprints.json")
+from config import FINGERPRINT_FILE
 
 
 def _load_fingerprints():

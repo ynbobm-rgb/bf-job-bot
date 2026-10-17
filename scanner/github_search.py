@@ -9,6 +9,7 @@ from notifier.emailer import mail
 from notifier.telegram import telegram
 from storage import get_compteur, inc_compteur
 from utils import empreinte
+from fingerprint import fingerprint_exists
 
 def scan_github(seen: dict):
     """
@@ -27,14 +28,20 @@ def scan_github(seen: dict):
             titre = repo["name"]
             lien = repo["html_url"]
             h = empreinte(titre, lien)
-            
+            if fingerprint_exists(h):
+                log_securite("Exists-GitHub", titre, h)
+                continue
             if h in seen:
                 continue
                 
             seen[h] = {"titre": titre, "lien": lien, "date": str(datetime.datetime.now()), "source": "GitHub"}
-            log_securite("VALIDE-GitHub", titre, h)
-            mail(titre, lien, "GitHub", h)
-            telegram(titre, lien, "GitHub", h)
+            if not fingerprint_exists(h):
+                log_securite("VALIDE-GitHub", titre, h)
+                mail(titre, lien, "GitHub", h)
+                telegram(titre, lien, "GitHub", h)
+            else:
+                log_securite("Exists-GitHub", titre, h)
+                continue
             
             inc_compteur()
             if get_compteur() >= MAX_PAR_JOUR:

@@ -32,6 +32,8 @@ TO = os.getenv("EMAIL_TO")
 
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
+FINGERPRINT_FILE = os.getenv("FINGERPRINT_FILE", "fingerprints.json")
+
 MAX_PAR_JOUR = 20
 COMPTEUR_FILE = "cmtr.json"
 LIMITE_TAILLE_MO = 3  # 5 Mo

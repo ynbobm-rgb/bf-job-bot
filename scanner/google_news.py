@@ -4,12 +4,14 @@ from config import BLACKLIST, KEYWORDS, MAX_PAR_JOUR, QUERY_PAYS, SOCIAUX
 import feedparser
 import datetime
 import logging
+from fingerprint import fingerprint_exists
 from logging_config import log_securite
 from notifier.emailer import mail
 from notifier.telegram import telegram
 from ocr import lire_texte_dans_image
 from storage import get_compteur, inc_compteur
 from utils import empreinte
+from fingerprint import fingerprint_exists
 
 def scan_google_news(seen: dict):
     """
@@ -30,6 +32,9 @@ def scan_google_news(seen: dict):
                 feed = feedparser.parse(rss_url)
                 for e in feed.entries[:5]:
                     h = empreinte(e.title, e.link)
+                    if fingerprint_exists(h):
+                        log_securite("Exists-GitHub", e.title, h)
+                        continue
                     if h in seen:
                         continue
 
@@ -53,7 +58,7 @@ def scan_google_news(seen: dict):
                         analyse = analyse_offre(e, texte_a_analyser)
                     except Exception as e_date:
                         log_securite("DATE-ILLISIBLE", f"Date illisible, envoi dégradé - {e.title}", h)
-                        if any(mot.lower() in texte_a_analyser.lower() for mot in KEYWORDS):
+                        if any(mot.lower() in texte_a_analyser.lower() for mot in KEYWORDS) and not fingerprint_exists(h):
                             mail(f"{e.title} [A VERIFIER - Photo illisible]", e.link, f"{nom_radar} - Dégradé", h)
                             telegram(f"{e.title} [A VERIFIER - Photo illisible]", e.link, f"{nom_radar} - Dégradé", h)
                             inc_compteur()
