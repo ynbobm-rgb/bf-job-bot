@@ -62,34 +62,40 @@ def limit():
         log_securite("Erreur-Limit", str(e), "N/A")
 
 
-def seen_load() -> set:
+def seen_load() -> dict:
     """
-    Charge la liste des offres déjà vues depuis le fichier JSON.
-    Retourne un set (ensemble) pour optimiser la rapidité de recherche, 
-    ou un set vide s'il y a une erreur ou si le fichier n'existe pas.
+    Charge le fichier seen.json.
+    Retourne un dictionnaire mapping fingerprint -> metadata (dict).
+    Compatible avec deux formats historiques :
+     - si le fichier contient une liste de fingerprints, on convertit en {fp: {}}
+     - si le fichier contient déjà un dict, on le retourne tel quel
     """
     if not os.path.exists(SEEN):
-        logging.info("Fichier seen.json introuvable. Création d'une nouvelle liste.")
-        return set()
-    
+        logging.info("Fichier seen.json introuvable. Création d'une nouvelle table.")
+        return {}
+
     try:
         with open(SEEN, "r", encoding="utf-8") as f:
             data = json.load(f)
-            # On s'assure qu'on retourne bien un ensemble (set)
-            return set(data) if isinstance(data, list) else set()
+            if isinstance(data, dict):
+                return data
+            if isinstance(data, list):
+                # ancien format : liste de fingerprints -> on convertit en dict vide par clef
+                return {fp: {} for fp in data}
+            # format inattendu -> retourne vide
+            return {}
     except Exception as e:
         logging.error(f"Erreur lors du chargement de {SEEN} : {e}")
-        return set()
+        return {}
 
-def seen_save(seen_set: set):
+
+def seen_save(seen_dict: dict):
     """
-    Sauvegarde l'ensemble des offres vues dans le fichier JSON 
-    en le convertissant proprement en liste.
+    Sauvegarde le dictionnaire seen dans le fichier JSON.
     """
     try:
         with open(SEEN, "w", encoding="utf-8") as f:
-            # Le format JSON ne comprend pas les 'set', on les convertit donc en 'list'
-            json.dump(list(seen_set), f, ensure_ascii=False, indent=4)
+            json.dump(seen_dict, f, ensure_ascii=False, indent=4)
         logging.debug("Fichier seen.json sauvegardé avec succès.")
     except Exception as e:
         logging.error(f"Erreur lors de la sauvegarde de {SEEN} : {e}")
